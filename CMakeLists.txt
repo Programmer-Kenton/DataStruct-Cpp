@@ -1,0 +1,312 @@
+cmake_minimum_required(VERSION 3.27.8)
+project(08Wangdao)
+
+set(CMAKE_CXX_STANDARD 17)
+
+add_executable(main main.cpp
+        chapter02-Linear_List/02Linked_list/SingleLink/LeetCode/sumArray.cpp
+        chapter02-Linear_List/02Linked_list/SingleLink/LeetCode/orderList.cpp
+        chapter02-Linear_List/02Linked_list/SingleLink/LeetCode/superStair.cpp
+        chapter02-Linear_List/02Linked_list/SingleLink/LeetCode/binaryInvertPos.cpp
+        chapter02-Linear_List/02Linked_list/SingleLink/LeetCode/countBack_K.cpp
+        chapter02-Linear_List/02Linked_list/SingleLink/LeetCode/trainPlan.cpp
+        chapter02-Linear_List/02Linked_list/SingleLink/LeetCode/middleNode.cpp
+        chapter02-Linear_List/02Linked_list/SingleLink/LeetCode/delMiddleNode.cpp
+        chapter02-Linear_List/02Linked_list/SingleLink/LeetCode/removeElem.cpp
+        chapter02-Linear_List/02Linked_list/SingleLink/LeetCode/delNode.cpp
+        chapter02-Linear_List/02Linked_list/SingleLink/LeetCode/delRepeatEle.cpp
+        chapter02-Linear_List/02Linked_list/SingleLink/LeetCode/delCountBack_N.cpp
+        chapter02-Linear_List/02Linked_list/SingleLink/LeetCode/remRepeatNode.cpp
+        chapter02-Linear_List/02Linked_list/SingleLink/LeetCode/arrangeBook.cpp
+        chapter02-Linear_List/02Linked_list/SingleLink/LeetCode/reverseLink.cpp
+        chapter02-Linear_List/02Linked_list/SingleLink/LeetCode/trainPlain3.cpp
+        chapter02-Linear_List/02Linked_list/SingleLink/LeetCode/reverseLink2.cpp)
+
+add_executable(
+        testStaticSeqTable chapter02-Linear_List/01Sequence_table/test/testStaticSeqTable.cpp
+        chapter02-Linear_List/01Sequence_table/head/static_SeqTable.h
+        chapter02-Linear_List/01Sequence_table/source/static_SeqTable.cpp
+)
+
+add_executable(
+        testDynamicSeqTable chapter02-Linear_List/01Sequence_table/test/testDynamicSeqTable.cpp
+        chapter02-Linear_List/01Sequence_table/head/dynamic_SeqTable.h
+        chapter02-Linear_List/01Sequence_table/source/dynamic_SeqTable.cpp
+)
+
+add_executable(
+        oddProduct chapter02-Linear_List/01Sequence_table/LeetCode/oddProduct.cpp
+        chapter02-Linear_List/01Sequence_table/head/dynamic_SeqTable.h
+        chapter02-Linear_List/01Sequence_table/source/dynamic_SeqTable.cpp
+)
+
+add_executable(
+        valCount chapter02-Linear_List/01Sequence_table/LeetCode/valCount.cpp
+        chapter02-Linear_List/01Sequence_table/head/static_SeqTable.h
+        chapter02-Linear_List/01Sequence_table/source/static_SeqTable.cpp
+)
+
+add_executable(
+        singerMark chapter02-Linear_List/01Sequence_table/LeetCode/singerMark.cpp
+        chapter02-Linear_List/01Sequence_table/head/dynamic_SeqTable.h
+        chapter02-Linear_List/01Sequence_table/source/dynamic_SeqTable.cpp
+)
+
+add_executable(
+        guessNum chapter02-Linear_List/01Sequence_table/LeetCode/guessNum.cpp
+)
+
+add_executable(
+        takeCoin chapter02-Linear_List/01Sequence_table/LeetCode/takeCoin.cpp
+)
+
+add_executable(
+        minIndex chapter02-Linear_List/01Sequence_table/LeetCode/minIndex.cpp
+)
+
+add_executable(
+        maxNumofContinOne chapter02-Linear_List/01Sequence_table/LeetCode/maxNumofContinOne.cpp
+)
+
+add_executable(
+        absoluteK chapter02-Linear_List/01Sequence_table/LeetCode/absoluteK.cpp
+)
+
+add_executable(
+        maxProduct chapter02-Linear_List/01Sequence_table/LeetCode/maxProduct.cpp
+)
+
+add_executable(
+        absDifference chapter02-Linear_List/01Sequence_table/LeetCode/absDifference.cpp
+        chapter02-Linear_List/02Linked_list/DoubleLink/source/doubleLinkWithHead.cpp
+        chapter02-Linear_List/02Linked_list/DoubleLink/head/doubleLinkWithHead.h
+        chapter02-Linear_List/02Linked_list/DoubleLink/test/testDoubleLinkWithHead.cpp
+        chapter02-Linear_List/02Linked_list/DoubleLink/source/doubleLinkWithoutHead.cpp
+        chapter02-Linear_List/02Linked_list/DoubleLink/head/doubleLinkWithoutHead.h
+        chapter02-Linear_List/02Linked_list/CircularLink/Single/source/cirSingleLinkWithHead.cpp
+        chapter02-Linear_List/02Linked_list/CircularLink/Single/head/cirSingleLinkWithHead.h
+        chapter02-Linear_List/02Linked_list/CircularLink/Single/test/testCirSingleLinkWithHead.cpp
+        chapter02-Linear_List/02Linked_list/CircularLink/Double/source/cirDoubleLinkWithHead.cpp
+        chapter02-Linear_List/02Linked_list/CircularLink/Double/head/cirDoubleLinkWithHead.h
+        chapter02-Linear_List/02Linked_list/StaticLink/source/staticLinkWithHead.cpp
+        chapter02-Linear_List/02Linked_list/StaticLink/head/staticLinkWithHead.h
+        chapter03-stack-queue/Stack/source/staticStack.cpp
+        chapter03-stack-queue/Stack/head/staticStack.h
+        chapter03-stack-queue/Stack/test/testStaticStack.cpp
+        chapter03-stack-queue/Stack/source/staticSharedStack.cpp
+        chapter03-stack-queue/Stack/head/staticSharedStack.h
+        chapter03-stack-queue/Stack/test/teststaticSharedStack.cpp
+        chapter03-stack-queue/Stack/source/LinkStack.cpp
+        chapter03-stack-queue/Stack/head/LinkStack.h
+        chapter03-stack-queue/Stack/test/testLinkStack.cpp
+        chapter03-stack-queue/Stack/source/staticStack_Hero.cpp
+        chapter03-stack-queue/Stack/head/staticStack_Hero.h
+        chapter03-stack-queue/Stack/test/teststaticStack_Hero.cpp
+        chapter03-stack-queue/Stack/source/LinkStack_Hero.cpp
+        chapter03-stack-queue/Stack/head/LinkStack_Hero.h
+        chapter03-stack-queue/Stack/test/testLinkStack_Hero.cpp
+        chapter03-stack-queue/Stack/test/testCppStack.cpp
+        chapter03-stack-queue/Stack/LeetCode/decToBinary.cpp
+        chapter03-stack-queue/Stack/LeetCode/decToAny.cpp
+        chapter03-stack-queue/Stack/LeetCode/arrangeBook_Stack.cpp
+)
+
+add_executable(
+        sumK chapter02-Linear_List/01Sequence_table/LeetCode/sumK.cpp
+)
+
+add_executable(
+        triadCount chapter02-Linear_List/01Sequence_table/LeetCode/triadCount.cpp
+)
+
+add_executable(
+        removeEle chapter02-Linear_List/01Sequence_table/LeetCode/removeEle.cpp
+)
+
+add_executable(
+        buildArray chapter02-Linear_List/01Sequence_table/LeetCode/buildArray.cpp
+)
+
+add_executable(
+        arrayConcat chapter02-Linear_List/01Sequence_table/LeetCode/arrayConcat.cpp
+)
+
+add_executable(
+        candyKid chapter02-Linear_List/01Sequence_table/LeetCode/candyKid.cpp
+)
+
+add_executable(
+        arrayMiddle chapter02-Linear_List/01Sequence_table/LeetCode/arrayMiddle.cpp
+)
+
+add_executable(
+        singleEle chapter02-Linear_List/01Sequence_table/LeetCode/singleEle.cpp
+)
+
+add_executable(
+        yanghuiTriangle chapter02-Linear_List/01Sequence_table/LeetCode/yanghuiTriangle.cpp
+)
+
+add_executable(
+        testSingleLinkWithHead chapter02-Linear_List/02Linked_list/SingleLink/test/testSingleLinkWithHead.cpp
+        chapter02-Linear_List/02Linked_list/SingleLink/head/singleLinkWithHead.h
+        chapter02-Linear_List/02Linked_list/SingleLink/source/singleLinkWithHead.cpp
+)
+
+add_executable(
+        testSingleLinkWithoutHead chapter02-Linear_List/02Linked_list/SingleLink/test/testSingleLinkWithoutHead.cpp
+        chapter02-Linear_List/02Linked_list/SingleLink/head/singleLinkWithoutHead.h
+        chapter02-Linear_List/02Linked_list/SingleLink/source/singleLinkWithoutHead.cpp
+)
+
+add_executable(
+        sumArray chapter02-Linear_List/02Linked_list/SingleLink/LeetCode/sumArray.cpp
+        chapter02-Linear_List/02Linked_list/SingleLink/head/singleLinkWithHead.h
+        chapter02-Linear_List/02Linked_list/SingleLink/source/singleLinkWithHead.cpp
+)
+
+add_executable(
+        orderList chapter02-Linear_List/02Linked_list/SingleLink/LeetCode/orderList.cpp
+        chapter02-Linear_List/02Linked_list/SingleLink/head/singleLinkWithHead.h
+        chapter02-Linear_List/02Linked_list/SingleLink/source/singleLinkWithHead.cpp
+)
+
+add_executable(
+        superStair chapter02-Linear_List/02Linked_list/SingleLink/LeetCode/superStair.cpp
+        chapter02-Linear_List/02Linked_list/SingleLink/head/singleLinkWithHead.h
+        chapter02-Linear_List/02Linked_list/SingleLink/source/singleLinkWithHead.cpp
+)
+
+add_executable(
+        binaryInvertPos chapter02-Linear_List/02Linked_list/SingleLink/LeetCode/binaryInvertPos.cpp
+        chapter02-Linear_List/02Linked_list/SingleLink/head/singleLinkWithHead.h
+        chapter02-Linear_List/02Linked_list/SingleLink/source/singleLinkWithHead.cpp
+)
+
+add_executable(
+        countBack_K chapter02-Linear_List/02Linked_list/SingleLink/LeetCode/countBack_K.cpp
+        chapter02-Linear_List/02Linked_list/SingleLink/head/singleLinkWithHead.h
+        chapter02-Linear_List/02Linked_list/SingleLink/source/singleLinkWithHead.cpp
+)
+
+add_executable(
+        trainPlan chapter02-Linear_List/02Linked_list/SingleLink/LeetCode/trainPlan.cpp
+        chapter02-Linear_List/02Linked_list/SingleLink/head/singleLinkWithHead.h
+        chapter02-Linear_List/02Linked_list/SingleLink/source/singleLinkWithHead.cpp
+)
+
+add_executable(
+        middleNode chapter02-Linear_List/02Linked_list/SingleLink/LeetCode/middleNode.cpp
+        chapter02-Linear_List/02Linked_list/SingleLink/head/singleLinkWithHead.h
+        chapter02-Linear_List/02Linked_list/SingleLink/source/singleLinkWithHead.cpp
+)
+
+add_executable(
+        delMiddleNode chapter02-Linear_List/02Linked_list/SingleLink/LeetCode/delMiddleNode.cpp
+        chapter02-Linear_List/02Linked_list/SingleLink/head/singleLinkWithHead.h
+        chapter02-Linear_List/02Linked_list/SingleLink/source/singleLinkWithHead.cpp
+)
+
+add_executable(
+        removeElem chapter02-Linear_List/02Linked_list/SingleLink/LeetCode/removeElem.cpp
+        chapter02-Linear_List/02Linked_list/SingleLink/head/singleLinkWithHead.h
+        chapter02-Linear_List/02Linked_list/SingleLink/source/singleLinkWithHead.cpp
+)
+
+add_executable(
+        delNode chapter02-Linear_List/02Linked_list/SingleLink/LeetCode/delNode.cpp
+        chapter02-Linear_List/02Linked_list/SingleLink/head/singleLinkWithHead.h
+        chapter02-Linear_List/02Linked_list/SingleLink/source/singleLinkWithHead.cpp
+)
+
+add_executable(
+        delRepeatEle chapter02-Linear_List/02Linked_list/SingleLink/LeetCode/delRepeatEle.cpp
+        chapter02-Linear_List/02Linked_list/SingleLink/head/singleLinkWithHead.h
+        chapter02-Linear_List/02Linked_list/SingleLink/source/singleLinkWithHead.cpp
+)
+
+add_executable(
+        delCountBack_N chapter02-Linear_List/02Linked_list/SingleLink/LeetCode/delCountBack_N.cpp
+        chapter02-Linear_List/02Linked_list/SingleLink/head/singleLinkWithHead.h
+        chapter02-Linear_List/02Linked_list/SingleLink/source/singleLinkWithHead.cpp
+)
+
+add_executable(
+        remRepeatNode chapter02-Linear_List/02Linked_list/SingleLink/LeetCode/remRepeatNode.cpp
+        chapter02-Linear_List/02Linked_list/SingleLink/head/singleLinkWithHead.h
+        chapter02-Linear_List/02Linked_list/SingleLink/source/singleLinkWithHead.cpp
+)
+
+add_executable(
+        arrangeBook chapter02-Linear_List/02Linked_list/SingleLink/LeetCode/arrangeBook.cpp
+        chapter02-Linear_List/02Linked_list/SingleLink/head/singleLinkWithHead.h
+        chapter02-Linear_List/02Linked_list/SingleLink/source/singleLinkWithHead.cpp
+)
+
+add_executable(
+        reverseLink chapter02-Linear_List/02Linked_list/SingleLink/LeetCode/reverseLink.cpp
+        chapter02-Linear_List/02Linked_list/SingleLink/head/singleLinkWithHead.h
+        chapter02-Linear_List/02Linked_list/SingleLink/source/singleLinkWithHead.cpp
+)
+
+add_executable(
+        testDoubleLinkWithHead.cpp chapter02-Linear_List/02Linked_list/DoubleLink/test/testDoubleLinkWithHead.cpp
+        chapter02-Linear_List/02Linked_list/DoubleLink/head/doubleLinkWithHead.h
+        chapter02-Linear_List/02Linked_list/DoubleLink/source/doubleLinkWithHead.cpp
+)
+
+add_executable(
+        trainPlan3 chapter02-Linear_List/02Linked_list/SingleLink/LeetCode/trainPlain3.cpp
+        chapter02-Linear_List/02Linked_list/SingleLink/head/singleLinkWithHead.h
+        chapter02-Linear_List/02Linked_list/SingleLink/source/singleLinkWithHead.cpp
+)
+
+add_executable(
+        reverseLink2 chapter02-Linear_List/02Linked_list/SingleLink/LeetCode/reverseLink2.cpp
+        chapter02-Linear_List/02Linked_list/SingleLink/head/singleLinkWithHead.h
+        chapter02-Linear_List/02Linked_list/SingleLink/source/singleLinkWithHead.cpp
+)
+
+add_executable(
+        testStaticStack chapter03-stack-queue/Stack/test/testStaticStack.cpp
+        chapter03-stack-queue/Stack/head/staticStack.h
+        chapter03-stack-queue/Stack/source/staticStack.cpp
+)
+
+add_executable(
+        teststaticSharedStack chapter03-stack-queue/Stack/test/teststaticSharedStack.cpp
+        chapter03-stack-queue/Stack/head/staticSharedStack.h
+        chapter03-stack-queue/Stack/source/staticSharedStack.cpp
+)
+
+add_executable(
+        testLinkStack chapter03-stack-queue/Stack/test/testLinkStack.cpp
+        chapter03-stack-queue/Stack/head/LinkStack.h
+        chapter03-stack-queue/Stack/source/LinkStack.cpp
+)
+
+add_executable(
+        teststaticStack_Hero chapter03-stack-queue/Stack/test/teststaticStack_Hero.cpp
+        chapter03-stack-queue/Stack/head/staticStack_Hero.h
+        chapter03-stack-queue/Stack/source/staticStack_Hero.cpp
+)
+
+add_executable(
+        testLinkStack_Hero chapter03-stack-queue/Stack/test/testLinkStack_Hero.cpp
+        chapter03-stack-queue/Stack/head/LinkStack_Hero.h
+        chapter03-stack-queue/Stack/source/LinkStack_Hero.cpp
+)
+
+add_executable(testCppStack chapter03-stack-queue/Stack/test/testCppStack.cpp)
+
+add_executable(
+        decToBinary chapter03-stack-queue/Stack/LeetCode/decToBinary.cpp
+        chapter03-stack-queue/Stack/head/LinkStack.h
+        chapter03-stack-queue/Stack/source/LinkStack.cpp
+)
+
+add_executable(
+        dectoAny chapter03-stack-queue/Stack/LeetCode/decToAny.cpp
+        chapter03-stack-queue/Stack/head/LinkStack.h
+        chapter03-stack-queue/Stack/source/LinkStack.cpp
+)
