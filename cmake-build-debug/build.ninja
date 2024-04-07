@@ -709,6 +709,36 @@ build CMakeFiles/absDifference.dir/chapter03-stack-queue/Stack/LeetCode/arrangeB
   OBJECT_DIR = CMakeFiles\absDifference.dir
   OBJECT_FILE_DIR = CMakeFiles\absDifference.dir\chapter03-stack-queue\Stack\LeetCode
 
+build CMakeFiles/absDifference.dir/chapter03-stack-queue/Stack/LeetCode/palindromeLink.cpp.obj: CXX_COMPILER__absDifference_unscanned_Debug D$:/C_Study/WorkSpace/Cpp_Study/08DataStruct/chapter03-stack-queue/Stack/LeetCode/palindromeLink.cpp || cmake_object_order_depends_target_absDifference
+  DEP_FILE = CMakeFiles\absDifference.dir\chapter03-stack-queue\Stack\LeetCode\palindromeLink.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\absDifference.dir
+  OBJECT_FILE_DIR = CMakeFiles\absDifference.dir\chapter03-stack-queue\Stack\LeetCode
+
+build CMakeFiles/absDifference.dir/chapter03-stack-queue/Stack/LeetCode/maxDepthBracket.cpp.obj: CXX_COMPILER__absDifference_unscanned_Debug D$:/C_Study/WorkSpace/Cpp_Study/08DataStruct/chapter03-stack-queue/Stack/LeetCode/maxDepthBracket.cpp || cmake_object_order_depends_target_absDifference
+  DEP_FILE = CMakeFiles\absDifference.dir\chapter03-stack-queue\Stack\LeetCode\maxDepthBracket.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\absDifference.dir
+  OBJECT_FILE_DIR = CMakeFiles\absDifference.dir\chapter03-stack-queue\Stack\LeetCode
+
+build CMakeFiles/absDifference.dir/chapter03-stack-queue/Stack/LeetCode/validBracket.cpp.obj: CXX_COMPILER__absDifference_unscanned_Debug D$:/C_Study/WorkSpace/Cpp_Study/08DataStruct/chapter03-stack-queue/Stack/LeetCode/validBracket.cpp || cmake_object_order_depends_target_absDifference
+  DEP_FILE = CMakeFiles\absDifference.dir\chapter03-stack-queue\Stack\LeetCode\validBracket.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\absDifference.dir
+  OBJECT_FILE_DIR = CMakeFiles\absDifference.dir\chapter03-stack-queue\Stack\LeetCode
+
+build CMakeFiles/absDifference.dir/chapter03-stack-queue/Queue/source/staticQueue.cpp.obj: CXX_COMPILER__absDifference_unscanned_Debug D$:/C_Study/WorkSpace/Cpp_Study/08DataStruct/chapter03-stack-queue/Queue/source/staticQueue.cpp || cmake_object_order_depends_target_absDifference
+  DEP_FILE = CMakeFiles\absDifference.dir\chapter03-stack-queue\Queue\source\staticQueue.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\absDifference.dir
+  OBJECT_FILE_DIR = CMakeFiles\absDifference.dir\chapter03-stack-queue\Queue\source
+
+build CMakeFiles/absDifference.dir/chapter03-stack-queue/Queue/test/testStaticQueue.cpp.obj: CXX_COMPILER__absDifference_unscanned_Debug D$:/C_Study/WorkSpace/Cpp_Study/08DataStruct/chapter03-stack-queue/Queue/test/testStaticQueue.cpp || cmake_object_order_depends_target_absDifference
+  DEP_FILE = CMakeFiles\absDifference.dir\chapter03-stack-queue\Queue\test\testStaticQueue.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\absDifference.dir
+  OBJECT_FILE_DIR = CMakeFiles\absDifference.dir\chapter03-stack-queue\Queue\test
+
 
 # =============================================================================
 # Link build statements for EXECUTABLE target absDifference
@@ -717,7 +747,7 @@ build CMakeFiles/absDifference.dir/chapter03-stack-queue/Stack/LeetCode/arrangeB
 #############################################
 # Link the executable absDifference.exe
 
-build absDifference.exe: CXX_EXECUTABLE_LINKER__absDifference_Debug CMakeFiles/absDifference.dir/chapter02-Linear_List/01Sequence_table/LeetCode/absDifference.cpp.obj CMakeFiles/absDifference.dir/chapter02-Linear_List/02Linked_list/DoubleLink/source/doubleLinkWithHead.cpp.obj CMakeFiles/absDifference.dir/chapter02-Linear_List/02Linked_list/DoubleLink/test/testDoubleLinkWithHead.cpp.obj CMakeFiles/absDifference.dir/chapter02-Linear_List/02Linked_list/DoubleLink/source/doubleLinkWithoutHead.cpp.obj CMakeFiles/absDifference.dir/chapter02-Linear_List/02Linked_list/CircularLink/Single/source/cirSingleLinkWithHead.cpp.obj CMakeFiles/absDifference.dir/chapter02-Linear_List/02Linked_list/CircularLink/Single/test/testCirSingleLinkWithHead.cpp.obj CMakeFiles/absDifference.dir/chapter02-Linear_List/02Linked_list/CircularLink/Double/source/cirDoubleLinkWithHead.cpp.obj CMakeFiles/absDifference.dir/chapter02-Linear_List/02Linked_list/StaticLink/source/staticLinkWithHead.cpp.obj CMakeFiles/absDifference.dir/chapter03-stack-queue/Stack/source/staticStack.cpp.obj CMakeFiles/absDifference.dir/chapter03-stack-queue/Stack/test/testStaticStack.cpp.obj CMakeFiles/absDifference.dir/chapter03-stack-queue/Stack/source/staticSharedStack.cpp.obj CMakeFiles/absDifference.dir/chapter03-stack-queue/Stack/test/teststaticSharedStack.cpp.obj CMakeFiles/absDifference.dir/chapter03-stack-queue/Stack/source/LinkStack.cpp.obj CMakeFiles/absDifference.dir/chapter03-stack-queue/Stack/test/testLinkStack.cpp.obj CMakeFiles/absDifference.dir/chapter03-stack-queue/Stack/source/staticStack_Hero.cpp.obj CMakeFiles/absDifference.dir/chapter03-stack-queue/Stack/test/teststaticStack_Hero.cpp.obj CMakeFiles/absDifference.dir/chapter03-stack-queue/Stack/source/LinkStack_Hero.cpp.obj CMakeFiles/absDifference.dir/chapter03-stack-queue/Stack/test/testLinkStack_Hero.cpp.obj CMakeFiles/absDifference.dir/chapter03-stack-queue/Stack/test/testCppStack.cpp.obj CMakeFiles/absDifference.dir/chapter03-stack-queue/Stack/LeetCode/decToBinary.cpp.obj CMakeFiles/absDifference.dir/chapter03-stack-queue/Stack/LeetCode/decToAny.cpp.obj CMakeFiles/absDifference.dir/chapter03-stack-queue/Stack/LeetCode/arrangeBook_Stack.cpp.obj
+build absDifference.exe: CXX_EXECUTABLE_LINKER__absDifference_Debug CMakeFiles/absDifference.dir/chapter02-Linear_List/01Sequence_table/LeetCode/absDifference.cpp.obj CMakeFiles/absDifference.dir/chapter02-Linear_List/02Linked_list/DoubleLink/source/doubleLinkWithHead.cpp.obj CMakeFiles/absDifference.dir/chapter02-Linear_List/02Linked_list/DoubleLink/test/testDoubleLinkWithHead.cpp.obj CMakeFiles/absDifference.dir/chapter02-Linear_List/02Linked_list/DoubleLink/source/doubleLinkWithoutHead.cpp.obj CMakeFiles/absDifference.dir/chapter02-Linear_List/02Linked_list/CircularLink/Single/source/cirSingleLinkWithHead.cpp.obj CMakeFiles/absDifference.dir/chapter02-Linear_List/02Linked_list/CircularLink/Single/test/testCirSingleLinkWithHead.cpp.obj CMakeFiles/absDifference.dir/chapter02-Linear_List/02Linked_list/CircularLink/Double/source/cirDoubleLinkWithHead.cpp.obj CMakeFiles/absDifference.dir/chapter02-Linear_List/02Linked_list/StaticLink/source/staticLinkWithHead.cpp.obj CMakeFiles/absDifference.dir/chapter03-stack-queue/Stack/source/staticStack.cpp.obj CMakeFiles/absDifference.dir/chapter03-stack-queue/Stack/test/testStaticStack.cpp.obj CMakeFiles/absDifference.dir/chapter03-stack-queue/Stack/source/staticSharedStack.cpp.obj CMakeFiles/absDifference.dir/chapter03-stack-queue/Stack/test/teststaticSharedStack.cpp.obj CMakeFiles/absDifference.dir/chapter03-stack-queue/Stack/source/LinkStack.cpp.obj CMakeFiles/absDifference.dir/chapter03-stack-queue/Stack/test/testLinkStack.cpp.obj CMakeFiles/absDifference.dir/chapter03-stack-queue/Stack/source/staticStack_Hero.cpp.obj CMakeFiles/absDifference.dir/chapter03-stack-queue/Stack/test/teststaticStack_Hero.cpp.obj CMakeFiles/absDifference.dir/chapter03-stack-queue/Stack/source/LinkStack_Hero.cpp.obj CMakeFiles/absDifference.dir/chapter03-stack-queue/Stack/test/testLinkStack_Hero.cpp.obj CMakeFiles/absDifference.dir/chapter03-stack-queue/Stack/test/testCppStack.cpp.obj CMakeFiles/absDifference.dir/chapter03-stack-queue/Stack/LeetCode/decToBinary.cpp.obj CMakeFiles/absDifference.dir/chapter03-stack-queue/Stack/LeetCode/decToAny.cpp.obj CMakeFiles/absDifference.dir/chapter03-stack-queue/Stack/LeetCode/arrangeBook_Stack.cpp.obj CMakeFiles/absDifference.dir/chapter03-stack-queue/Stack/LeetCode/palindromeLink.cpp.obj CMakeFiles/absDifference.dir/chapter03-stack-queue/Stack/LeetCode/maxDepthBracket.cpp.obj CMakeFiles/absDifference.dir/chapter03-stack-queue/Stack/LeetCode/validBracket.cpp.obj CMakeFiles/absDifference.dir/chapter03-stack-queue/Queue/source/staticQueue.cpp.obj CMakeFiles/absDifference.dir/chapter03-stack-queue/Queue/test/testStaticQueue.cpp.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\absDifference.dir
@@ -2110,6 +2140,117 @@ build dectoAny.exe: CXX_EXECUTABLE_LINKER__dectoAny_Debug CMakeFiles/dectoAny.di
   TARGET_IMPLIB = libdectoAny.dll.a
   TARGET_PDB = dectoAny.exe.dbg
 
+# =============================================================================
+# Object build statements for EXECUTABLE target arrangeBook_Stack
+
+
+#############################################
+# Order-only phony target for arrangeBook_Stack
+
+build cmake_object_order_depends_target_arrangeBook_Stack: phony || CMakeFiles/arrangeBook_Stack.dir
+
+build CMakeFiles/arrangeBook_Stack.dir/chapter03-stack-queue/Stack/LeetCode/arrangeBook_Stack.cpp.obj: CXX_COMPILER__arrangeBook_Stack_unscanned_Debug D$:/C_Study/WorkSpace/Cpp_Study/08DataStruct/chapter03-stack-queue/Stack/LeetCode/arrangeBook_Stack.cpp || cmake_object_order_depends_target_arrangeBook_Stack
+  DEP_FILE = CMakeFiles\arrangeBook_Stack.dir\chapter03-stack-queue\Stack\LeetCode\arrangeBook_Stack.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\arrangeBook_Stack.dir
+  OBJECT_FILE_DIR = CMakeFiles\arrangeBook_Stack.dir\chapter03-stack-queue\Stack\LeetCode
+
+build CMakeFiles/arrangeBook_Stack.dir/chapter02-Linear_List/02Linked_list/SingleLink/source/singleLinkWithHead.cpp.obj: CXX_COMPILER__arrangeBook_Stack_unscanned_Debug D$:/C_Study/WorkSpace/Cpp_Study/08DataStruct/chapter02-Linear_List/02Linked_list/SingleLink/source/singleLinkWithHead.cpp || cmake_object_order_depends_target_arrangeBook_Stack
+  DEP_FILE = CMakeFiles\arrangeBook_Stack.dir\chapter02-Linear_List\02Linked_list\SingleLink\source\singleLinkWithHead.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\arrangeBook_Stack.dir
+  OBJECT_FILE_DIR = CMakeFiles\arrangeBook_Stack.dir\chapter02-Linear_List\02Linked_list\SingleLink\source
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target arrangeBook_Stack
+
+
+#############################################
+# Link the executable arrangeBook_Stack.exe
+
+build arrangeBook_Stack.exe: CXX_EXECUTABLE_LINKER__arrangeBook_Stack_Debug CMakeFiles/arrangeBook_Stack.dir/chapter03-stack-queue/Stack/LeetCode/arrangeBook_Stack.cpp.obj CMakeFiles/arrangeBook_Stack.dir/chapter02-Linear_List/02Linked_list/SingleLink/source/singleLinkWithHead.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\arrangeBook_Stack.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = arrangeBook_Stack.exe
+  TARGET_IMPLIB = libarrangeBook_Stack.dll.a
+  TARGET_PDB = arrangeBook_Stack.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target palindromeLink
+
+
+#############################################
+# Order-only phony target for palindromeLink
+
+build cmake_object_order_depends_target_palindromeLink: phony || CMakeFiles/palindromeLink.dir
+
+build CMakeFiles/palindromeLink.dir/chapter03-stack-queue/Stack/LeetCode/palindromeLink.cpp.obj: CXX_COMPILER__palindromeLink_unscanned_Debug D$:/C_Study/WorkSpace/Cpp_Study/08DataStruct/chapter03-stack-queue/Stack/LeetCode/palindromeLink.cpp || cmake_object_order_depends_target_palindromeLink
+  DEP_FILE = CMakeFiles\palindromeLink.dir\chapter03-stack-queue\Stack\LeetCode\palindromeLink.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\palindromeLink.dir
+  OBJECT_FILE_DIR = CMakeFiles\palindromeLink.dir\chapter03-stack-queue\Stack\LeetCode
+
+build CMakeFiles/palindromeLink.dir/chapter02-Linear_List/02Linked_list/SingleLink/source/singleLinkWithHead.cpp.obj: CXX_COMPILER__palindromeLink_unscanned_Debug D$:/C_Study/WorkSpace/Cpp_Study/08DataStruct/chapter02-Linear_List/02Linked_list/SingleLink/source/singleLinkWithHead.cpp || cmake_object_order_depends_target_palindromeLink
+  DEP_FILE = CMakeFiles\palindromeLink.dir\chapter02-Linear_List\02Linked_list\SingleLink\source\singleLinkWithHead.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\palindromeLink.dir
+  OBJECT_FILE_DIR = CMakeFiles\palindromeLink.dir\chapter02-Linear_List\02Linked_list\SingleLink\source
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target palindromeLink
+
+
+#############################################
+# Link the executable palindromeLink.exe
+
+build palindromeLink.exe: CXX_EXECUTABLE_LINKER__palindromeLink_Debug CMakeFiles/palindromeLink.dir/chapter03-stack-queue/Stack/LeetCode/palindromeLink.cpp.obj CMakeFiles/palindromeLink.dir/chapter02-Linear_List/02Linked_list/SingleLink/source/singleLinkWithHead.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\palindromeLink.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = palindromeLink.exe
+  TARGET_IMPLIB = libpalindromeLink.dll.a
+  TARGET_PDB = palindromeLink.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target validBracket
+
+
+#############################################
+# Order-only phony target for validBracket
+
+build cmake_object_order_depends_target_validBracket: phony || CMakeFiles/validBracket.dir
+
+build CMakeFiles/validBracket.dir/chapter03-stack-queue/Stack/LeetCode/validBracket.cpp.obj: CXX_COMPILER__validBracket_unscanned_Debug D$:/C_Study/WorkSpace/Cpp_Study/08DataStruct/chapter03-stack-queue/Stack/LeetCode/validBracket.cpp || cmake_object_order_depends_target_validBracket
+  DEP_FILE = CMakeFiles\validBracket.dir\chapter03-stack-queue\Stack\LeetCode\validBracket.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\validBracket.dir
+  OBJECT_FILE_DIR = CMakeFiles\validBracket.dir\chapter03-stack-queue\Stack\LeetCode
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target validBracket
+
+
+#############################################
+# Link the executable validBracket.exe
+
+build validBracket.exe: CXX_EXECUTABLE_LINKER__validBracket_Debug CMakeFiles/validBracket.dir/chapter03-stack-queue/Stack/LeetCode/validBracket.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\validBracket.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = validBracket.exe
+  TARGET_IMPLIB = libvalidBracket.dll.a
+  TARGET_PDB = validBracket.exe.dbg
+
 
 #############################################
 # Utility command for edit_cache
@@ -2141,6 +2282,8 @@ build absDifference: phony absDifference.exe
 build absoluteK: phony absoluteK.exe
 
 build arrangeBook: phony arrangeBook.exe
+
+build arrangeBook_Stack: phony arrangeBook_Stack.exe
 
 build arrayConcat: phony arrayConcat.exe
 
@@ -2181,6 +2324,8 @@ build minIndex: phony minIndex.exe
 build oddProduct: phony oddProduct.exe
 
 build orderList: phony orderList.exe
+
+build palindromeLink: phony palindromeLink.exe
 
 build remRepeatNode: phony remRepeatNode.exe
 
@@ -2234,6 +2379,8 @@ build triadCount: phony triadCount.exe
 
 build valCount: phony valCount.exe
 
+build validBracket: phony validBracket.exe
+
 build yanghuiTriangle: phony yanghuiTriangle.exe
 
 # =============================================================================
@@ -2244,7 +2391,7 @@ build yanghuiTriangle: phony yanghuiTriangle.exe
 #############################################
 # Folder: D:/C_Study/WorkSpace/Cpp_Study/08DataStruct/cmake-build-debug
 
-build all: phony main.exe testStaticSeqTable.exe testDynamicSeqTable.exe oddProduct.exe valCount.exe singerMark.exe guessNum.exe takeCoin.exe minIndex.exe maxNumofContinOne.exe absoluteK.exe maxProduct.exe absDifference.exe sumK.exe triadCount.exe removeEle.exe buildArray.exe arrayConcat.exe candyKid.exe arrayMiddle.exe singleEle.exe yanghuiTriangle.exe testSingleLinkWithHead.exe testSingleLinkWithoutHead.exe sumArray.exe orderList.exe superStair.exe binaryInvertPos.exe countBack_K.exe trainPlan.exe middleNode.exe delMiddleNode.exe removeElem.exe delNode.exe delRepeatEle.exe delCountBack_N.exe remRepeatNode.exe arrangeBook.exe reverseLink.exe testDoubleLinkWithHead.cpp.exe trainPlan3.exe reverseLink2.exe testStaticStack.exe teststaticSharedStack.exe testLinkStack.exe teststaticStack_Hero.exe testLinkStack_Hero.exe testCppStack.exe decToBinary.exe dectoAny.exe
+build all: phony main.exe testStaticSeqTable.exe testDynamicSeqTable.exe oddProduct.exe valCount.exe singerMark.exe guessNum.exe takeCoin.exe minIndex.exe maxNumofContinOne.exe absoluteK.exe maxProduct.exe absDifference.exe sumK.exe triadCount.exe removeEle.exe buildArray.exe arrayConcat.exe candyKid.exe arrayMiddle.exe singleEle.exe yanghuiTriangle.exe testSingleLinkWithHead.exe testSingleLinkWithoutHead.exe sumArray.exe orderList.exe superStair.exe binaryInvertPos.exe countBack_K.exe trainPlan.exe middleNode.exe delMiddleNode.exe removeElem.exe delNode.exe delRepeatEle.exe delCountBack_N.exe remRepeatNode.exe arrangeBook.exe reverseLink.exe testDoubleLinkWithHead.cpp.exe trainPlan3.exe reverseLink2.exe testStaticStack.exe teststaticSharedStack.exe testLinkStack.exe teststaticStack_Hero.exe testLinkStack_Hero.exe testCppStack.exe decToBinary.exe dectoAny.exe arrangeBook_Stack.exe palindromeLink.exe validBracket.exe
 
 # =============================================================================
 # Built-in targets

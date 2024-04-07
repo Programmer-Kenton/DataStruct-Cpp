@@ -109,6 +109,12 @@ add_executable(
         chapter03-stack-queue/Stack/LeetCode/decToBinary.cpp
         chapter03-stack-queue/Stack/LeetCode/decToAny.cpp
         chapter03-stack-queue/Stack/LeetCode/arrangeBook_Stack.cpp
+        chapter03-stack-queue/Stack/LeetCode/palindromeLink.cpp
+        chapter03-stack-queue/Stack/LeetCode/maxDepthBracket.cpp
+        chapter03-stack-queue/Stack/LeetCode/validBracket.cpp
+        chapter03-stack-queue/Queue/source/staticQueue.cpp
+        chapter03-stack-queue/Queue/head/staticQueue.h
+        chapter03-stack-queue/Queue/test/testStaticQueue.cpp
 )
 
 add_executable(
@@ -310,3 +316,17 @@ add_executable(
         chapter03-stack-queue/Stack/head/LinkStack.h
         chapter03-stack-queue/Stack/source/LinkStack.cpp
 )
+
+add_executable(
+        arrangeBook_Stack chapter03-stack-queue/Stack/LeetCode/arrangeBook_Stack.cpp
+        chapter02-Linear_List/02Linked_list/SingleLink/head/singleLinkWithHead.h
+        chapter02-Linear_List/02Linked_list/SingleLink/source/singleLinkWithHead.cpp
+)
+
+add_executable(
+        palindromeLink chapter03-stack-queue/Stack/LeetCode/palindromeLink.cpp
+        chapter02-Linear_List/02Linked_list/SingleLink/head/singleLinkWithHead.h
+        chapter02-Linear_List/02Linked_list/SingleLink/source/singleLinkWithHead.cpp
+)
+
+add_executable(validBracket chapter03-stack-queue/Stack/LeetCode/validBracket.cpp)
