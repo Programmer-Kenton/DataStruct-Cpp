@@ -1,5 +1,5 @@
 /**
- * @Description TODO
+ * @Description 利用栈实现括号匹配
  * @Version 1.0.0
  * @Date 2024/4/7 16:45
  * @Author Kenton
@@ -30,6 +30,7 @@ bool isValid(std::string s){
             if (!isMatch(stk.top(),s[i])){
                 return false;
             }
+            stk.pop();
         }
     }
     return true;

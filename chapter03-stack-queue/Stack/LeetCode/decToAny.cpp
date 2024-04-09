@@ -28,7 +28,7 @@ int main(){
             S.pop_linkStack(x);
             if (x >= 10){
                 printf("%c",'A' + x - 10);
-            } else{
+            } else{ 
                 printf("%d",x);
             }
         }

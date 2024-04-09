@@ -51,5 +51,8 @@ D:/C_Study/WorkSpace/Cpp_Study/08DataStruct/cmake-build-debug/CMakeFiles/dectoAn
 D:/C_Study/WorkSpace/Cpp_Study/08DataStruct/cmake-build-debug/CMakeFiles/arrangeBook_Stack.dir
 D:/C_Study/WorkSpace/Cpp_Study/08DataStruct/cmake-build-debug/CMakeFiles/palindromeLink.dir
 D:/C_Study/WorkSpace/Cpp_Study/08DataStruct/cmake-build-debug/CMakeFiles/validBracket.dir
+D:/C_Study/WorkSpace/Cpp_Study/08DataStruct/cmake-build-debug/CMakeFiles/testStaticQueue.dir
+D:/C_Study/WorkSpace/Cpp_Study/08DataStruct/cmake-build-debug/CMakeFiles/testdoublePointLinkQueueWithoutHead.dir
+D:/C_Study/WorkSpace/Cpp_Study/08DataStruct/cmake-build-debug/CMakeFiles/bracketMatch.dir
 D:/C_Study/WorkSpace/Cpp_Study/08DataStruct/cmake-build-debug/CMakeFiles/edit_cache.dir
 D:/C_Study/WorkSpace/Cpp_Study/08DataStruct/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,11 +1,11 @@
 /**
- * @Description 静态队列 初始化头尾指针位置为0 无size和tag
+ * @Description 静态队列 初始化头尾指针为0 用tag标志插入/删除
  * @Version 1.0.0
- * @Date 2024/4/7 17:01
+ * @Date 2024/4/7 19:41
  * @Author Kenton
  */
-#ifndef INC_08WANGDAO_STATICQUEUE_H
-#define INC_08WANGDAO_STATICQUEUE_H
+#ifndef INC_08WANGDAO_STATICQUEUE03_H
+#define INC_08WANGDAO_STATICQUEUE03_H
 
 #include "iostream"
 #define MaxSize 10
@@ -16,11 +16,13 @@ struct SqQueue{
     int front,rear;
 };
 
-class staticQueue {
+class staticQueue03 {
 public:
     SqQueue S;
 
-    staticQueue();
+    int tag;
+
+    staticQueue03();
 
     // 初始化队列
     void InitQueue();
@@ -42,4 +44,4 @@ public:
 };
 
 
-#endif //INC_08WANGDAO_STATICQUEUE_H
+#endif //INC_08WANGDAO_STATICQUEUE03_H

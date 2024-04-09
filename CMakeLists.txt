@@ -115,6 +115,25 @@ add_executable(
         chapter03-stack-queue/Queue/source/staticQueue.cpp
         chapter03-stack-queue/Queue/head/staticQueue.h
         chapter03-stack-queue/Queue/test/testStaticQueue.cpp
+        chapter03-stack-queue/Queue/source/staticQueue02.cpp
+        chapter03-stack-queue/Queue/head/staticQueue02.h
+        chapter03-stack-queue/Queue/source/staticQueue03.cpp
+        chapter03-stack-queue/Queue/head/staticQueue03.h
+        chapter03-stack-queue/Queue/source/staticQueue04.cpp
+        chapter03-stack-queue/Queue/head/staticQueue04.h
+        chapter03-stack-queue/Queue/source/LinkQueueWithHead.cpp
+        chapter03-stack-queue/Queue/head/LinkQueueWithHead.h
+        chapter03-stack-queue/Queue/source/LinkQueueWithoutHead.cpp
+        chapter03-stack-queue/Queue/head/LinkQueueWithoutHead.h
+        chapter03-stack-queue/Queue/source/doublePointLinkQueueWithHead.cpp
+        chapter03-stack-queue/Queue/head/doublePointLinkQueueWithHead.h
+        chapter03-stack-queue/Queue/source/doublePointLinkQueueWithoutHead.cpp
+        chapter03-stack-queue/Queue/head/doublePointLinkQueueWithoutHead.h
+        chapter03-stack-queue/Queue/test/testdoublePointLinkQueueWithoutHead.cpp
+        chapter03-stack-queue/Queue/test/testdoublePointLinkQueueWithHead.cpp
+        chapter03-stack-queue/Queue/source/doublePointStaticQueue.cpp
+        chapter03-stack-queue/Queue/head/doublePointStaticQueue.h
+        chapter03-stack-queue/Stack/LeetCode/bracketMatch.cpp
 )
 
 add_executable(
@@ -330,3 +349,22 @@ add_executable(
 )
 
 add_executable(validBracket chapter03-stack-queue/Stack/LeetCode/validBracket.cpp)
+
+add_executable(
+        testStaticQueue chapter03-stack-queue/Queue/test/testStaticQueue.cpp
+        chapter03-stack-queue/Queue/head/staticQueue.h
+        chapter03-stack-queue/Queue/source/staticQueue.cpp
+)
+
+
+add_executable(
+        testdoublePointLinkQueueWithoutHead chapter03-stack-queue/Queue/test/testdoublePointLinkQueueWithoutHead.cpp
+        chapter03-stack-queue/Queue/head/doublePointLinkQueueWithoutHead.h
+        chapter03-stack-queue/Queue/source/doublePointLinkQueueWithoutHead.cpp
+)
+
+add_executable(
+        bracketMatch chapter03-stack-queue/Stack/LeetCode/bracketMatch.cpp
+        chapter03-stack-queue/Stack/head/LinkStack.h
+        chapter03-stack-queue/Stack/source/LinkStack.cpp
+)
