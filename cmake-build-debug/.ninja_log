@@ -17,7 +17,7 @@
 2361	3157	7342446465923512	CMakeFiles/absDifference.dir/chapter03-stack-queue/Queue/source/LinkQueueWithHead.cpp.obj	f4c110c35f86b98d
 9	434	7341634448391940	CMakeFiles/testStaticStack.dir/chapter03-stack-queue/Stack/source/staticStack.cpp.obj	ef6518b060bff502
 403	520	7337228609121675	countBack_K.exe	3f388a71eabaa879
-6	496	7343302195286013	build.ninja	7f0d917da60f8de3
+6	496	7343750605047194	build.ninja	7f0d917da60f8de3
 513	640	7342449124243465	validBracket.exe	2cdacf3476977a5d
 371	474	7333872991722205	valCount.exe	6568d5a97f32750a
 5	422	7333852950572761	CMakeFiles/oddProduct.dir/chapter02-Linear_List/01Sequence_table/source/dynamic_SeqTable.cpp.obj	1292c1b49c81be7b
