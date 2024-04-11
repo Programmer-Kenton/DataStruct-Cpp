@@ -54,144 +54,108 @@ build CMakeFiles/main.dir/main.cpp.obj: CXX_COMPILER__main_unscanned_Debug D$:/C
   FLAGS = -g -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\main.dir
   OBJECT_FILE_DIR = CMakeFiles\main.dir
-  TARGET_COMPILE_PDB = CMakeFiles\main.dir\
-  TARGET_PDB = main.pdb
 
 build CMakeFiles/main.dir/chapter02-Linear_List/02Linked_list/SingleLink/LeetCode/sumArray.cpp.obj: CXX_COMPILER__main_unscanned_Debug D$:/C_Study/WorkSpace/Cpp_Study/08DataStruct/chapter02-Linear_List/02Linked_list/SingleLink/LeetCode/sumArray.cpp || cmake_object_order_depends_target_main
   DEP_FILE = CMakeFiles\main.dir\chapter02-Linear_List\02Linked_list\SingleLink\LeetCode\sumArray.cpp.obj.d
   FLAGS = -g -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\main.dir
   OBJECT_FILE_DIR = CMakeFiles\main.dir\chapter02-Linear_List\02Linked_list\SingleLink\LeetCode
-  TARGET_COMPILE_PDB = CMakeFiles\main.dir\
-  TARGET_PDB = main.pdb
 
 build CMakeFiles/main.dir/chapter02-Linear_List/02Linked_list/SingleLink/LeetCode/orderList.cpp.obj: CXX_COMPILER__main_unscanned_Debug D$:/C_Study/WorkSpace/Cpp_Study/08DataStruct/chapter02-Linear_List/02Linked_list/SingleLink/LeetCode/orderList.cpp || cmake_object_order_depends_target_main
   DEP_FILE = CMakeFiles\main.dir\chapter02-Linear_List\02Linked_list\SingleLink\LeetCode\orderList.cpp.obj.d
   FLAGS = -g -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\main.dir
   OBJECT_FILE_DIR = CMakeFiles\main.dir\chapter02-Linear_List\02Linked_list\SingleLink\LeetCode
-  TARGET_COMPILE_PDB = CMakeFiles\main.dir\
-  TARGET_PDB = main.pdb
 
 build CMakeFiles/main.dir/chapter02-Linear_List/02Linked_list/SingleLink/LeetCode/superStair.cpp.obj: CXX_COMPILER__main_unscanned_Debug D$:/C_Study/WorkSpace/Cpp_Study/08DataStruct/chapter02-Linear_List/02Linked_list/SingleLink/LeetCode/superStair.cpp || cmake_object_order_depends_target_main
   DEP_FILE = CMakeFiles\main.dir\chapter02-Linear_List\02Linked_list\SingleLink\LeetCode\superStair.cpp.obj.d
   FLAGS = -g -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\main.dir
   OBJECT_FILE_DIR = CMakeFiles\main.dir\chapter02-Linear_List\02Linked_list\SingleLink\LeetCode
-  TARGET_COMPILE_PDB = CMakeFiles\main.dir\
-  TARGET_PDB = main.pdb
 
 build CMakeFiles/main.dir/chapter02-Linear_List/02Linked_list/SingleLink/LeetCode/binaryInvertPos.cpp.obj: CXX_COMPILER__main_unscanned_Debug D$:/C_Study/WorkSpace/Cpp_Study/08DataStruct/chapter02-Linear_List/02Linked_list/SingleLink/LeetCode/binaryInvertPos.cpp || cmake_object_order_depends_target_main
   DEP_FILE = CMakeFiles\main.dir\chapter02-Linear_List\02Linked_list\SingleLink\LeetCode\binaryInvertPos.cpp.obj.d
   FLAGS = -g -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\main.dir
   OBJECT_FILE_DIR = CMakeFiles\main.dir\chapter02-Linear_List\02Linked_list\SingleLink\LeetCode
-  TARGET_COMPILE_PDB = CMakeFiles\main.dir\
-  TARGET_PDB = main.pdb
 
 build CMakeFiles/main.dir/chapter02-Linear_List/02Linked_list/SingleLink/LeetCode/countBack_K.cpp.obj: CXX_COMPILER__main_unscanned_Debug D$:/C_Study/WorkSpace/Cpp_Study/08DataStruct/chapter02-Linear_List/02Linked_list/SingleLink/LeetCode/countBack_K.cpp || cmake_object_order_depends_target_main
   DEP_FILE = CMakeFiles\main.dir\chapter02-Linear_List\02Linked_list\SingleLink\LeetCode\countBack_K.cpp.obj.d
   FLAGS = -g -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\main.dir
   OBJECT_FILE_DIR = CMakeFiles\main.dir\chapter02-Linear_List\02Linked_list\SingleLink\LeetCode
-  TARGET_COMPILE_PDB = CMakeFiles\main.dir\
-  TARGET_PDB = main.pdb
 
 build CMakeFiles/main.dir/chapter02-Linear_List/02Linked_list/SingleLink/LeetCode/trainPlan.cpp.obj: CXX_COMPILER__main_unscanned_Debug D$:/C_Study/WorkSpace/Cpp_Study/08DataStruct/chapter02-Linear_List/02Linked_list/SingleLink/LeetCode/trainPlan.cpp || cmake_object_order_depends_target_main
   DEP_FILE = CMakeFiles\main.dir\chapter02-Linear_List\02Linked_list\SingleLink\LeetCode\trainPlan.cpp.obj.d
   FLAGS = -g -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\main.dir
   OBJECT_FILE_DIR = CMakeFiles\main.dir\chapter02-Linear_List\02Linked_list\SingleLink\LeetCode
-  TARGET_COMPILE_PDB = CMakeFiles\main.dir\
-  TARGET_PDB = main.pdb
 
 build CMakeFiles/main.dir/chapter02-Linear_List/02Linked_list/SingleLink/LeetCode/middleNode.cpp.obj: CXX_COMPILER__main_unscanned_Debug D$:/C_Study/WorkSpace/Cpp_Study/08DataStruct/chapter02-Linear_List/02Linked_list/SingleLink/LeetCode/middleNode.cpp || cmake_object_order_depends_target_main
   DEP_FILE = CMakeFiles\main.dir\chapter02-Linear_List\02Linked_list\SingleLink\LeetCode\middleNode.cpp.obj.d
   FLAGS = -g -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\main.dir
   OBJECT_FILE_DIR = CMakeFiles\main.dir\chapter02-Linear_List\02Linked_list\SingleLink\LeetCode
-  TARGET_COMPILE_PDB = CMakeFiles\main.dir\
-  TARGET_PDB = main.pdb
 
 build CMakeFiles/main.dir/chapter02-Linear_List/02Linked_list/SingleLink/LeetCode/delMiddleNode.cpp.obj: CXX_COMPILER__main_unscanned_Debug D$:/C_Study/WorkSpace/Cpp_Study/08DataStruct/chapter02-Linear_List/02Linked_list/SingleLink/LeetCode/delMiddleNode.cpp || cmake_object_order_depends_target_main
   DEP_FILE = CMakeFiles\main.dir\chapter02-Linear_List\02Linked_list\SingleLink\LeetCode\delMiddleNode.cpp.obj.d
   FLAGS = -g -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\main.dir
   OBJECT_FILE_DIR = CMakeFiles\main.dir\chapter02-Linear_List\02Linked_list\SingleLink\LeetCode
-  TARGET_COMPILE_PDB = CMakeFiles\main.dir\
-  TARGET_PDB = main.pdb
 
 build CMakeFiles/main.dir/chapter02-Linear_List/02Linked_list/SingleLink/LeetCode/removeElem.cpp.obj: CXX_COMPILER__main_unscanned_Debug D$:/C_Study/WorkSpace/Cpp_Study/08DataStruct/chapter02-Linear_List/02Linked_list/SingleLink/LeetCode/removeElem.cpp || cmake_object_order_depends_target_main
   DEP_FILE = CMakeFiles\main.dir\chapter02-Linear_List\02Linked_list\SingleLink\LeetCode\removeElem.cpp.obj.d
   FLAGS = -g -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\main.dir
   OBJECT_FILE_DIR = CMakeFiles\main.dir\chapter02-Linear_List\02Linked_list\SingleLink\LeetCode
-  TARGET_COMPILE_PDB = CMakeFiles\main.dir\
-  TARGET_PDB = main.pdb
 
 build CMakeFiles/main.dir/chapter02-Linear_List/02Linked_list/SingleLink/LeetCode/delNode.cpp.obj: CXX_COMPILER__main_unscanned_Debug D$:/C_Study/WorkSpace/Cpp_Study/08DataStruct/chapter02-Linear_List/02Linked_list/SingleLink/LeetCode/delNode.cpp || cmake_object_order_depends_target_main
   DEP_FILE = CMakeFiles\main.dir\chapter02-Linear_List\02Linked_list\SingleLink\LeetCode\delNode.cpp.obj.d
   FLAGS = -g -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\main.dir
   OBJECT_FILE_DIR = CMakeFiles\main.dir\chapter02-Linear_List\02Linked_list\SingleLink\LeetCode
-  TARGET_COMPILE_PDB = CMakeFiles\main.dir\
-  TARGET_PDB = main.pdb
 
 build CMakeFiles/main.dir/chapter02-Linear_List/02Linked_list/SingleLink/LeetCode/delRepeatEle.cpp.obj: CXX_COMPILER__main_unscanned_Debug D$:/C_Study/WorkSpace/Cpp_Study/08DataStruct/chapter02-Linear_List/02Linked_list/SingleLink/LeetCode/delRepeatEle.cpp || cmake_object_order_depends_target_main
   DEP_FILE = CMakeFiles\main.dir\chapter02-Linear_List\02Linked_list\SingleLink\LeetCode\delRepeatEle.cpp.obj.d
   FLAGS = -g -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\main.dir
   OBJECT_FILE_DIR = CMakeFiles\main.dir\chapter02-Linear_List\02Linked_list\SingleLink\LeetCode
-  TARGET_COMPILE_PDB = CMakeFiles\main.dir\
-  TARGET_PDB = main.pdb
 
 build CMakeFiles/main.dir/chapter02-Linear_List/02Linked_list/SingleLink/LeetCode/delCountBack_N.cpp.obj: CXX_COMPILER__main_unscanned_Debug D$:/C_Study/WorkSpace/Cpp_Study/08DataStruct/chapter02-Linear_List/02Linked_list/SingleLink/LeetCode/delCountBack_N.cpp || cmake_object_order_depends_target_main
   DEP_FILE = CMakeFiles\main.dir\chapter02-Linear_List\02Linked_list\SingleLink\LeetCode\delCountBack_N.cpp.obj.d
   FLAGS = -g -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\main.dir
   OBJECT_FILE_DIR = CMakeFiles\main.dir\chapter02-Linear_List\02Linked_list\SingleLink\LeetCode
-  TARGET_COMPILE_PDB = CMakeFiles\main.dir\
-  TARGET_PDB = main.pdb
 
 build CMakeFiles/main.dir/chapter02-Linear_List/02Linked_list/SingleLink/LeetCode/remRepeatNode.cpp.obj: CXX_COMPILER__main_unscanned_Debug D$:/C_Study/WorkSpace/Cpp_Study/08DataStruct/chapter02-Linear_List/02Linked_list/SingleLink/LeetCode/remRepeatNode.cpp || cmake_object_order_depends_target_main
   DEP_FILE = CMakeFiles\main.dir\chapter02-Linear_List\02Linked_list\SingleLink\LeetCode\remRepeatNode.cpp.obj.d
   FLAGS = -g -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\main.dir
   OBJECT_FILE_DIR = CMakeFiles\main.dir\chapter02-Linear_List\02Linked_list\SingleLink\LeetCode
-  TARGET_COMPILE_PDB = CMakeFiles\main.dir\
-  TARGET_PDB = main.pdb
 
 build CMakeFiles/main.dir/chapter02-Linear_List/02Linked_list/SingleLink/LeetCode/arrangeBook.cpp.obj: CXX_COMPILER__main_unscanned_Debug D$:/C_Study/WorkSpace/Cpp_Study/08DataStruct/chapter02-Linear_List/02Linked_list/SingleLink/LeetCode/arrangeBook.cpp || cmake_object_order_depends_target_main
   DEP_FILE = CMakeFiles\main.dir\chapter02-Linear_List\02Linked_list\SingleLink\LeetCode\arrangeBook.cpp.obj.d
   FLAGS = -g -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\main.dir
   OBJECT_FILE_DIR = CMakeFiles\main.dir\chapter02-Linear_List\02Linked_list\SingleLink\LeetCode
-  TARGET_COMPILE_PDB = CMakeFiles\main.dir\
-  TARGET_PDB = main.pdb
 
 build CMakeFiles/main.dir/chapter02-Linear_List/02Linked_list/SingleLink/LeetCode/reverseLink.cpp.obj: CXX_COMPILER__main_unscanned_Debug D$:/C_Study/WorkSpace/Cpp_Study/08DataStruct/chapter02-Linear_List/02Linked_list/SingleLink/LeetCode/reverseLink.cpp || cmake_object_order_depends_target_main
   DEP_FILE = CMakeFiles\main.dir\chapter02-Linear_List\02Linked_list\SingleLink\LeetCode\reverseLink.cpp.obj.d
   FLAGS = -g -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\main.dir
   OBJECT_FILE_DIR = CMakeFiles\main.dir\chapter02-Linear_List\02Linked_list\SingleLink\LeetCode
-  TARGET_COMPILE_PDB = CMakeFiles\main.dir\
-  TARGET_PDB = main.pdb
 
 build CMakeFiles/main.dir/chapter02-Linear_List/02Linked_list/SingleLink/LeetCode/trainPlain3.cpp.obj: CXX_COMPILER__main_unscanned_Debug D$:/C_Study/WorkSpace/Cpp_Study/08DataStruct/chapter02-Linear_List/02Linked_list/SingleLink/LeetCode/trainPlain3.cpp || cmake_object_order_depends_target_main
   DEP_FILE = CMakeFiles\main.dir\chapter02-Linear_List\02Linked_list\SingleLink\LeetCode\trainPlain3.cpp.obj.d
   FLAGS = -g -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\main.dir
   OBJECT_FILE_DIR = CMakeFiles\main.dir\chapter02-Linear_List\02Linked_list\SingleLink\LeetCode
-  TARGET_COMPILE_PDB = CMakeFiles\main.dir\
-  TARGET_PDB = main.pdb
 
 build CMakeFiles/main.dir/chapter02-Linear_List/02Linked_list/SingleLink/LeetCode/reverseLink2.cpp.obj: CXX_COMPILER__main_unscanned_Debug D$:/C_Study/WorkSpace/Cpp_Study/08DataStruct/chapter02-Linear_List/02Linked_list/SingleLink/LeetCode/reverseLink2.cpp || cmake_object_order_depends_target_main
   DEP_FILE = CMakeFiles\main.dir\chapter02-Linear_List\02Linked_list\SingleLink\LeetCode\reverseLink2.cpp.obj.d
   FLAGS = -g -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\main.dir
   OBJECT_FILE_DIR = CMakeFiles\main.dir\chapter02-Linear_List\02Linked_list\SingleLink\LeetCode
-  TARGET_COMPILE_PDB = CMakeFiles\main.dir\
-  TARGET_PDB = main.pdb
 
 
 # =============================================================================
@@ -207,10 +171,9 @@ build main.exe: CXX_EXECUTABLE_LINKER__main_Debug CMakeFiles/main.dir/main.cpp.o
   OBJECT_DIR = CMakeFiles\main.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_COMPILE_PDB = CMakeFiles\main.dir\
   TARGET_FILE = main.exe
   TARGET_IMPLIB = libmain.dll.a
-  TARGET_PDB = main.pdb
+  TARGET_PDB = main.exe.dbg
 
 # =============================================================================
 # Object build statements for EXECUTABLE target testStaticSeqTable
@@ -226,16 +189,12 @@ build CMakeFiles/testStaticSeqTable.dir/chapter02-Linear_List/01Sequence_table/t
   FLAGS = -g -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\testStaticSeqTable.dir
   OBJECT_FILE_DIR = CMakeFiles\testStaticSeqTable.dir\chapter02-Linear_List\01Sequence_table\test
-  TARGET_COMPILE_PDB = CMakeFiles\testStaticSeqTable.dir\
-  TARGET_PDB = testStaticSeqTable.pdb
 
 build CMakeFiles/testStaticSeqTable.dir/chapter02-Linear_List/01Sequence_table/source/static_SeqTable.cpp.obj: CXX_COMPILER__testStaticSeqTable_unscanned_Debug D$:/C_Study/WorkSpace/Cpp_Study/08DataStruct/chapter02-Linear_List/01Sequence_table/source/static_SeqTable.cpp || cmake_object_order_depends_target_testStaticSeqTable
   DEP_FILE = CMakeFiles\testStaticSeqTable.dir\chapter02-Linear_List\01Sequence_table\source\static_SeqTable.cpp.obj.d
   FLAGS = -g -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\testStaticSeqTable.dir
   OBJECT_FILE_DIR = CMakeFiles\testStaticSeqTable.dir\chapter02-Linear_List\01Sequence_table\source
-  TARGET_COMPILE_PDB = CMakeFiles\testStaticSeqTable.dir\
-  TARGET_PDB = testStaticSeqTable.pdb
 
 
 # =============================================================================
@@ -251,10 +210,9 @@ build testStaticSeqTable.exe: CXX_EXECUTABLE_LINKER__testStaticSeqTable_Debug CM
   OBJECT_DIR = CMakeFiles\testStaticSeqTable.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_COMPILE_PDB = CMakeFiles\testStaticSeqTable.dir\
   TARGET_FILE = testStaticSeqTable.exe
   TARGET_IMPLIB = libtestStaticSeqTable.dll.a
-  TARGET_PDB = testStaticSeqTable.pdb
+  TARGET_PDB = testStaticSeqTable.exe.dbg
 
 # =============================================================================
 # Object build statements for EXECUTABLE target testDynamicSeqTable
@@ -270,16 +228,12 @@ build CMakeFiles/testDynamicSeqTable.dir/chapter02-Linear_List/01Sequence_table/
   FLAGS = -g -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\testDynamicSeqTable.dir
   OBJECT_FILE_DIR = CMakeFiles\testDynamicSeqTable.dir\chapter02-Linear_List\01Sequence_table\test
-  TARGET_COMPILE_PDB = CMakeFiles\testDynamicSeqTable.dir\
-  TARGET_PDB = testDynamicSeqTable.pdb
 
 build CMakeFiles/testDynamicSeqTable.dir/chapter02-Linear_List/01Sequence_table/source/dynamic_SeqTable.cpp.obj: CXX_COMPILER__testDynamicSeqTable_unscanned_Debug D$:/C_Study/WorkSpace/Cpp_Study/08DataStruct/chapter02-Linear_List/01Sequence_table/source/dynamic_SeqTable.cpp || cmake_object_order_depends_target_testDynamicSeqTable
   DEP_FILE = CMakeFiles\testDynamicSeqTable.dir\chapter02-Linear_List\01Sequence_table\source\dynamic_SeqTable.cpp.obj.d
   FLAGS = -g -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\testDynamicSeqTable.dir
   OBJECT_FILE_DIR = CMakeFiles\testDynamicSeqTable.dir\chapter02-Linear_List\01Sequence_table\source
-  TARGET_COMPILE_PDB = CMakeFiles\testDynamicSeqTable.dir\
-  TARGET_PDB = testDynamicSeqTable.pdb
 
 
 # =============================================================================
@@ -295,10 +249,9 @@ build testDynamicSeqTable.exe: CXX_EXECUTABLE_LINKER__testDynamicSeqTable_Debug 
   OBJECT_DIR = CMakeFiles\testDynamicSeqTable.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_COMPILE_PDB = CMakeFiles\testDynamicSeqTable.dir\
   TARGET_FILE = testDynamicSeqTable.exe
   TARGET_IMPLIB = libtestDynamicSeqTable.dll.a
-  TARGET_PDB = testDynamicSeqTable.pdb
+  TARGET_PDB = testDynamicSeqTable.exe.dbg
 
 # =============================================================================
 # Object build statements for EXECUTABLE target oddProduct
@@ -314,16 +267,12 @@ build CMakeFiles/oddProduct.dir/chapter02-Linear_List/01Sequence_table/LeetCode/
   FLAGS = -g -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\oddProduct.dir
   OBJECT_FILE_DIR = CMakeFiles\oddProduct.dir\chapter02-Linear_List\01Sequence_table\LeetCode
-  TARGET_COMPILE_PDB = CMakeFiles\oddProduct.dir\
-  TARGET_PDB = oddProduct.pdb
 
 build CMakeFiles/oddProduct.dir/chapter02-Linear_List/01Sequence_table/source/dynamic_SeqTable.cpp.obj: CXX_COMPILER__oddProduct_unscanned_Debug D$:/C_Study/WorkSpace/Cpp_Study/08DataStruct/chapter02-Linear_List/01Sequence_table/source/dynamic_SeqTable.cpp || cmake_object_order_depends_target_oddProduct
   DEP_FILE = CMakeFiles\oddProduct.dir\chapter02-Linear_List\01Sequence_table\source\dynamic_SeqTable.cpp.obj.d
   FLAGS = -g -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\oddProduct.dir
   OBJECT_FILE_DIR = CMakeFiles\oddProduct.dir\chapter02-Linear_List\01Sequence_table\source
-  TARGET_COMPILE_PDB = CMakeFiles\oddProduct.dir\
-  TARGET_PDB = oddProduct.pdb
 
 
 # =============================================================================
@@ -339,10 +288,9 @@ build oddProduct.exe: CXX_EXECUTABLE_LINKER__oddProduct_Debug CMakeFiles/oddProd
   OBJECT_DIR = CMakeFiles\oddProduct.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_COMPILE_PDB = CMakeFiles\oddProduct.dir\
   TARGET_FILE = oddProduct.exe
   TARGET_IMPLIB = liboddProduct.dll.a
-  TARGET_PDB = oddProduct.pdb
+  TARGET_PDB = oddProduct.exe.dbg
 
 # =============================================================================
 # Object build statements for EXECUTABLE target valCount
@@ -358,16 +306,12 @@ build CMakeFiles/valCount.dir/chapter02-Linear_List/01Sequence_table/LeetCode/va
   FLAGS = -g -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\valCount.dir
   OBJECT_FILE_DIR = CMakeFiles\valCount.dir\chapter02-Linear_List\01Sequence_table\LeetCode
-  TARGET_COMPILE_PDB = CMakeFiles\valCount.dir\
-  TARGET_PDB = valCount.pdb
 
 build CMakeFiles/valCount.dir/chapter02-Linear_List/01Sequence_table/source/static_SeqTable.cpp.obj: CXX_COMPILER__valCount_unscanned_Debug D$:/C_Study/WorkSpace/Cpp_Study/08DataStruct/chapter02-Linear_List/01Sequence_table/source/static_SeqTable.cpp || cmake_object_order_depends_target_valCount
   DEP_FILE = CMakeFiles\valCount.dir\chapter02-Linear_List\01Sequence_table\source\static_SeqTable.cpp.obj.d
   FLAGS = -g -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\valCount.dir
   OBJECT_FILE_DIR = CMakeFiles\valCount.dir\chapter02-Linear_List\01Sequence_table\source
-  TARGET_COMPILE_PDB = CMakeFiles\valCount.dir\
-  TARGET_PDB = valCount.pdb
 
 
 # =============================================================================
@@ -383,10 +327,9 @@ build valCount.exe: CXX_EXECUTABLE_LINKER__valCount_Debug CMakeFiles/valCount.di
   OBJECT_DIR = CMakeFiles\valCount.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_COMPILE_PDB = CMakeFiles\valCount.dir\
   TARGET_FILE = valCount.exe
   TARGET_IMPLIB = libvalCount.dll.a
-  TARGET_PDB = valCount.pdb
+  TARGET_PDB = valCount.exe.dbg
 
 # =============================================================================
 # Object build statements for EXECUTABLE target singerMark
@@ -402,16 +345,12 @@ build CMakeFiles/singerMark.dir/chapter02-Linear_List/01Sequence_table/LeetCode/
   FLAGS = -g -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\singerMark.dir
   OBJECT_FILE_DIR = CMakeFiles\singerMark.dir\chapter02-Linear_List\01Sequence_table\LeetCode
-  TARGET_COMPILE_PDB = CMakeFiles\singerMark.dir\
-  TARGET_PDB = singerMark.pdb
 
 build CMakeFiles/singerMark.dir/chapter02-Linear_List/01Sequence_table/source/dynamic_SeqTable.cpp.obj: CXX_COMPILER__singerMark_unscanned_Debug D$:/C_Study/WorkSpace/Cpp_Study/08DataStruct/chapter02-Linear_List/01Sequence_table/source/dynamic_SeqTable.cpp || cmake_object_order_depends_target_singerMark
   DEP_FILE = CMakeFiles\singerMark.dir\chapter02-Linear_List\01Sequence_table\source\dynamic_SeqTable.cpp.obj.d
   FLAGS = -g -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\singerMark.dir
   OBJECT_FILE_DIR = CMakeFiles\singerMark.dir\chapter02-Linear_List\01Sequence_table\source
-  TARGET_COMPILE_PDB = CMakeFiles\singerMark.dir\
-  TARGET_PDB = singerMark.pdb
 
 
 # =============================================================================
@@ -427,10 +366,9 @@ build singerMark.exe: CXX_EXECUTABLE_LINKER__singerMark_Debug CMakeFiles/singerM
   OBJECT_DIR = CMakeFiles\singerMark.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_COMPILE_PDB = CMakeFiles\singerMark.dir\
   TARGET_FILE = singerMark.exe
   TARGET_IMPLIB = libsingerMark.dll.a
-  TARGET_PDB = singerMark.pdb
+  TARGET_PDB = singerMark.exe.dbg
 
 # =============================================================================
 # Object build statements for EXECUTABLE target guessNum
@@ -446,8 +384,6 @@ build CMakeFiles/guessNum.dir/chapter02-Linear_List/01Sequence_table/LeetCode/gu
   FLAGS = -g -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\guessNum.dir
   OBJECT_FILE_DIR = CMakeFiles\guessNum.dir\chapter02-Linear_List\01Sequence_table\LeetCode
-  TARGET_COMPILE_PDB = CMakeFiles\guessNum.dir\
-  TARGET_PDB = guessNum.pdb
 
 
 # =============================================================================
@@ -463,10 +399,9 @@ build guessNum.exe: CXX_EXECUTABLE_LINKER__guessNum_Debug CMakeFiles/guessNum.di
   OBJECT_DIR = CMakeFiles\guessNum.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_COMPILE_PDB = CMakeFiles\guessNum.dir\
   TARGET_FILE = guessNum.exe
   TARGET_IMPLIB = libguessNum.dll.a
-  TARGET_PDB = guessNum.pdb
+  TARGET_PDB = guessNum.exe.dbg
 
 # =============================================================================
 # Object build statements for EXECUTABLE target takeCoin
@@ -482,8 +417,6 @@ build CMakeFiles/takeCoin.dir/chapter02-Linear_List/01Sequence_table/LeetCode/ta
   FLAGS = -g -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\takeCoin.dir
   OBJECT_FILE_DIR = CMakeFiles\takeCoin.dir\chapter02-Linear_List\01Sequence_table\LeetCode
-  TARGET_COMPILE_PDB = CMakeFiles\takeCoin.dir\
-  TARGET_PDB = takeCoin.pdb
 
 
 # =============================================================================
@@ -499,10 +432,9 @@ build takeCoin.exe: CXX_EXECUTABLE_LINKER__takeCoin_Debug CMakeFiles/takeCoin.di
   OBJECT_DIR = CMakeFiles\takeCoin.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_COMPILE_PDB = CMakeFiles\takeCoin.dir\
   TARGET_FILE = takeCoin.exe
   TARGET_IMPLIB = libtakeCoin.dll.a
-  TARGET_PDB = takeCoin.pdb
+  TARGET_PDB = takeCoin.exe.dbg
 
 # =============================================================================
 # Object build statements for EXECUTABLE target minIndex
@@ -518,8 +450,6 @@ build CMakeFiles/minIndex.dir/chapter02-Linear_List/01Sequence_table/LeetCode/mi
   FLAGS = -g -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\minIndex.dir
   OBJECT_FILE_DIR = CMakeFiles\minIndex.dir\chapter02-Linear_List\01Sequence_table\LeetCode
-  TARGET_COMPILE_PDB = CMakeFiles\minIndex.dir\
-  TARGET_PDB = minIndex.pdb
 
 
 # =============================================================================
@@ -535,10 +465,9 @@ build minIndex.exe: CXX_EXECUTABLE_LINKER__minIndex_Debug CMakeFiles/minIndex.di
   OBJECT_DIR = CMakeFiles\minIndex.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_COMPILE_PDB = CMakeFiles\minIndex.dir\
   TARGET_FILE = minIndex.exe
   TARGET_IMPLIB = libminIndex.dll.a
-  TARGET_PDB = minIndex.pdb
+  TARGET_PDB = minIndex.exe.dbg
 
 # =============================================================================
 # Object build statements for EXECUTABLE target maxNumofContinOne
@@ -554,8 +483,6 @@ build CMakeFiles/maxNumofContinOne.dir/chapter02-Linear_List/01Sequence_table/Le
   FLAGS = -g -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\maxNumofContinOne.dir
   OBJECT_FILE_DIR = CMakeFiles\maxNumofContinOne.dir\chapter02-Linear_List\01Sequence_table\LeetCode
-  TARGET_COMPILE_PDB = CMakeFiles\maxNumofContinOne.dir\
-  TARGET_PDB = maxNumofContinOne.pdb
 
 
 # =============================================================================
@@ -571,10 +498,9 @@ build maxNumofContinOne.exe: CXX_EXECUTABLE_LINKER__maxNumofContinOne_Debug CMak
   OBJECT_DIR = CMakeFiles\maxNumofContinOne.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_COMPILE_PDB = CMakeFiles\maxNumofContinOne.dir\
   TARGET_FILE = maxNumofContinOne.exe
   TARGET_IMPLIB = libmaxNumofContinOne.dll.a
-  TARGET_PDB = maxNumofContinOne.pdb
+  TARGET_PDB = maxNumofContinOne.exe.dbg
 
 # =============================================================================
 # Object build statements for EXECUTABLE target absoluteK
@@ -590,8 +516,6 @@ build CMakeFiles/absoluteK.dir/chapter02-Linear_List/01Sequence_table/LeetCode/a
   FLAGS = -g -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\absoluteK.dir
   OBJECT_FILE_DIR = CMakeFiles\absoluteK.dir\chapter02-Linear_List\01Sequence_table\LeetCode
-  TARGET_COMPILE_PDB = CMakeFiles\absoluteK.dir\
-  TARGET_PDB = absoluteK.pdb
 
 
 # =============================================================================
@@ -607,10 +531,9 @@ build absoluteK.exe: CXX_EXECUTABLE_LINKER__absoluteK_Debug CMakeFiles/absoluteK
   OBJECT_DIR = CMakeFiles\absoluteK.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_COMPILE_PDB = CMakeFiles\absoluteK.dir\
   TARGET_FILE = absoluteK.exe
   TARGET_IMPLIB = libabsoluteK.dll.a
-  TARGET_PDB = absoluteK.pdb
+  TARGET_PDB = absoluteK.exe.dbg
 
 # =============================================================================
 # Object build statements for EXECUTABLE target maxProduct
@@ -626,8 +549,6 @@ build CMakeFiles/maxProduct.dir/chapter02-Linear_List/01Sequence_table/LeetCode/
   FLAGS = -g -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\maxProduct.dir
   OBJECT_FILE_DIR = CMakeFiles\maxProduct.dir\chapter02-Linear_List\01Sequence_table\LeetCode
-  TARGET_COMPILE_PDB = CMakeFiles\maxProduct.dir\
-  TARGET_PDB = maxProduct.pdb
 
 
 # =============================================================================
@@ -643,10 +564,9 @@ build maxProduct.exe: CXX_EXECUTABLE_LINKER__maxProduct_Debug CMakeFiles/maxProd
   OBJECT_DIR = CMakeFiles\maxProduct.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_COMPILE_PDB = CMakeFiles\maxProduct.dir\
   TARGET_FILE = maxProduct.exe
   TARGET_IMPLIB = libmaxProduct.dll.a
-  TARGET_PDB = maxProduct.pdb
+  TARGET_PDB = maxProduct.exe.dbg
 
 # =============================================================================
 # Object build statements for EXECUTABLE target absDifference
@@ -662,304 +582,6 @@ build CMakeFiles/absDifference.dir/chapter02-Linear_List/01Sequence_table/LeetCo
   FLAGS = -g -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\absDifference.dir
   OBJECT_FILE_DIR = CMakeFiles\absDifference.dir\chapter02-Linear_List\01Sequence_table\LeetCode
-  TARGET_COMPILE_PDB = CMakeFiles\absDifference.dir\
-  TARGET_PDB = absDifference.pdb
-
-build CMakeFiles/absDifference.dir/chapter02-Linear_List/02Linked_list/DoubleLink/source/doubleLinkWithHead.cpp.obj: CXX_COMPILER__absDifference_unscanned_Debug D$:/C_Study/WorkSpace/Cpp_Study/08DataStruct/chapter02-Linear_List/02Linked_list/DoubleLink/source/doubleLinkWithHead.cpp || cmake_object_order_depends_target_absDifference
-  DEP_FILE = CMakeFiles\absDifference.dir\chapter02-Linear_List\02Linked_list\DoubleLink\source\doubleLinkWithHead.cpp.obj.d
-  FLAGS = -g -fdiagnostics-color=always
-  OBJECT_DIR = CMakeFiles\absDifference.dir
-  OBJECT_FILE_DIR = CMakeFiles\absDifference.dir\chapter02-Linear_List\02Linked_list\DoubleLink\source
-  TARGET_COMPILE_PDB = CMakeFiles\absDifference.dir\
-  TARGET_PDB = absDifference.pdb
-
-build CMakeFiles/absDifference.dir/chapter02-Linear_List/02Linked_list/DoubleLink/test/testDoubleLinkWithHead.cpp.obj: CXX_COMPILER__absDifference_unscanned_Debug D$:/C_Study/WorkSpace/Cpp_Study/08DataStruct/chapter02-Linear_List/02Linked_list/DoubleLink/test/testDoubleLinkWithHead.cpp || cmake_object_order_depends_target_absDifference
-  DEP_FILE = CMakeFiles\absDifference.dir\chapter02-Linear_List\02Linked_list\DoubleLink\test\testDoubleLinkWithHead.cpp.obj.d
-  FLAGS = -g -fdiagnostics-color=always
-  OBJECT_DIR = CMakeFiles\absDifference.dir
-  OBJECT_FILE_DIR = CMakeFiles\absDifference.dir\chapter02-Linear_List\02Linked_list\DoubleLink\test
-  TARGET_COMPILE_PDB = CMakeFiles\absDifference.dir\
-  TARGET_PDB = absDifference.pdb
-
-build CMakeFiles/absDifference.dir/chapter02-Linear_List/02Linked_list/DoubleLink/source/doubleLinkWithoutHead.cpp.obj: CXX_COMPILER__absDifference_unscanned_Debug D$:/C_Study/WorkSpace/Cpp_Study/08DataStruct/chapter02-Linear_List/02Linked_list/DoubleLink/source/doubleLinkWithoutHead.cpp || cmake_object_order_depends_target_absDifference
-  DEP_FILE = CMakeFiles\absDifference.dir\chapter02-Linear_List\02Linked_list\DoubleLink\source\doubleLinkWithoutHead.cpp.obj.d
-  FLAGS = -g -fdiagnostics-color=always
-  OBJECT_DIR = CMakeFiles\absDifference.dir
-  OBJECT_FILE_DIR = CMakeFiles\absDifference.dir\chapter02-Linear_List\02Linked_list\DoubleLink\source
-  TARGET_COMPILE_PDB = CMakeFiles\absDifference.dir\
-  TARGET_PDB = absDifference.pdb
-
-build CMakeFiles/absDifference.dir/chapter02-Linear_List/02Linked_list/CircularLink/Single/source/cirSingleLinkWithHead.cpp.obj: CXX_COMPILER__absDifference_unscanned_Debug D$:/C_Study/WorkSpace/Cpp_Study/08DataStruct/chapter02-Linear_List/02Linked_list/CircularLink/Single/source/cirSingleLinkWithHead.cpp || cmake_object_order_depends_target_absDifference
-  DEP_FILE = CMakeFiles\absDifference.dir\chapter02-Linear_List\02Linked_list\CircularLink\Single\source\cirSingleLinkWithHead.cpp.obj.d
-  FLAGS = -g -fdiagnostics-color=always
-  OBJECT_DIR = CMakeFiles\absDifference.dir
-  OBJECT_FILE_DIR = CMakeFiles\absDifference.dir\chapter02-Linear_List\02Linked_list\CircularLink\Single\source
-  TARGET_COMPILE_PDB = CMakeFiles\absDifference.dir\
-  TARGET_PDB = absDifference.pdb
-
-build CMakeFiles/absDifference.dir/chapter02-Linear_List/02Linked_list/CircularLink/Single/test/testCirSingleLinkWithHead.cpp.obj: CXX_COMPILER__absDifference_unscanned_Debug D$:/C_Study/WorkSpace/Cpp_Study/08DataStruct/chapter02-Linear_List/02Linked_list/CircularLink/Single/test/testCirSingleLinkWithHead.cpp || cmake_object_order_depends_target_absDifference
-  DEP_FILE = CMakeFiles\absDifference.dir\chapter02-Linear_List\02Linked_list\CircularLink\Single\test\testCirSingleLinkWithHead.cpp.obj.d
-  FLAGS = -g -fdiagnostics-color=always
-  OBJECT_DIR = CMakeFiles\absDifference.dir
-  OBJECT_FILE_DIR = CMakeFiles\absDifference.dir\chapter02-Linear_List\02Linked_list\CircularLink\Single\test
-  TARGET_COMPILE_PDB = CMakeFiles\absDifference.dir\
-  TARGET_PDB = absDifference.pdb
-
-build CMakeFiles/absDifference.dir/chapter02-Linear_List/02Linked_list/CircularLink/Double/source/cirDoubleLinkWithHead.cpp.obj: CXX_COMPILER__absDifference_unscanned_Debug D$:/C_Study/WorkSpace/Cpp_Study/08DataStruct/chapter02-Linear_List/02Linked_list/CircularLink/Double/source/cirDoubleLinkWithHead.cpp || cmake_object_order_depends_target_absDifference
-  DEP_FILE = CMakeFiles\absDifference.dir\chapter02-Linear_List\02Linked_list\CircularLink\Double\source\cirDoubleLinkWithHead.cpp.obj.d
-  FLAGS = -g -fdiagnostics-color=always
-  OBJECT_DIR = CMakeFiles\absDifference.dir
-  OBJECT_FILE_DIR = CMakeFiles\absDifference.dir\chapter02-Linear_List\02Linked_list\CircularLink\Double\source
-  TARGET_COMPILE_PDB = CMakeFiles\absDifference.dir\
-  TARGET_PDB = absDifference.pdb
-
-build CMakeFiles/absDifference.dir/chapter02-Linear_List/02Linked_list/StaticLink/source/staticLinkWithHead.cpp.obj: CXX_COMPILER__absDifference_unscanned_Debug D$:/C_Study/WorkSpace/Cpp_Study/08DataStruct/chapter02-Linear_List/02Linked_list/StaticLink/source/staticLinkWithHead.cpp || cmake_object_order_depends_target_absDifference
-  DEP_FILE = CMakeFiles\absDifference.dir\chapter02-Linear_List\02Linked_list\StaticLink\source\staticLinkWithHead.cpp.obj.d
-  FLAGS = -g -fdiagnostics-color=always
-  OBJECT_DIR = CMakeFiles\absDifference.dir
-  OBJECT_FILE_DIR = CMakeFiles\absDifference.dir\chapter02-Linear_List\02Linked_list\StaticLink\source
-  TARGET_COMPILE_PDB = CMakeFiles\absDifference.dir\
-  TARGET_PDB = absDifference.pdb
-
-build CMakeFiles/absDifference.dir/chapter03-stack-queue/Stack/source/staticStack.cpp.obj: CXX_COMPILER__absDifference_unscanned_Debug D$:/C_Study/WorkSpace/Cpp_Study/08DataStruct/chapter03-stack-queue/Stack/source/staticStack.cpp || cmake_object_order_depends_target_absDifference
-  DEP_FILE = CMakeFiles\absDifference.dir\chapter03-stack-queue\Stack\source\staticStack.cpp.obj.d
-  FLAGS = -g -fdiagnostics-color=always
-  OBJECT_DIR = CMakeFiles\absDifference.dir
-  OBJECT_FILE_DIR = CMakeFiles\absDifference.dir\chapter03-stack-queue\Stack\source
-  TARGET_COMPILE_PDB = CMakeFiles\absDifference.dir\
-  TARGET_PDB = absDifference.pdb
-
-build CMakeFiles/absDifference.dir/chapter03-stack-queue/Stack/test/testStaticStack.cpp.obj: CXX_COMPILER__absDifference_unscanned_Debug D$:/C_Study/WorkSpace/Cpp_Study/08DataStruct/chapter03-stack-queue/Stack/test/testStaticStack.cpp || cmake_object_order_depends_target_absDifference
-  DEP_FILE = CMakeFiles\absDifference.dir\chapter03-stack-queue\Stack\test\testStaticStack.cpp.obj.d
-  FLAGS = -g -fdiagnostics-color=always
-  OBJECT_DIR = CMakeFiles\absDifference.dir
-  OBJECT_FILE_DIR = CMakeFiles\absDifference.dir\chapter03-stack-queue\Stack\test
-  TARGET_COMPILE_PDB = CMakeFiles\absDifference.dir\
-  TARGET_PDB = absDifference.pdb
-
-build CMakeFiles/absDifference.dir/chapter03-stack-queue/Stack/source/staticSharedStack.cpp.obj: CXX_COMPILER__absDifference_unscanned_Debug D$:/C_Study/WorkSpace/Cpp_Study/08DataStruct/chapter03-stack-queue/Stack/source/staticSharedStack.cpp || cmake_object_order_depends_target_absDifference
-  DEP_FILE = CMakeFiles\absDifference.dir\chapter03-stack-queue\Stack\source\staticSharedStack.cpp.obj.d
-  FLAGS = -g -fdiagnostics-color=always
-  OBJECT_DIR = CMakeFiles\absDifference.dir
-  OBJECT_FILE_DIR = CMakeFiles\absDifference.dir\chapter03-stack-queue\Stack\source
-  TARGET_COMPILE_PDB = CMakeFiles\absDifference.dir\
-  TARGET_PDB = absDifference.pdb
-
-build CMakeFiles/absDifference.dir/chapter03-stack-queue/Stack/test/teststaticSharedStack.cpp.obj: CXX_COMPILER__absDifference_unscanned_Debug D$:/C_Study/WorkSpace/Cpp_Study/08DataStruct/chapter03-stack-queue/Stack/test/teststaticSharedStack.cpp || cmake_object_order_depends_target_absDifference
-  DEP_FILE = CMakeFiles\absDifference.dir\chapter03-stack-queue\Stack\test\teststaticSharedStack.cpp.obj.d
-  FLAGS = -g -fdiagnostics-color=always
-  OBJECT_DIR = CMakeFiles\absDifference.dir
-  OBJECT_FILE_DIR = CMakeFiles\absDifference.dir\chapter03-stack-queue\Stack\test
-  TARGET_COMPILE_PDB = CMakeFiles\absDifference.dir\
-  TARGET_PDB = absDifference.pdb
-
-build CMakeFiles/absDifference.dir/chapter03-stack-queue/Stack/source/LinkStack.cpp.obj: CXX_COMPILER__absDifference_unscanned_Debug D$:/C_Study/WorkSpace/Cpp_Study/08DataStruct/chapter03-stack-queue/Stack/source/LinkStack.cpp || cmake_object_order_depends_target_absDifference
-  DEP_FILE = CMakeFiles\absDifference.dir\chapter03-stack-queue\Stack\source\LinkStack.cpp.obj.d
-  FLAGS = -g -fdiagnostics-color=always
-  OBJECT_DIR = CMakeFiles\absDifference.dir
-  OBJECT_FILE_DIR = CMakeFiles\absDifference.dir\chapter03-stack-queue\Stack\source
-  TARGET_COMPILE_PDB = CMakeFiles\absDifference.dir\
-  TARGET_PDB = absDifference.pdb
-
-build CMakeFiles/absDifference.dir/chapter03-stack-queue/Stack/test/testLinkStack.cpp.obj: CXX_COMPILER__absDifference_unscanned_Debug D$:/C_Study/WorkSpace/Cpp_Study/08DataStruct/chapter03-stack-queue/Stack/test/testLinkStack.cpp || cmake_object_order_depends_target_absDifference
-  DEP_FILE = CMakeFiles\absDifference.dir\chapter03-stack-queue\Stack\test\testLinkStack.cpp.obj.d
-  FLAGS = -g -fdiagnostics-color=always
-  OBJECT_DIR = CMakeFiles\absDifference.dir
-  OBJECT_FILE_DIR = CMakeFiles\absDifference.dir\chapter03-stack-queue\Stack\test
-  TARGET_COMPILE_PDB = CMakeFiles\absDifference.dir\
-  TARGET_PDB = absDifference.pdb
-
-build CMakeFiles/absDifference.dir/chapter03-stack-queue/Stack/source/staticStack_Hero.cpp.obj: CXX_COMPILER__absDifference_unscanned_Debug D$:/C_Study/WorkSpace/Cpp_Study/08DataStruct/chapter03-stack-queue/Stack/source/staticStack_Hero.cpp || cmake_object_order_depends_target_absDifference
-  DEP_FILE = CMakeFiles\absDifference.dir\chapter03-stack-queue\Stack\source\staticStack_Hero.cpp.obj.d
-  FLAGS = -g -fdiagnostics-color=always
-  OBJECT_DIR = CMakeFiles\absDifference.dir
-  OBJECT_FILE_DIR = CMakeFiles\absDifference.dir\chapter03-stack-queue\Stack\source
-  TARGET_COMPILE_PDB = CMakeFiles\absDifference.dir\
-  TARGET_PDB = absDifference.pdb
-
-build CMakeFiles/absDifference.dir/chapter03-stack-queue/Stack/test/teststaticStack_Hero.cpp.obj: CXX_COMPILER__absDifference_unscanned_Debug D$:/C_Study/WorkSpace/Cpp_Study/08DataStruct/chapter03-stack-queue/Stack/test/teststaticStack_Hero.cpp || cmake_object_order_depends_target_absDifference
-  DEP_FILE = CMakeFiles\absDifference.dir\chapter03-stack-queue\Stack\test\teststaticStack_Hero.cpp.obj.d
-  FLAGS = -g -fdiagnostics-color=always
-  OBJECT_DIR = CMakeFiles\absDifference.dir
-  OBJECT_FILE_DIR = CMakeFiles\absDifference.dir\chapter03-stack-queue\Stack\test
-  TARGET_COMPILE_PDB = CMakeFiles\absDifference.dir\
-  TARGET_PDB = absDifference.pdb
-
-build CMakeFiles/absDifference.dir/chapter03-stack-queue/Stack/source/LinkStack_Hero.cpp.obj: CXX_COMPILER__absDifference_unscanned_Debug D$:/C_Study/WorkSpace/Cpp_Study/08DataStruct/chapter03-stack-queue/Stack/source/LinkStack_Hero.cpp || cmake_object_order_depends_target_absDifference
-  DEP_FILE = CMakeFiles\absDifference.dir\chapter03-stack-queue\Stack\source\LinkStack_Hero.cpp.obj.d
-  FLAGS = -g -fdiagnostics-color=always
-  OBJECT_DIR = CMakeFiles\absDifference.dir
-  OBJECT_FILE_DIR = CMakeFiles\absDifference.dir\chapter03-stack-queue\Stack\source
-  TARGET_COMPILE_PDB = CMakeFiles\absDifference.dir\
-  TARGET_PDB = absDifference.pdb
-
-build CMakeFiles/absDifference.dir/chapter03-stack-queue/Stack/test/testLinkStack_Hero.cpp.obj: CXX_COMPILER__absDifference_unscanned_Debug D$:/C_Study/WorkSpace/Cpp_Study/08DataStruct/chapter03-stack-queue/Stack/test/testLinkStack_Hero.cpp || cmake_object_order_depends_target_absDifference
-  DEP_FILE = CMakeFiles\absDifference.dir\chapter03-stack-queue\Stack\test\testLinkStack_Hero.cpp.obj.d
-  FLAGS = -g -fdiagnostics-color=always
-  OBJECT_DIR = CMakeFiles\absDifference.dir
-  OBJECT_FILE_DIR = CMakeFiles\absDifference.dir\chapter03-stack-queue\Stack\test
-  TARGET_COMPILE_PDB = CMakeFiles\absDifference.dir\
-  TARGET_PDB = absDifference.pdb
-
-build CMakeFiles/absDifference.dir/chapter03-stack-queue/Stack/test/testCppStack.cpp.obj: CXX_COMPILER__absDifference_unscanned_Debug D$:/C_Study/WorkSpace/Cpp_Study/08DataStruct/chapter03-stack-queue/Stack/test/testCppStack.cpp || cmake_object_order_depends_target_absDifference
-  DEP_FILE = CMakeFiles\absDifference.dir\chapter03-stack-queue\Stack\test\testCppStack.cpp.obj.d
-  FLAGS = -g -fdiagnostics-color=always
-  OBJECT_DIR = CMakeFiles\absDifference.dir
-  OBJECT_FILE_DIR = CMakeFiles\absDifference.dir\chapter03-stack-queue\Stack\test
-  TARGET_COMPILE_PDB = CMakeFiles\absDifference.dir\
-  TARGET_PDB = absDifference.pdb
-
-build CMakeFiles/absDifference.dir/chapter03-stack-queue/Stack/LeetCode/decToBinary.cpp.obj: CXX_COMPILER__absDifference_unscanned_Debug D$:/C_Study/WorkSpace/Cpp_Study/08DataStruct/chapter03-stack-queue/Stack/LeetCode/decToBinary.cpp || cmake_object_order_depends_target_absDifference
-  DEP_FILE = CMakeFiles\absDifference.dir\chapter03-stack-queue\Stack\LeetCode\decToBinary.cpp.obj.d
-  FLAGS = -g -fdiagnostics-color=always
-  OBJECT_DIR = CMakeFiles\absDifference.dir
-  OBJECT_FILE_DIR = CMakeFiles\absDifference.dir\chapter03-stack-queue\Stack\LeetCode
-  TARGET_COMPILE_PDB = CMakeFiles\absDifference.dir\
-  TARGET_PDB = absDifference.pdb
-
-build CMakeFiles/absDifference.dir/chapter03-stack-queue/Stack/LeetCode/decToAny.cpp.obj: CXX_COMPILER__absDifference_unscanned_Debug D$:/C_Study/WorkSpace/Cpp_Study/08DataStruct/chapter03-stack-queue/Stack/LeetCode/decToAny.cpp || cmake_object_order_depends_target_absDifference
-  DEP_FILE = CMakeFiles\absDifference.dir\chapter03-stack-queue\Stack\LeetCode\decToAny.cpp.obj.d
-  FLAGS = -g -fdiagnostics-color=always
-  OBJECT_DIR = CMakeFiles\absDifference.dir
-  OBJECT_FILE_DIR = CMakeFiles\absDifference.dir\chapter03-stack-queue\Stack\LeetCode
-  TARGET_COMPILE_PDB = CMakeFiles\absDifference.dir\
-  TARGET_PDB = absDifference.pdb
-
-build CMakeFiles/absDifference.dir/chapter03-stack-queue/Stack/LeetCode/arrangeBook_Stack.cpp.obj: CXX_COMPILER__absDifference_unscanned_Debug D$:/C_Study/WorkSpace/Cpp_Study/08DataStruct/chapter03-stack-queue/Stack/LeetCode/arrangeBook_Stack.cpp || cmake_object_order_depends_target_absDifference
-  DEP_FILE = CMakeFiles\absDifference.dir\chapter03-stack-queue\Stack\LeetCode\arrangeBook_Stack.cpp.obj.d
-  FLAGS = -g -fdiagnostics-color=always
-  OBJECT_DIR = CMakeFiles\absDifference.dir
-  OBJECT_FILE_DIR = CMakeFiles\absDifference.dir\chapter03-stack-queue\Stack\LeetCode
-  TARGET_COMPILE_PDB = CMakeFiles\absDifference.dir\
-  TARGET_PDB = absDifference.pdb
-
-build CMakeFiles/absDifference.dir/chapter03-stack-queue/Stack/LeetCode/palindromeLink.cpp.obj: CXX_COMPILER__absDifference_unscanned_Debug D$:/C_Study/WorkSpace/Cpp_Study/08DataStruct/chapter03-stack-queue/Stack/LeetCode/palindromeLink.cpp || cmake_object_order_depends_target_absDifference
-  DEP_FILE = CMakeFiles\absDifference.dir\chapter03-stack-queue\Stack\LeetCode\palindromeLink.cpp.obj.d
-  FLAGS = -g -fdiagnostics-color=always
-  OBJECT_DIR = CMakeFiles\absDifference.dir
-  OBJECT_FILE_DIR = CMakeFiles\absDifference.dir\chapter03-stack-queue\Stack\LeetCode
-  TARGET_COMPILE_PDB = CMakeFiles\absDifference.dir\
-  TARGET_PDB = absDifference.pdb
-
-build CMakeFiles/absDifference.dir/chapter03-stack-queue/Stack/LeetCode/maxDepthBracket.cpp.obj: CXX_COMPILER__absDifference_unscanned_Debug D$:/C_Study/WorkSpace/Cpp_Study/08DataStruct/chapter03-stack-queue/Stack/LeetCode/maxDepthBracket.cpp || cmake_object_order_depends_target_absDifference
-  DEP_FILE = CMakeFiles\absDifference.dir\chapter03-stack-queue\Stack\LeetCode\maxDepthBracket.cpp.obj.d
-  FLAGS = -g -fdiagnostics-color=always
-  OBJECT_DIR = CMakeFiles\absDifference.dir
-  OBJECT_FILE_DIR = CMakeFiles\absDifference.dir\chapter03-stack-queue\Stack\LeetCode
-  TARGET_COMPILE_PDB = CMakeFiles\absDifference.dir\
-  TARGET_PDB = absDifference.pdb
-
-build CMakeFiles/absDifference.dir/chapter03-stack-queue/Stack/LeetCode/validBracket.cpp.obj: CXX_COMPILER__absDifference_unscanned_Debug D$:/C_Study/WorkSpace/Cpp_Study/08DataStruct/chapter03-stack-queue/Stack/LeetCode/validBracket.cpp || cmake_object_order_depends_target_absDifference
-  DEP_FILE = CMakeFiles\absDifference.dir\chapter03-stack-queue\Stack\LeetCode\validBracket.cpp.obj.d
-  FLAGS = -g -fdiagnostics-color=always
-  OBJECT_DIR = CMakeFiles\absDifference.dir
-  OBJECT_FILE_DIR = CMakeFiles\absDifference.dir\chapter03-stack-queue\Stack\LeetCode
-  TARGET_COMPILE_PDB = CMakeFiles\absDifference.dir\
-  TARGET_PDB = absDifference.pdb
-
-build CMakeFiles/absDifference.dir/chapter03-stack-queue/Queue/source/staticQueue.cpp.obj: CXX_COMPILER__absDifference_unscanned_Debug D$:/C_Study/WorkSpace/Cpp_Study/08DataStruct/chapter03-stack-queue/Queue/source/staticQueue.cpp || cmake_object_order_depends_target_absDifference
-  DEP_FILE = CMakeFiles\absDifference.dir\chapter03-stack-queue\Queue\source\staticQueue.cpp.obj.d
-  FLAGS = -g -fdiagnostics-color=always
-  OBJECT_DIR = CMakeFiles\absDifference.dir
-  OBJECT_FILE_DIR = CMakeFiles\absDifference.dir\chapter03-stack-queue\Queue\source
-  TARGET_COMPILE_PDB = CMakeFiles\absDifference.dir\
-  TARGET_PDB = absDifference.pdb
-
-build CMakeFiles/absDifference.dir/chapter03-stack-queue/Queue/test/testStaticQueue.cpp.obj: CXX_COMPILER__absDifference_unscanned_Debug D$:/C_Study/WorkSpace/Cpp_Study/08DataStruct/chapter03-stack-queue/Queue/test/testStaticQueue.cpp || cmake_object_order_depends_target_absDifference
-  DEP_FILE = CMakeFiles\absDifference.dir\chapter03-stack-queue\Queue\test\testStaticQueue.cpp.obj.d
-  FLAGS = -g -fdiagnostics-color=always
-  OBJECT_DIR = CMakeFiles\absDifference.dir
-  OBJECT_FILE_DIR = CMakeFiles\absDifference.dir\chapter03-stack-queue\Queue\test
-  TARGET_COMPILE_PDB = CMakeFiles\absDifference.dir\
-  TARGET_PDB = absDifference.pdb
-
-build CMakeFiles/absDifference.dir/chapter03-stack-queue/Queue/source/staticQueue02.cpp.obj: CXX_COMPILER__absDifference_unscanned_Debug D$:/C_Study/WorkSpace/Cpp_Study/08DataStruct/chapter03-stack-queue/Queue/source/staticQueue02.cpp || cmake_object_order_depends_target_absDifference
-  DEP_FILE = CMakeFiles\absDifference.dir\chapter03-stack-queue\Queue\source\staticQueue02.cpp.obj.d
-  FLAGS = -g -fdiagnostics-color=always
-  OBJECT_DIR = CMakeFiles\absDifference.dir
-  OBJECT_FILE_DIR = CMakeFiles\absDifference.dir\chapter03-stack-queue\Queue\source
-  TARGET_COMPILE_PDB = CMakeFiles\absDifference.dir\
-  TARGET_PDB = absDifference.pdb
-
-build CMakeFiles/absDifference.dir/chapter03-stack-queue/Queue/source/staticQueue03.cpp.obj: CXX_COMPILER__absDifference_unscanned_Debug D$:/C_Study/WorkSpace/Cpp_Study/08DataStruct/chapter03-stack-queue/Queue/source/staticQueue03.cpp || cmake_object_order_depends_target_absDifference
-  DEP_FILE = CMakeFiles\absDifference.dir\chapter03-stack-queue\Queue\source\staticQueue03.cpp.obj.d
-  FLAGS = -g -fdiagnostics-color=always
-  OBJECT_DIR = CMakeFiles\absDifference.dir
-  OBJECT_FILE_DIR = CMakeFiles\absDifference.dir\chapter03-stack-queue\Queue\source
-  TARGET_COMPILE_PDB = CMakeFiles\absDifference.dir\
-  TARGET_PDB = absDifference.pdb
-
-build CMakeFiles/absDifference.dir/chapter03-stack-queue/Queue/source/staticQueue04.cpp.obj: CXX_COMPILER__absDifference_unscanned_Debug D$:/C_Study/WorkSpace/Cpp_Study/08DataStruct/chapter03-stack-queue/Queue/source/staticQueue04.cpp || cmake_object_order_depends_target_absDifference
-  DEP_FILE = CMakeFiles\absDifference.dir\chapter03-stack-queue\Queue\source\staticQueue04.cpp.obj.d
-  FLAGS = -g -fdiagnostics-color=always
-  OBJECT_DIR = CMakeFiles\absDifference.dir
-  OBJECT_FILE_DIR = CMakeFiles\absDifference.dir\chapter03-stack-queue\Queue\source
-  TARGET_COMPILE_PDB = CMakeFiles\absDifference.dir\
-  TARGET_PDB = absDifference.pdb
-
-build CMakeFiles/absDifference.dir/chapter03-stack-queue/Queue/source/LinkQueueWithHead.cpp.obj: CXX_COMPILER__absDifference_unscanned_Debug D$:/C_Study/WorkSpace/Cpp_Study/08DataStruct/chapter03-stack-queue/Queue/source/LinkQueueWithHead.cpp || cmake_object_order_depends_target_absDifference
-  DEP_FILE = CMakeFiles\absDifference.dir\chapter03-stack-queue\Queue\source\LinkQueueWithHead.cpp.obj.d
-  FLAGS = -g -fdiagnostics-color=always
-  OBJECT_DIR = CMakeFiles\absDifference.dir
-  OBJECT_FILE_DIR = CMakeFiles\absDifference.dir\chapter03-stack-queue\Queue\source
-  TARGET_COMPILE_PDB = CMakeFiles\absDifference.dir\
-  TARGET_PDB = absDifference.pdb
-
-build CMakeFiles/absDifference.dir/chapter03-stack-queue/Queue/source/LinkQueueWithoutHead.cpp.obj: CXX_COMPILER__absDifference_unscanned_Debug D$:/C_Study/WorkSpace/Cpp_Study/08DataStruct/chapter03-stack-queue/Queue/source/LinkQueueWithoutHead.cpp || cmake_object_order_depends_target_absDifference
-  DEP_FILE = CMakeFiles\absDifference.dir\chapter03-stack-queue\Queue\source\LinkQueueWithoutHead.cpp.obj.d
-  FLAGS = -g -fdiagnostics-color=always
-  OBJECT_DIR = CMakeFiles\absDifference.dir
-  OBJECT_FILE_DIR = CMakeFiles\absDifference.dir\chapter03-stack-queue\Queue\source
-  TARGET_COMPILE_PDB = CMakeFiles\absDifference.dir\
-  TARGET_PDB = absDifference.pdb
-
-build CMakeFiles/absDifference.dir/chapter03-stack-queue/Queue/source/doublePointLinkQueueWithHead.cpp.obj: CXX_COMPILER__absDifference_unscanned_Debug D$:/C_Study/WorkSpace/Cpp_Study/08DataStruct/chapter03-stack-queue/Queue/source/doublePointLinkQueueWithHead.cpp || cmake_object_order_depends_target_absDifference
-  DEP_FILE = CMakeFiles\absDifference.dir\chapter03-stack-queue\Queue\source\doublePointLinkQueueWithHead.cpp.obj.d
-  FLAGS = -g -fdiagnostics-color=always
-  OBJECT_DIR = CMakeFiles\absDifference.dir
-  OBJECT_FILE_DIR = CMakeFiles\absDifference.dir\chapter03-stack-queue\Queue\source
-  TARGET_COMPILE_PDB = CMakeFiles\absDifference.dir\
-  TARGET_PDB = absDifference.pdb
-
-build CMakeFiles/absDifference.dir/chapter03-stack-queue/Queue/source/doublePointLinkQueueWithoutHead.cpp.obj: CXX_COMPILER__absDifference_unscanned_Debug D$:/C_Study/WorkSpace/Cpp_Study/08DataStruct/chapter03-stack-queue/Queue/source/doublePointLinkQueueWithoutHead.cpp || cmake_object_order_depends_target_absDifference
-  DEP_FILE = CMakeFiles\absDifference.dir\chapter03-stack-queue\Queue\source\doublePointLinkQueueWithoutHead.cpp.obj.d
-  FLAGS = -g -fdiagnostics-color=always
-  OBJECT_DIR = CMakeFiles\absDifference.dir
-  OBJECT_FILE_DIR = CMakeFiles\absDifference.dir\chapter03-stack-queue\Queue\source
-  TARGET_COMPILE_PDB = CMakeFiles\absDifference.dir\
-  TARGET_PDB = absDifference.pdb
-
-build CMakeFiles/absDifference.dir/chapter03-stack-queue/Queue/test/testdoublePointLinkQueueWithoutHead.cpp.obj: CXX_COMPILER__absDifference_unscanned_Debug D$:/C_Study/WorkSpace/Cpp_Study/08DataStruct/chapter03-stack-queue/Queue/test/testdoublePointLinkQueueWithoutHead.cpp || cmake_object_order_depends_target_absDifference
-  DEP_FILE = CMakeFiles\absDifference.dir\chapter03-stack-queue\Queue\test\testdoublePointLinkQueueWithoutHead.cpp.obj.d
-  FLAGS = -g -fdiagnostics-color=always
-  OBJECT_DIR = CMakeFiles\absDifference.dir
-  OBJECT_FILE_DIR = CMakeFiles\absDifference.dir\chapter03-stack-queue\Queue\test
-  TARGET_COMPILE_PDB = CMakeFiles\absDifference.dir\
-  TARGET_PDB = absDifference.pdb
-
-build CMakeFiles/absDifference.dir/chapter03-stack-queue/Queue/test/testdoublePointLinkQueueWithHead.cpp.obj: CXX_COMPILER__absDifference_unscanned_Debug D$:/C_Study/WorkSpace/Cpp_Study/08DataStruct/chapter03-stack-queue/Queue/test/testdoublePointLinkQueueWithHead.cpp || cmake_object_order_depends_target_absDifference
-  DEP_FILE = CMakeFiles\absDifference.dir\chapter03-stack-queue\Queue\test\testdoublePointLinkQueueWithHead.cpp.obj.d
-  FLAGS = -g -fdiagnostics-color=always
-  OBJECT_DIR = CMakeFiles\absDifference.dir
-  OBJECT_FILE_DIR = CMakeFiles\absDifference.dir\chapter03-stack-queue\Queue\test
-  TARGET_COMPILE_PDB = CMakeFiles\absDifference.dir\
-  TARGET_PDB = absDifference.pdb
-
-build CMakeFiles/absDifference.dir/chapter03-stack-queue/Queue/source/doublePointStaticQueue.cpp.obj: CXX_COMPILER__absDifference_unscanned_Debug D$:/C_Study/WorkSpace/Cpp_Study/08DataStruct/chapter03-stack-queue/Queue/source/doublePointStaticQueue.cpp || cmake_object_order_depends_target_absDifference
-  DEP_FILE = CMakeFiles\absDifference.dir\chapter03-stack-queue\Queue\source\doublePointStaticQueue.cpp.obj.d
-  FLAGS = -g -fdiagnostics-color=always
-  OBJECT_DIR = CMakeFiles\absDifference.dir
-  OBJECT_FILE_DIR = CMakeFiles\absDifference.dir\chapter03-stack-queue\Queue\source
-  TARGET_COMPILE_PDB = CMakeFiles\absDifference.dir\
-  TARGET_PDB = absDifference.pdb
-
-build CMakeFiles/absDifference.dir/chapter03-stack-queue/Stack/LeetCode/bracketMatch.cpp.obj: CXX_COMPILER__absDifference_unscanned_Debug D$:/C_Study/WorkSpace/Cpp_Study/08DataStruct/chapter03-stack-queue/Stack/LeetCode/bracketMatch.cpp || cmake_object_order_depends_target_absDifference
-  DEP_FILE = CMakeFiles\absDifference.dir\chapter03-stack-queue\Stack\LeetCode\bracketMatch.cpp.obj.d
-  FLAGS = -g -fdiagnostics-color=always
-  OBJECT_DIR = CMakeFiles\absDifference.dir
-  OBJECT_FILE_DIR = CMakeFiles\absDifference.dir\chapter03-stack-queue\Stack\LeetCode
-  TARGET_COMPILE_PDB = CMakeFiles\absDifference.dir\
-  TARGET_PDB = absDifference.pdb
 
 
 # =============================================================================
@@ -969,16 +591,15 @@ build CMakeFiles/absDifference.dir/chapter03-stack-queue/Stack/LeetCode/bracketM
 #############################################
 # Link the executable absDifference.exe
 
-build absDifference.exe: CXX_EXECUTABLE_LINKER__absDifference_Debug CMakeFiles/absDifference.dir/chapter02-Linear_List/01Sequence_table/LeetCode/absDifference.cpp.obj CMakeFiles/absDifference.dir/chapter02-Linear_List/02Linked_list/DoubleLink/source/doubleLinkWithHead.cpp.obj CMakeFiles/absDifference.dir/chapter02-Linear_List/02Linked_list/DoubleLink/test/testDoubleLinkWithHead.cpp.obj CMakeFiles/absDifference.dir/chapter02-Linear_List/02Linked_list/DoubleLink/source/doubleLinkWithoutHead.cpp.obj CMakeFiles/absDifference.dir/chapter02-Linear_List/02Linked_list/CircularLink/Single/source/cirSingleLinkWithHead.cpp.obj CMakeFiles/absDifference.dir/chapter02-Linear_List/02Linked_list/CircularLink/Single/test/testCirSingleLinkWithHead.cpp.obj CMakeFiles/absDifference.dir/chapter02-Linear_List/02Linked_list/CircularLink/Double/source/cirDoubleLinkWithHead.cpp.obj CMakeFiles/absDifference.dir/chapter02-Linear_List/02Linked_list/StaticLink/source/staticLinkWithHead.cpp.obj CMakeFiles/absDifference.dir/chapter03-stack-queue/Stack/source/staticStack.cpp.obj CMakeFiles/absDifference.dir/chapter03-stack-queue/Stack/test/testStaticStack.cpp.obj CMakeFiles/absDifference.dir/chapter03-stack-queue/Stack/source/staticSharedStack.cpp.obj CMakeFiles/absDifference.dir/chapter03-stack-queue/Stack/test/teststaticSharedStack.cpp.obj CMakeFiles/absDifference.dir/chapter03-stack-queue/Stack/source/LinkStack.cpp.obj CMakeFiles/absDifference.dir/chapter03-stack-queue/Stack/test/testLinkStack.cpp.obj CMakeFiles/absDifference.dir/chapter03-stack-queue/Stack/source/staticStack_Hero.cpp.obj CMakeFiles/absDifference.dir/chapter03-stack-queue/Stack/test/teststaticStack_Hero.cpp.obj CMakeFiles/absDifference.dir/chapter03-stack-queue/Stack/source/LinkStack_Hero.cpp.obj CMakeFiles/absDifference.dir/chapter03-stack-queue/Stack/test/testLinkStack_Hero.cpp.obj CMakeFiles/absDifference.dir/chapter03-stack-queue/Stack/test/testCppStack.cpp.obj CMakeFiles/absDifference.dir/chapter03-stack-queue/Stack/LeetCode/decToBinary.cpp.obj CMakeFiles/absDifference.dir/chapter03-stack-queue/Stack/LeetCode/decToAny.cpp.obj CMakeFiles/absDifference.dir/chapter03-stack-queue/Stack/LeetCode/arrangeBook_Stack.cpp.obj CMakeFiles/absDifference.dir/chapter03-stack-queue/Stack/LeetCode/palindromeLink.cpp.obj CMakeFiles/absDifference.dir/chapter03-stack-queue/Stack/LeetCode/maxDepthBracket.cpp.obj CMakeFiles/absDifference.dir/chapter03-stack-queue/Stack/LeetCode/validBracket.cpp.obj CMakeFiles/absDifference.dir/chapter03-stack-queue/Queue/source/staticQueue.cpp.obj CMakeFiles/absDifference.dir/chapter03-stack-queue/Queue/test/testStaticQueue.cpp.obj CMakeFiles/absDifference.dir/chapter03-stack-queue/Queue/source/staticQueue02.cpp.obj CMakeFiles/absDifference.dir/chapter03-stack-queue/Queue/source/staticQueue03.cpp.obj CMakeFiles/absDifference.dir/chapter03-stack-queue/Queue/source/staticQueue04.cpp.obj CMakeFiles/absDifference.dir/chapter03-stack-queue/Queue/source/LinkQueueWithHead.cpp.obj CMakeFiles/absDifference.dir/chapter03-stack-queue/Queue/source/LinkQueueWithoutHead.cpp.obj CMakeFiles/absDifference.dir/chapter03-stack-queue/Queue/source/doublePointLinkQueueWithHead.cpp.obj CMakeFiles/absDifference.dir/chapter03-stack-queue/Queue/source/doublePointLinkQueueWithoutHead.cpp.obj CMakeFiles/absDifference.dir/chapter03-stack-queue/Queue/test/testdoublePointLinkQueueWithoutHead.cpp.obj CMakeFiles/absDifference.dir/chapter03-stack-queue/Queue/test/testdoublePointLinkQueueWithHead.cpp.obj CMakeFiles/absDifference.dir/chapter03-stack-queue/Queue/source/doublePointStaticQueue.cpp.obj CMakeFiles/absDifference.dir/chapter03-stack-queue/Stack/LeetCode/bracketMatch.cpp.obj
+build absDifference.exe: CXX_EXECUTABLE_LINKER__absDifference_Debug CMakeFiles/absDifference.dir/chapter02-Linear_List/01Sequence_table/LeetCode/absDifference.cpp.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\absDifference.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_COMPILE_PDB = CMakeFiles\absDifference.dir\
   TARGET_FILE = absDifference.exe
   TARGET_IMPLIB = libabsDifference.dll.a
-  TARGET_PDB = absDifference.pdb
+  TARGET_PDB = absDifference.exe.dbg
 
 # =============================================================================
 # Object build statements for EXECUTABLE target sumK
@@ -994,8 +615,6 @@ build CMakeFiles/sumK.dir/chapter02-Linear_List/01Sequence_table/LeetCode/sumK.c
   FLAGS = -g -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\sumK.dir
   OBJECT_FILE_DIR = CMakeFiles\sumK.dir\chapter02-Linear_List\01Sequence_table\LeetCode
-  TARGET_COMPILE_PDB = CMakeFiles\sumK.dir\
-  TARGET_PDB = sumK.pdb
 
 
 # =============================================================================
@@ -1011,10 +630,9 @@ build sumK.exe: CXX_EXECUTABLE_LINKER__sumK_Debug CMakeFiles/sumK.dir/chapter02-
   OBJECT_DIR = CMakeFiles\sumK.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_COMPILE_PDB = CMakeFiles\sumK.dir\
   TARGET_FILE = sumK.exe
   TARGET_IMPLIB = libsumK.dll.a
-  TARGET_PDB = sumK.pdb
+  TARGET_PDB = sumK.exe.dbg
 
 # =============================================================================
 # Object build statements for EXECUTABLE target triadCount
@@ -1030,8 +648,6 @@ build CMakeFiles/triadCount.dir/chapter02-Linear_List/01Sequence_table/LeetCode/
   FLAGS = -g -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\triadCount.dir
   OBJECT_FILE_DIR = CMakeFiles\triadCount.dir\chapter02-Linear_List\01Sequence_table\LeetCode
-  TARGET_COMPILE_PDB = CMakeFiles\triadCount.dir\
-  TARGET_PDB = triadCount.pdb
 
 
 # =============================================================================
@@ -1047,10 +663,9 @@ build triadCount.exe: CXX_EXECUTABLE_LINKER__triadCount_Debug CMakeFiles/triadCo
   OBJECT_DIR = CMakeFiles\triadCount.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_COMPILE_PDB = CMakeFiles\triadCount.dir\
   TARGET_FILE = triadCount.exe
   TARGET_IMPLIB = libtriadCount.dll.a
-  TARGET_PDB = triadCount.pdb
+  TARGET_PDB = triadCount.exe.dbg
 
 # =============================================================================
 # Object build statements for EXECUTABLE target removeEle
@@ -1066,8 +681,6 @@ build CMakeFiles/removeEle.dir/chapter02-Linear_List/01Sequence_table/LeetCode/r
   FLAGS = -g -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\removeEle.dir
   OBJECT_FILE_DIR = CMakeFiles\removeEle.dir\chapter02-Linear_List\01Sequence_table\LeetCode
-  TARGET_COMPILE_PDB = CMakeFiles\removeEle.dir\
-  TARGET_PDB = removeEle.pdb
 
 
 # =============================================================================
@@ -1083,10 +696,9 @@ build removeEle.exe: CXX_EXECUTABLE_LINKER__removeEle_Debug CMakeFiles/removeEle
   OBJECT_DIR = CMakeFiles\removeEle.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_COMPILE_PDB = CMakeFiles\removeEle.dir\
   TARGET_FILE = removeEle.exe
   TARGET_IMPLIB = libremoveEle.dll.a
-  TARGET_PDB = removeEle.pdb
+  TARGET_PDB = removeEle.exe.dbg
 
 # =============================================================================
 # Object build statements for EXECUTABLE target buildArray
@@ -1102,8 +714,6 @@ build CMakeFiles/buildArray.dir/chapter02-Linear_List/01Sequence_table/LeetCode/
   FLAGS = -g -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\buildArray.dir
   OBJECT_FILE_DIR = CMakeFiles\buildArray.dir\chapter02-Linear_List\01Sequence_table\LeetCode
-  TARGET_COMPILE_PDB = CMakeFiles\buildArray.dir\
-  TARGET_PDB = buildArray.pdb
 
 
 # =============================================================================
@@ -1119,10 +729,9 @@ build buildArray.exe: CXX_EXECUTABLE_LINKER__buildArray_Debug CMakeFiles/buildAr
   OBJECT_DIR = CMakeFiles\buildArray.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_COMPILE_PDB = CMakeFiles\buildArray.dir\
   TARGET_FILE = buildArray.exe
   TARGET_IMPLIB = libbuildArray.dll.a
-  TARGET_PDB = buildArray.pdb
+  TARGET_PDB = buildArray.exe.dbg
 
 # =============================================================================
 # Object build statements for EXECUTABLE target arrayConcat
@@ -1138,8 +747,6 @@ build CMakeFiles/arrayConcat.dir/chapter02-Linear_List/01Sequence_table/LeetCode
   FLAGS = -g -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\arrayConcat.dir
   OBJECT_FILE_DIR = CMakeFiles\arrayConcat.dir\chapter02-Linear_List\01Sequence_table\LeetCode
-  TARGET_COMPILE_PDB = CMakeFiles\arrayConcat.dir\
-  TARGET_PDB = arrayConcat.pdb
 
 
 # =============================================================================
@@ -1155,10 +762,9 @@ build arrayConcat.exe: CXX_EXECUTABLE_LINKER__arrayConcat_Debug CMakeFiles/array
   OBJECT_DIR = CMakeFiles\arrayConcat.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_COMPILE_PDB = CMakeFiles\arrayConcat.dir\
   TARGET_FILE = arrayConcat.exe
   TARGET_IMPLIB = libarrayConcat.dll.a
-  TARGET_PDB = arrayConcat.pdb
+  TARGET_PDB = arrayConcat.exe.dbg
 
 # =============================================================================
 # Object build statements for EXECUTABLE target candyKid
@@ -1174,8 +780,6 @@ build CMakeFiles/candyKid.dir/chapter02-Linear_List/01Sequence_table/LeetCode/ca
   FLAGS = -g -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\candyKid.dir
   OBJECT_FILE_DIR = CMakeFiles\candyKid.dir\chapter02-Linear_List\01Sequence_table\LeetCode
-  TARGET_COMPILE_PDB = CMakeFiles\candyKid.dir\
-  TARGET_PDB = candyKid.pdb
 
 
 # =============================================================================
@@ -1191,10 +795,9 @@ build candyKid.exe: CXX_EXECUTABLE_LINKER__candyKid_Debug CMakeFiles/candyKid.di
   OBJECT_DIR = CMakeFiles\candyKid.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_COMPILE_PDB = CMakeFiles\candyKid.dir\
   TARGET_FILE = candyKid.exe
   TARGET_IMPLIB = libcandyKid.dll.a
-  TARGET_PDB = candyKid.pdb
+  TARGET_PDB = candyKid.exe.dbg
 
 # =============================================================================
 # Object build statements for EXECUTABLE target arrayMiddle
@@ -1210,8 +813,6 @@ build CMakeFiles/arrayMiddle.dir/chapter02-Linear_List/01Sequence_table/LeetCode
   FLAGS = -g -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\arrayMiddle.dir
   OBJECT_FILE_DIR = CMakeFiles\arrayMiddle.dir\chapter02-Linear_List\01Sequence_table\LeetCode
-  TARGET_COMPILE_PDB = CMakeFiles\arrayMiddle.dir\
-  TARGET_PDB = arrayMiddle.pdb
 
 
 # =============================================================================
@@ -1227,10 +828,9 @@ build arrayMiddle.exe: CXX_EXECUTABLE_LINKER__arrayMiddle_Debug CMakeFiles/array
   OBJECT_DIR = CMakeFiles\arrayMiddle.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_COMPILE_PDB = CMakeFiles\arrayMiddle.dir\
   TARGET_FILE = arrayMiddle.exe
   TARGET_IMPLIB = libarrayMiddle.dll.a
-  TARGET_PDB = arrayMiddle.pdb
+  TARGET_PDB = arrayMiddle.exe.dbg
 
 # =============================================================================
 # Object build statements for EXECUTABLE target singleEle
@@ -1246,8 +846,6 @@ build CMakeFiles/singleEle.dir/chapter02-Linear_List/01Sequence_table/LeetCode/s
   FLAGS = -g -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\singleEle.dir
   OBJECT_FILE_DIR = CMakeFiles\singleEle.dir\chapter02-Linear_List\01Sequence_table\LeetCode
-  TARGET_COMPILE_PDB = CMakeFiles\singleEle.dir\
-  TARGET_PDB = singleEle.pdb
 
 
 # =============================================================================
@@ -1263,10 +861,9 @@ build singleEle.exe: CXX_EXECUTABLE_LINKER__singleEle_Debug CMakeFiles/singleEle
   OBJECT_DIR = CMakeFiles\singleEle.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_COMPILE_PDB = CMakeFiles\singleEle.dir\
   TARGET_FILE = singleEle.exe
   TARGET_IMPLIB = libsingleEle.dll.a
-  TARGET_PDB = singleEle.pdb
+  TARGET_PDB = singleEle.exe.dbg
 
 # =============================================================================
 # Object build statements for EXECUTABLE target yanghuiTriangle
@@ -1282,8 +879,6 @@ build CMakeFiles/yanghuiTriangle.dir/chapter02-Linear_List/01Sequence_table/Leet
   FLAGS = -g -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\yanghuiTriangle.dir
   OBJECT_FILE_DIR = CMakeFiles\yanghuiTriangle.dir\chapter02-Linear_List\01Sequence_table\LeetCode
-  TARGET_COMPILE_PDB = CMakeFiles\yanghuiTriangle.dir\
-  TARGET_PDB = yanghuiTriangle.pdb
 
 
 # =============================================================================
@@ -1299,10 +894,9 @@ build yanghuiTriangle.exe: CXX_EXECUTABLE_LINKER__yanghuiTriangle_Debug CMakeFil
   OBJECT_DIR = CMakeFiles\yanghuiTriangle.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_COMPILE_PDB = CMakeFiles\yanghuiTriangle.dir\
   TARGET_FILE = yanghuiTriangle.exe
   TARGET_IMPLIB = libyanghuiTriangle.dll.a
-  TARGET_PDB = yanghuiTriangle.pdb
+  TARGET_PDB = yanghuiTriangle.exe.dbg
 
 # =============================================================================
 # Object build statements for EXECUTABLE target testSingleLinkWithHead
@@ -1318,16 +912,12 @@ build CMakeFiles/testSingleLinkWithHead.dir/chapter02-Linear_List/02Linked_list/
   FLAGS = -g -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\testSingleLinkWithHead.dir
   OBJECT_FILE_DIR = CMakeFiles\testSingleLinkWithHead.dir\chapter02-Linear_List\02Linked_list\SingleLink\test
-  TARGET_COMPILE_PDB = CMakeFiles\testSingleLinkWithHead.dir\
-  TARGET_PDB = testSingleLinkWithHead.pdb
 
 build CMakeFiles/testSingleLinkWithHead.dir/chapter02-Linear_List/02Linked_list/SingleLink/source/singleLinkWithHead.cpp.obj: CXX_COMPILER__testSingleLinkWithHead_unscanned_Debug D$:/C_Study/WorkSpace/Cpp_Study/08DataStruct/chapter02-Linear_List/02Linked_list/SingleLink/source/singleLinkWithHead.cpp || cmake_object_order_depends_target_testSingleLinkWithHead
   DEP_FILE = CMakeFiles\testSingleLinkWithHead.dir\chapter02-Linear_List\02Linked_list\SingleLink\source\singleLinkWithHead.cpp.obj.d
   FLAGS = -g -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\testSingleLinkWithHead.dir
   OBJECT_FILE_DIR = CMakeFiles\testSingleLinkWithHead.dir\chapter02-Linear_List\02Linked_list\SingleLink\source
-  TARGET_COMPILE_PDB = CMakeFiles\testSingleLinkWithHead.dir\
-  TARGET_PDB = testSingleLinkWithHead.pdb
 
 
 # =============================================================================
@@ -1343,10 +933,9 @@ build testSingleLinkWithHead.exe: CXX_EXECUTABLE_LINKER__testSingleLinkWithHead_
   OBJECT_DIR = CMakeFiles\testSingleLinkWithHead.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_COMPILE_PDB = CMakeFiles\testSingleLinkWithHead.dir\
   TARGET_FILE = testSingleLinkWithHead.exe
   TARGET_IMPLIB = libtestSingleLinkWithHead.dll.a
-  TARGET_PDB = testSingleLinkWithHead.pdb
+  TARGET_PDB = testSingleLinkWithHead.exe.dbg
 
 # =============================================================================
 # Object build statements for EXECUTABLE target testSingleLinkWithoutHead
@@ -1362,16 +951,12 @@ build CMakeFiles/testSingleLinkWithoutHead.dir/chapter02-Linear_List/02Linked_li
   FLAGS = -g -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\testSingleLinkWithoutHead.dir
   OBJECT_FILE_DIR = CMakeFiles\testSingleLinkWithoutHead.dir\chapter02-Linear_List\02Linked_list\SingleLink\test
-  TARGET_COMPILE_PDB = CMakeFiles\testSingleLinkWithoutHead.dir\
-  TARGET_PDB = testSingleLinkWithoutHead.pdb
 
 build CMakeFiles/testSingleLinkWithoutHead.dir/chapter02-Linear_List/02Linked_list/SingleLink/source/singleLinkWithoutHead.cpp.obj: CXX_COMPILER__testSingleLinkWithoutHead_unscanned_Debug D$:/C_Study/WorkSpace/Cpp_Study/08DataStruct/chapter02-Linear_List/02Linked_list/SingleLink/source/singleLinkWithoutHead.cpp || cmake_object_order_depends_target_testSingleLinkWithoutHead
   DEP_FILE = CMakeFiles\testSingleLinkWithoutHead.dir\chapter02-Linear_List\02Linked_list\SingleLink\source\singleLinkWithoutHead.cpp.obj.d
   FLAGS = -g -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\testSingleLinkWithoutHead.dir
   OBJECT_FILE_DIR = CMakeFiles\testSingleLinkWithoutHead.dir\chapter02-Linear_List\02Linked_list\SingleLink\source
-  TARGET_COMPILE_PDB = CMakeFiles\testSingleLinkWithoutHead.dir\
-  TARGET_PDB = testSingleLinkWithoutHead.pdb
 
 
 # =============================================================================
@@ -1387,10 +972,9 @@ build testSingleLinkWithoutHead.exe: CXX_EXECUTABLE_LINKER__testSingleLinkWithou
   OBJECT_DIR = CMakeFiles\testSingleLinkWithoutHead.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_COMPILE_PDB = CMakeFiles\testSingleLinkWithoutHead.dir\
   TARGET_FILE = testSingleLinkWithoutHead.exe
   TARGET_IMPLIB = libtestSingleLinkWithoutHead.dll.a
-  TARGET_PDB = testSingleLinkWithoutHead.pdb
+  TARGET_PDB = testSingleLinkWithoutHead.exe.dbg
 
 # =============================================================================
 # Object build statements for EXECUTABLE target sumArray
@@ -1406,16 +990,12 @@ build CMakeFiles/sumArray.dir/chapter02-Linear_List/02Linked_list/SingleLink/Lee
   FLAGS = -g -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\sumArray.dir
   OBJECT_FILE_DIR = CMakeFiles\sumArray.dir\chapter02-Linear_List\02Linked_list\SingleLink\LeetCode
-  TARGET_COMPILE_PDB = CMakeFiles\sumArray.dir\
-  TARGET_PDB = sumArray.pdb
 
 build CMakeFiles/sumArray.dir/chapter02-Linear_List/02Linked_list/SingleLink/source/singleLinkWithHead.cpp.obj: CXX_COMPILER__sumArray_unscanned_Debug D$:/C_Study/WorkSpace/Cpp_Study/08DataStruct/chapter02-Linear_List/02Linked_list/SingleLink/source/singleLinkWithHead.cpp || cmake_object_order_depends_target_sumArray
   DEP_FILE = CMakeFiles\sumArray.dir\chapter02-Linear_List\02Linked_list\SingleLink\source\singleLinkWithHead.cpp.obj.d
   FLAGS = -g -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\sumArray.dir
   OBJECT_FILE_DIR = CMakeFiles\sumArray.dir\chapter02-Linear_List\02Linked_list\SingleLink\source
-  TARGET_COMPILE_PDB = CMakeFiles\sumArray.dir\
-  TARGET_PDB = sumArray.pdb
 
 
 # =============================================================================
@@ -1431,10 +1011,9 @@ build sumArray.exe: CXX_EXECUTABLE_LINKER__sumArray_Debug CMakeFiles/sumArray.di
   OBJECT_DIR = CMakeFiles\sumArray.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_COMPILE_PDB = CMakeFiles\sumArray.dir\
   TARGET_FILE = sumArray.exe
   TARGET_IMPLIB = libsumArray.dll.a
-  TARGET_PDB = sumArray.pdb
+  TARGET_PDB = sumArray.exe.dbg
 
 # =============================================================================
 # Object build statements for EXECUTABLE target orderList
@@ -1450,16 +1029,12 @@ build CMakeFiles/orderList.dir/chapter02-Linear_List/02Linked_list/SingleLink/Le
   FLAGS = -g -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\orderList.dir
   OBJECT_FILE_DIR = CMakeFiles\orderList.dir\chapter02-Linear_List\02Linked_list\SingleLink\LeetCode
-  TARGET_COMPILE_PDB = CMakeFiles\orderList.dir\
-  TARGET_PDB = orderList.pdb
 
 build CMakeFiles/orderList.dir/chapter02-Linear_List/02Linked_list/SingleLink/source/singleLinkWithHead.cpp.obj: CXX_COMPILER__orderList_unscanned_Debug D$:/C_Study/WorkSpace/Cpp_Study/08DataStruct/chapter02-Linear_List/02Linked_list/SingleLink/source/singleLinkWithHead.cpp || cmake_object_order_depends_target_orderList
   DEP_FILE = CMakeFiles\orderList.dir\chapter02-Linear_List\02Linked_list\SingleLink\source\singleLinkWithHead.cpp.obj.d
   FLAGS = -g -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\orderList.dir
   OBJECT_FILE_DIR = CMakeFiles\orderList.dir\chapter02-Linear_List\02Linked_list\SingleLink\source
-  TARGET_COMPILE_PDB = CMakeFiles\orderList.dir\
-  TARGET_PDB = orderList.pdb
 
 
 # =============================================================================
@@ -1475,10 +1050,9 @@ build orderList.exe: CXX_EXECUTABLE_LINKER__orderList_Debug CMakeFiles/orderList
   OBJECT_DIR = CMakeFiles\orderList.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_COMPILE_PDB = CMakeFiles\orderList.dir\
   TARGET_FILE = orderList.exe
   TARGET_IMPLIB = liborderList.dll.a
-  TARGET_PDB = orderList.pdb
+  TARGET_PDB = orderList.exe.dbg
 
 # =============================================================================
 # Object build statements for EXECUTABLE target superStair
@@ -1494,16 +1068,12 @@ build CMakeFiles/superStair.dir/chapter02-Linear_List/02Linked_list/SingleLink/L
   FLAGS = -g -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\superStair.dir
   OBJECT_FILE_DIR = CMakeFiles\superStair.dir\chapter02-Linear_List\02Linked_list\SingleLink\LeetCode
-  TARGET_COMPILE_PDB = CMakeFiles\superStair.dir\
-  TARGET_PDB = superStair.pdb
 
 build CMakeFiles/superStair.dir/chapter02-Linear_List/02Linked_list/SingleLink/source/singleLinkWithHead.cpp.obj: CXX_COMPILER__superStair_unscanned_Debug D$:/C_Study/WorkSpace/Cpp_Study/08DataStruct/chapter02-Linear_List/02Linked_list/SingleLink/source/singleLinkWithHead.cpp || cmake_object_order_depends_target_superStair
   DEP_FILE = CMakeFiles\superStair.dir\chapter02-Linear_List\02Linked_list\SingleLink\source\singleLinkWithHead.cpp.obj.d
   FLAGS = -g -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\superStair.dir
   OBJECT_FILE_DIR = CMakeFiles\superStair.dir\chapter02-Linear_List\02Linked_list\SingleLink\source
-  TARGET_COMPILE_PDB = CMakeFiles\superStair.dir\
-  TARGET_PDB = superStair.pdb
 
 
 # =============================================================================
@@ -1519,10 +1089,9 @@ build superStair.exe: CXX_EXECUTABLE_LINKER__superStair_Debug CMakeFiles/superSt
   OBJECT_DIR = CMakeFiles\superStair.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_COMPILE_PDB = CMakeFiles\superStair.dir\
   TARGET_FILE = superStair.exe
   TARGET_IMPLIB = libsuperStair.dll.a
-  TARGET_PDB = superStair.pdb
+  TARGET_PDB = superStair.exe.dbg
 
 # =============================================================================
 # Object build statements for EXECUTABLE target binaryInvertPos
@@ -1538,16 +1107,12 @@ build CMakeFiles/binaryInvertPos.dir/chapter02-Linear_List/02Linked_list/SingleL
   FLAGS = -g -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\binaryInvertPos.dir
   OBJECT_FILE_DIR = CMakeFiles\binaryInvertPos.dir\chapter02-Linear_List\02Linked_list\SingleLink\LeetCode
-  TARGET_COMPILE_PDB = CMakeFiles\binaryInvertPos.dir\
-  TARGET_PDB = binaryInvertPos.pdb
 
 build CMakeFiles/binaryInvertPos.dir/chapter02-Linear_List/02Linked_list/SingleLink/source/singleLinkWithHead.cpp.obj: CXX_COMPILER__binaryInvertPos_unscanned_Debug D$:/C_Study/WorkSpace/Cpp_Study/08DataStruct/chapter02-Linear_List/02Linked_list/SingleLink/source/singleLinkWithHead.cpp || cmake_object_order_depends_target_binaryInvertPos
   DEP_FILE = CMakeFiles\binaryInvertPos.dir\chapter02-Linear_List\02Linked_list\SingleLink\source\singleLinkWithHead.cpp.obj.d
   FLAGS = -g -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\binaryInvertPos.dir
   OBJECT_FILE_DIR = CMakeFiles\binaryInvertPos.dir\chapter02-Linear_List\02Linked_list\SingleLink\source
-  TARGET_COMPILE_PDB = CMakeFiles\binaryInvertPos.dir\
-  TARGET_PDB = binaryInvertPos.pdb
 
 
 # =============================================================================
@@ -1563,10 +1128,9 @@ build binaryInvertPos.exe: CXX_EXECUTABLE_LINKER__binaryInvertPos_Debug CMakeFil
   OBJECT_DIR = CMakeFiles\binaryInvertPos.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_COMPILE_PDB = CMakeFiles\binaryInvertPos.dir\
   TARGET_FILE = binaryInvertPos.exe
   TARGET_IMPLIB = libbinaryInvertPos.dll.a
-  TARGET_PDB = binaryInvertPos.pdb
+  TARGET_PDB = binaryInvertPos.exe.dbg
 
 # =============================================================================
 # Object build statements for EXECUTABLE target countBack_K
@@ -1582,16 +1146,12 @@ build CMakeFiles/countBack_K.dir/chapter02-Linear_List/02Linked_list/SingleLink/
   FLAGS = -g -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\countBack_K.dir
   OBJECT_FILE_DIR = CMakeFiles\countBack_K.dir\chapter02-Linear_List\02Linked_list\SingleLink\LeetCode
-  TARGET_COMPILE_PDB = CMakeFiles\countBack_K.dir\
-  TARGET_PDB = countBack_K.pdb
 
 build CMakeFiles/countBack_K.dir/chapter02-Linear_List/02Linked_list/SingleLink/source/singleLinkWithHead.cpp.obj: CXX_COMPILER__countBack_K_unscanned_Debug D$:/C_Study/WorkSpace/Cpp_Study/08DataStruct/chapter02-Linear_List/02Linked_list/SingleLink/source/singleLinkWithHead.cpp || cmake_object_order_depends_target_countBack_K
   DEP_FILE = CMakeFiles\countBack_K.dir\chapter02-Linear_List\02Linked_list\SingleLink\source\singleLinkWithHead.cpp.obj.d
   FLAGS = -g -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\countBack_K.dir
   OBJECT_FILE_DIR = CMakeFiles\countBack_K.dir\chapter02-Linear_List\02Linked_list\SingleLink\source
-  TARGET_COMPILE_PDB = CMakeFiles\countBack_K.dir\
-  TARGET_PDB = countBack_K.pdb
 
 
 # =============================================================================
@@ -1607,10 +1167,9 @@ build countBack_K.exe: CXX_EXECUTABLE_LINKER__countBack_K_Debug CMakeFiles/count
   OBJECT_DIR = CMakeFiles\countBack_K.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_COMPILE_PDB = CMakeFiles\countBack_K.dir\
   TARGET_FILE = countBack_K.exe
   TARGET_IMPLIB = libcountBack_K.dll.a
-  TARGET_PDB = countBack_K.pdb
+  TARGET_PDB = countBack_K.exe.dbg
 
 # =============================================================================
 # Object build statements for EXECUTABLE target trainPlan
@@ -1626,16 +1185,12 @@ build CMakeFiles/trainPlan.dir/chapter02-Linear_List/02Linked_list/SingleLink/Le
   FLAGS = -g -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\trainPlan.dir
   OBJECT_FILE_DIR = CMakeFiles\trainPlan.dir\chapter02-Linear_List\02Linked_list\SingleLink\LeetCode
-  TARGET_COMPILE_PDB = CMakeFiles\trainPlan.dir\
-  TARGET_PDB = trainPlan.pdb
 
 build CMakeFiles/trainPlan.dir/chapter02-Linear_List/02Linked_list/SingleLink/source/singleLinkWithHead.cpp.obj: CXX_COMPILER__trainPlan_unscanned_Debug D$:/C_Study/WorkSpace/Cpp_Study/08DataStruct/chapter02-Linear_List/02Linked_list/SingleLink/source/singleLinkWithHead.cpp || cmake_object_order_depends_target_trainPlan
   DEP_FILE = CMakeFiles\trainPlan.dir\chapter02-Linear_List\02Linked_list\SingleLink\source\singleLinkWithHead.cpp.obj.d
   FLAGS = -g -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\trainPlan.dir
   OBJECT_FILE_DIR = CMakeFiles\trainPlan.dir\chapter02-Linear_List\02Linked_list\SingleLink\source
-  TARGET_COMPILE_PDB = CMakeFiles\trainPlan.dir\
-  TARGET_PDB = trainPlan.pdb
 
 
 # =============================================================================
@@ -1651,10 +1206,9 @@ build trainPlan.exe: CXX_EXECUTABLE_LINKER__trainPlan_Debug CMakeFiles/trainPlan
   OBJECT_DIR = CMakeFiles\trainPlan.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_COMPILE_PDB = CMakeFiles\trainPlan.dir\
   TARGET_FILE = trainPlan.exe
   TARGET_IMPLIB = libtrainPlan.dll.a
-  TARGET_PDB = trainPlan.pdb
+  TARGET_PDB = trainPlan.exe.dbg
 
 # =============================================================================
 # Object build statements for EXECUTABLE target middleNode
@@ -1670,16 +1224,12 @@ build CMakeFiles/middleNode.dir/chapter02-Linear_List/02Linked_list/SingleLink/L
   FLAGS = -g -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\middleNode.dir
   OBJECT_FILE_DIR = CMakeFiles\middleNode.dir\chapter02-Linear_List\02Linked_list\SingleLink\LeetCode
-  TARGET_COMPILE_PDB = CMakeFiles\middleNode.dir\
-  TARGET_PDB = middleNode.pdb
 
 build CMakeFiles/middleNode.dir/chapter02-Linear_List/02Linked_list/SingleLink/source/singleLinkWithHead.cpp.obj: CXX_COMPILER__middleNode_unscanned_Debug D$:/C_Study/WorkSpace/Cpp_Study/08DataStruct/chapter02-Linear_List/02Linked_list/SingleLink/source/singleLinkWithHead.cpp || cmake_object_order_depends_target_middleNode
   DEP_FILE = CMakeFiles\middleNode.dir\chapter02-Linear_List\02Linked_list\SingleLink\source\singleLinkWithHead.cpp.obj.d
   FLAGS = -g -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\middleNode.dir
   OBJECT_FILE_DIR = CMakeFiles\middleNode.dir\chapter02-Linear_List\02Linked_list\SingleLink\source
-  TARGET_COMPILE_PDB = CMakeFiles\middleNode.dir\
-  TARGET_PDB = middleNode.pdb
 
 
 # =============================================================================
@@ -1695,10 +1245,9 @@ build middleNode.exe: CXX_EXECUTABLE_LINKER__middleNode_Debug CMakeFiles/middleN
   OBJECT_DIR = CMakeFiles\middleNode.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_COMPILE_PDB = CMakeFiles\middleNode.dir\
   TARGET_FILE = middleNode.exe
   TARGET_IMPLIB = libmiddleNode.dll.a
-  TARGET_PDB = middleNode.pdb
+  TARGET_PDB = middleNode.exe.dbg
 
 # =============================================================================
 # Object build statements for EXECUTABLE target delMiddleNode
@@ -1714,16 +1263,12 @@ build CMakeFiles/delMiddleNode.dir/chapter02-Linear_List/02Linked_list/SingleLin
   FLAGS = -g -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\delMiddleNode.dir
   OBJECT_FILE_DIR = CMakeFiles\delMiddleNode.dir\chapter02-Linear_List\02Linked_list\SingleLink\LeetCode
-  TARGET_COMPILE_PDB = CMakeFiles\delMiddleNode.dir\
-  TARGET_PDB = delMiddleNode.pdb
 
 build CMakeFiles/delMiddleNode.dir/chapter02-Linear_List/02Linked_list/SingleLink/source/singleLinkWithHead.cpp.obj: CXX_COMPILER__delMiddleNode_unscanned_Debug D$:/C_Study/WorkSpace/Cpp_Study/08DataStruct/chapter02-Linear_List/02Linked_list/SingleLink/source/singleLinkWithHead.cpp || cmake_object_order_depends_target_delMiddleNode
   DEP_FILE = CMakeFiles\delMiddleNode.dir\chapter02-Linear_List\02Linked_list\SingleLink\source\singleLinkWithHead.cpp.obj.d
   FLAGS = -g -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\delMiddleNode.dir
   OBJECT_FILE_DIR = CMakeFiles\delMiddleNode.dir\chapter02-Linear_List\02Linked_list\SingleLink\source
-  TARGET_COMPILE_PDB = CMakeFiles\delMiddleNode.dir\
-  TARGET_PDB = delMiddleNode.pdb
 
 
 # =============================================================================
@@ -1739,10 +1284,9 @@ build delMiddleNode.exe: CXX_EXECUTABLE_LINKER__delMiddleNode_Debug CMakeFiles/d
   OBJECT_DIR = CMakeFiles\delMiddleNode.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_COMPILE_PDB = CMakeFiles\delMiddleNode.dir\
   TARGET_FILE = delMiddleNode.exe
   TARGET_IMPLIB = libdelMiddleNode.dll.a
-  TARGET_PDB = delMiddleNode.pdb
+  TARGET_PDB = delMiddleNode.exe.dbg
 
 # =============================================================================
 # Object build statements for EXECUTABLE target removeElem
@@ -1758,16 +1302,12 @@ build CMakeFiles/removeElem.dir/chapter02-Linear_List/02Linked_list/SingleLink/L
   FLAGS = -g -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\removeElem.dir
   OBJECT_FILE_DIR = CMakeFiles\removeElem.dir\chapter02-Linear_List\02Linked_list\SingleLink\LeetCode
-  TARGET_COMPILE_PDB = CMakeFiles\removeElem.dir\
-  TARGET_PDB = removeElem.pdb
 
 build CMakeFiles/removeElem.dir/chapter02-Linear_List/02Linked_list/SingleLink/source/singleLinkWithHead.cpp.obj: CXX_COMPILER__removeElem_unscanned_Debug D$:/C_Study/WorkSpace/Cpp_Study/08DataStruct/chapter02-Linear_List/02Linked_list/SingleLink/source/singleLinkWithHead.cpp || cmake_object_order_depends_target_removeElem
   DEP_FILE = CMakeFiles\removeElem.dir\chapter02-Linear_List\02Linked_list\SingleLink\source\singleLinkWithHead.cpp.obj.d
   FLAGS = -g -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\removeElem.dir
   OBJECT_FILE_DIR = CMakeFiles\removeElem.dir\chapter02-Linear_List\02Linked_list\SingleLink\source
-  TARGET_COMPILE_PDB = CMakeFiles\removeElem.dir\
-  TARGET_PDB = removeElem.pdb
 
 
 # =============================================================================
@@ -1783,10 +1323,9 @@ build removeElem.exe: CXX_EXECUTABLE_LINKER__removeElem_Debug CMakeFiles/removeE
   OBJECT_DIR = CMakeFiles\removeElem.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_COMPILE_PDB = CMakeFiles\removeElem.dir\
   TARGET_FILE = removeElem.exe
   TARGET_IMPLIB = libremoveElem.dll.a
-  TARGET_PDB = removeElem.pdb
+  TARGET_PDB = removeElem.exe.dbg
 
 # =============================================================================
 # Object build statements for EXECUTABLE target delNode
@@ -1802,16 +1341,12 @@ build CMakeFiles/delNode.dir/chapter02-Linear_List/02Linked_list/SingleLink/Leet
   FLAGS = -g -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\delNode.dir
   OBJECT_FILE_DIR = CMakeFiles\delNode.dir\chapter02-Linear_List\02Linked_list\SingleLink\LeetCode
-  TARGET_COMPILE_PDB = CMakeFiles\delNode.dir\
-  TARGET_PDB = delNode.pdb
 
 build CMakeFiles/delNode.dir/chapter02-Linear_List/02Linked_list/SingleLink/source/singleLinkWithHead.cpp.obj: CXX_COMPILER__delNode_unscanned_Debug D$:/C_Study/WorkSpace/Cpp_Study/08DataStruct/chapter02-Linear_List/02Linked_list/SingleLink/source/singleLinkWithHead.cpp || cmake_object_order_depends_target_delNode
   DEP_FILE = CMakeFiles\delNode.dir\chapter02-Linear_List\02Linked_list\SingleLink\source\singleLinkWithHead.cpp.obj.d
   FLAGS = -g -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\delNode.dir
   OBJECT_FILE_DIR = CMakeFiles\delNode.dir\chapter02-Linear_List\02Linked_list\SingleLink\source
-  TARGET_COMPILE_PDB = CMakeFiles\delNode.dir\
-  TARGET_PDB = delNode.pdb
 
 
 # =============================================================================
@@ -1827,10 +1362,9 @@ build delNode.exe: CXX_EXECUTABLE_LINKER__delNode_Debug CMakeFiles/delNode.dir/c
   OBJECT_DIR = CMakeFiles\delNode.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_COMPILE_PDB = CMakeFiles\delNode.dir\
   TARGET_FILE = delNode.exe
   TARGET_IMPLIB = libdelNode.dll.a
-  TARGET_PDB = delNode.pdb
+  TARGET_PDB = delNode.exe.dbg
 
 # =============================================================================
 # Object build statements for EXECUTABLE target delRepeatEle
@@ -1846,16 +1380,12 @@ build CMakeFiles/delRepeatEle.dir/chapter02-Linear_List/02Linked_list/SingleLink
   FLAGS = -g -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\delRepeatEle.dir
   OBJECT_FILE_DIR = CMakeFiles\delRepeatEle.dir\chapter02-Linear_List\02Linked_list\SingleLink\LeetCode
-  TARGET_COMPILE_PDB = CMakeFiles\delRepeatEle.dir\
-  TARGET_PDB = delRepeatEle.pdb
 
 build CMakeFiles/delRepeatEle.dir/chapter02-Linear_List/02Linked_list/SingleLink/source/singleLinkWithHead.cpp.obj: CXX_COMPILER__delRepeatEle_unscanned_Debug D$:/C_Study/WorkSpace/Cpp_Study/08DataStruct/chapter02-Linear_List/02Linked_list/SingleLink/source/singleLinkWithHead.cpp || cmake_object_order_depends_target_delRepeatEle
   DEP_FILE = CMakeFiles\delRepeatEle.dir\chapter02-Linear_List\02Linked_list\SingleLink\source\singleLinkWithHead.cpp.obj.d
   FLAGS = -g -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\delRepeatEle.dir
   OBJECT_FILE_DIR = CMakeFiles\delRepeatEle.dir\chapter02-Linear_List\02Linked_list\SingleLink\source
-  TARGET_COMPILE_PDB = CMakeFiles\delRepeatEle.dir\
-  TARGET_PDB = delRepeatEle.pdb
 
 
 # =============================================================================
@@ -1871,10 +1401,9 @@ build delRepeatEle.exe: CXX_EXECUTABLE_LINKER__delRepeatEle_Debug CMakeFiles/del
   OBJECT_DIR = CMakeFiles\delRepeatEle.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_COMPILE_PDB = CMakeFiles\delRepeatEle.dir\
   TARGET_FILE = delRepeatEle.exe
   TARGET_IMPLIB = libdelRepeatEle.dll.a
-  TARGET_PDB = delRepeatEle.pdb
+  TARGET_PDB = delRepeatEle.exe.dbg
 
 # =============================================================================
 # Object build statements for EXECUTABLE target delCountBack_N
@@ -1890,16 +1419,12 @@ build CMakeFiles/delCountBack_N.dir/chapter02-Linear_List/02Linked_list/SingleLi
   FLAGS = -g -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\delCountBack_N.dir
   OBJECT_FILE_DIR = CMakeFiles\delCountBack_N.dir\chapter02-Linear_List\02Linked_list\SingleLink\LeetCode
-  TARGET_COMPILE_PDB = CMakeFiles\delCountBack_N.dir\
-  TARGET_PDB = delCountBack_N.pdb
 
 build CMakeFiles/delCountBack_N.dir/chapter02-Linear_List/02Linked_list/SingleLink/source/singleLinkWithHead.cpp.obj: CXX_COMPILER__delCountBack_N_unscanned_Debug D$:/C_Study/WorkSpace/Cpp_Study/08DataStruct/chapter02-Linear_List/02Linked_list/SingleLink/source/singleLinkWithHead.cpp || cmake_object_order_depends_target_delCountBack_N
   DEP_FILE = CMakeFiles\delCountBack_N.dir\chapter02-Linear_List\02Linked_list\SingleLink\source\singleLinkWithHead.cpp.obj.d
   FLAGS = -g -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\delCountBack_N.dir
   OBJECT_FILE_DIR = CMakeFiles\delCountBack_N.dir\chapter02-Linear_List\02Linked_list\SingleLink\source
-  TARGET_COMPILE_PDB = CMakeFiles\delCountBack_N.dir\
-  TARGET_PDB = delCountBack_N.pdb
 
 
 # =============================================================================
@@ -1915,10 +1440,9 @@ build delCountBack_N.exe: CXX_EXECUTABLE_LINKER__delCountBack_N_Debug CMakeFiles
   OBJECT_DIR = CMakeFiles\delCountBack_N.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_COMPILE_PDB = CMakeFiles\delCountBack_N.dir\
   TARGET_FILE = delCountBack_N.exe
   TARGET_IMPLIB = libdelCountBack_N.dll.a
-  TARGET_PDB = delCountBack_N.pdb
+  TARGET_PDB = delCountBack_N.exe.dbg
 
 # =============================================================================
 # Object build statements for EXECUTABLE target remRepeatNode
@@ -1934,16 +1458,12 @@ build CMakeFiles/remRepeatNode.dir/chapter02-Linear_List/02Linked_list/SingleLin
   FLAGS = -g -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\remRepeatNode.dir
   OBJECT_FILE_DIR = CMakeFiles\remRepeatNode.dir\chapter02-Linear_List\02Linked_list\SingleLink\LeetCode
-  TARGET_COMPILE_PDB = CMakeFiles\remRepeatNode.dir\
-  TARGET_PDB = remRepeatNode.pdb
 
 build CMakeFiles/remRepeatNode.dir/chapter02-Linear_List/02Linked_list/SingleLink/source/singleLinkWithHead.cpp.obj: CXX_COMPILER__remRepeatNode_unscanned_Debug D$:/C_Study/WorkSpace/Cpp_Study/08DataStruct/chapter02-Linear_List/02Linked_list/SingleLink/source/singleLinkWithHead.cpp || cmake_object_order_depends_target_remRepeatNode
   DEP_FILE = CMakeFiles\remRepeatNode.dir\chapter02-Linear_List\02Linked_list\SingleLink\source\singleLinkWithHead.cpp.obj.d
   FLAGS = -g -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\remRepeatNode.dir
   OBJECT_FILE_DIR = CMakeFiles\remRepeatNode.dir\chapter02-Linear_List\02Linked_list\SingleLink\source
-  TARGET_COMPILE_PDB = CMakeFiles\remRepeatNode.dir\
-  TARGET_PDB = remRepeatNode.pdb
 
 
 # =============================================================================
@@ -1959,10 +1479,9 @@ build remRepeatNode.exe: CXX_EXECUTABLE_LINKER__remRepeatNode_Debug CMakeFiles/r
   OBJECT_DIR = CMakeFiles\remRepeatNode.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_COMPILE_PDB = CMakeFiles\remRepeatNode.dir\
   TARGET_FILE = remRepeatNode.exe
   TARGET_IMPLIB = libremRepeatNode.dll.a
-  TARGET_PDB = remRepeatNode.pdb
+  TARGET_PDB = remRepeatNode.exe.dbg
 
 # =============================================================================
 # Object build statements for EXECUTABLE target arrangeBook
@@ -1978,16 +1497,12 @@ build CMakeFiles/arrangeBook.dir/chapter02-Linear_List/02Linked_list/SingleLink/
   FLAGS = -g -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\arrangeBook.dir
   OBJECT_FILE_DIR = CMakeFiles\arrangeBook.dir\chapter02-Linear_List\02Linked_list\SingleLink\LeetCode
-  TARGET_COMPILE_PDB = CMakeFiles\arrangeBook.dir\
-  TARGET_PDB = arrangeBook.pdb
 
 build CMakeFiles/arrangeBook.dir/chapter02-Linear_List/02Linked_list/SingleLink/source/singleLinkWithHead.cpp.obj: CXX_COMPILER__arrangeBook_unscanned_Debug D$:/C_Study/WorkSpace/Cpp_Study/08DataStruct/chapter02-Linear_List/02Linked_list/SingleLink/source/singleLinkWithHead.cpp || cmake_object_order_depends_target_arrangeBook
   DEP_FILE = CMakeFiles\arrangeBook.dir\chapter02-Linear_List\02Linked_list\SingleLink\source\singleLinkWithHead.cpp.obj.d
   FLAGS = -g -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\arrangeBook.dir
   OBJECT_FILE_DIR = CMakeFiles\arrangeBook.dir\chapter02-Linear_List\02Linked_list\SingleLink\source
-  TARGET_COMPILE_PDB = CMakeFiles\arrangeBook.dir\
-  TARGET_PDB = arrangeBook.pdb
 
 
 # =============================================================================
@@ -2003,10 +1518,9 @@ build arrangeBook.exe: CXX_EXECUTABLE_LINKER__arrangeBook_Debug CMakeFiles/arran
   OBJECT_DIR = CMakeFiles\arrangeBook.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_COMPILE_PDB = CMakeFiles\arrangeBook.dir\
   TARGET_FILE = arrangeBook.exe
   TARGET_IMPLIB = libarrangeBook.dll.a
-  TARGET_PDB = arrangeBook.pdb
+  TARGET_PDB = arrangeBook.exe.dbg
 
 # =============================================================================
 # Object build statements for EXECUTABLE target reverseLink
@@ -2022,16 +1536,12 @@ build CMakeFiles/reverseLink.dir/chapter02-Linear_List/02Linked_list/SingleLink/
   FLAGS = -g -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\reverseLink.dir
   OBJECT_FILE_DIR = CMakeFiles\reverseLink.dir\chapter02-Linear_List\02Linked_list\SingleLink\LeetCode
-  TARGET_COMPILE_PDB = CMakeFiles\reverseLink.dir\
-  TARGET_PDB = reverseLink.pdb
 
 build CMakeFiles/reverseLink.dir/chapter02-Linear_List/02Linked_list/SingleLink/source/singleLinkWithHead.cpp.obj: CXX_COMPILER__reverseLink_unscanned_Debug D$:/C_Study/WorkSpace/Cpp_Study/08DataStruct/chapter02-Linear_List/02Linked_list/SingleLink/source/singleLinkWithHead.cpp || cmake_object_order_depends_target_reverseLink
   DEP_FILE = CMakeFiles\reverseLink.dir\chapter02-Linear_List\02Linked_list\SingleLink\source\singleLinkWithHead.cpp.obj.d
   FLAGS = -g -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\reverseLink.dir
   OBJECT_FILE_DIR = CMakeFiles\reverseLink.dir\chapter02-Linear_List\02Linked_list\SingleLink\source
-  TARGET_COMPILE_PDB = CMakeFiles\reverseLink.dir\
-  TARGET_PDB = reverseLink.pdb
 
 
 # =============================================================================
@@ -2047,10 +1557,9 @@ build reverseLink.exe: CXX_EXECUTABLE_LINKER__reverseLink_Debug CMakeFiles/rever
   OBJECT_DIR = CMakeFiles\reverseLink.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_COMPILE_PDB = CMakeFiles\reverseLink.dir\
   TARGET_FILE = reverseLink.exe
   TARGET_IMPLIB = libreverseLink.dll.a
-  TARGET_PDB = reverseLink.pdb
+  TARGET_PDB = reverseLink.exe.dbg
 
 # =============================================================================
 # Object build statements for EXECUTABLE target testDoubleLinkWithHead.cpp
@@ -2066,16 +1575,12 @@ build CMakeFiles/testDoubleLinkWithHead.cpp.dir/chapter02-Linear_List/02Linked_l
   FLAGS = -g -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\testDoubleLinkWithHead.cpp.dir
   OBJECT_FILE_DIR = CMakeFiles\testDoubleLinkWithHead.cpp.dir\chapter02-Linear_List\02Linked_list\DoubleLink\test
-  TARGET_COMPILE_PDB = CMakeFiles\testDoubleLinkWithHead.cpp.dir\
-  TARGET_PDB = testDoubleLinkWithHead.cpp.pdb
 
 build CMakeFiles/testDoubleLinkWithHead.cpp.dir/chapter02-Linear_List/02Linked_list/DoubleLink/source/doubleLinkWithHead.cpp.obj: CXX_COMPILER__testDoubleLinkWithHead.2ecpp_unscanned_Debug D$:/C_Study/WorkSpace/Cpp_Study/08DataStruct/chapter02-Linear_List/02Linked_list/DoubleLink/source/doubleLinkWithHead.cpp || cmake_object_order_depends_target_testDoubleLinkWithHead.cpp
   DEP_FILE = CMakeFiles\testDoubleLinkWithHead.cpp.dir\chapter02-Linear_List\02Linked_list\DoubleLink\source\doubleLinkWithHead.cpp.obj.d
   FLAGS = -g -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\testDoubleLinkWithHead.cpp.dir
   OBJECT_FILE_DIR = CMakeFiles\testDoubleLinkWithHead.cpp.dir\chapter02-Linear_List\02Linked_list\DoubleLink\source
-  TARGET_COMPILE_PDB = CMakeFiles\testDoubleLinkWithHead.cpp.dir\
-  TARGET_PDB = testDoubleLinkWithHead.cpp.pdb
 
 
 # =============================================================================
@@ -2091,10 +1596,9 @@ build testDoubleLinkWithHead.cpp.exe: CXX_EXECUTABLE_LINKER__testDoubleLinkWithH
   OBJECT_DIR = CMakeFiles\testDoubleLinkWithHead.cpp.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_COMPILE_PDB = CMakeFiles\testDoubleLinkWithHead.cpp.dir\
   TARGET_FILE = testDoubleLinkWithHead.cpp.exe
   TARGET_IMPLIB = libtestDoubleLinkWithHead.cpp.dll.a
-  TARGET_PDB = testDoubleLinkWithHead.cpp.pdb
+  TARGET_PDB = testDoubleLinkWithHead.cpp.exe.dbg
 
 # =============================================================================
 # Object build statements for EXECUTABLE target trainPlan3
@@ -2110,16 +1614,12 @@ build CMakeFiles/trainPlan3.dir/chapter02-Linear_List/02Linked_list/SingleLink/L
   FLAGS = -g -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\trainPlan3.dir
   OBJECT_FILE_DIR = CMakeFiles\trainPlan3.dir\chapter02-Linear_List\02Linked_list\SingleLink\LeetCode
-  TARGET_COMPILE_PDB = CMakeFiles\trainPlan3.dir\
-  TARGET_PDB = trainPlan3.pdb
 
 build CMakeFiles/trainPlan3.dir/chapter02-Linear_List/02Linked_list/SingleLink/source/singleLinkWithHead.cpp.obj: CXX_COMPILER__trainPlan3_unscanned_Debug D$:/C_Study/WorkSpace/Cpp_Study/08DataStruct/chapter02-Linear_List/02Linked_list/SingleLink/source/singleLinkWithHead.cpp || cmake_object_order_depends_target_trainPlan3
   DEP_FILE = CMakeFiles\trainPlan3.dir\chapter02-Linear_List\02Linked_list\SingleLink\source\singleLinkWithHead.cpp.obj.d
   FLAGS = -g -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\trainPlan3.dir
   OBJECT_FILE_DIR = CMakeFiles\trainPlan3.dir\chapter02-Linear_List\02Linked_list\SingleLink\source
-  TARGET_COMPILE_PDB = CMakeFiles\trainPlan3.dir\
-  TARGET_PDB = trainPlan3.pdb
 
 
 # =============================================================================
@@ -2135,10 +1635,9 @@ build trainPlan3.exe: CXX_EXECUTABLE_LINKER__trainPlan3_Debug CMakeFiles/trainPl
   OBJECT_DIR = CMakeFiles\trainPlan3.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_COMPILE_PDB = CMakeFiles\trainPlan3.dir\
   TARGET_FILE = trainPlan3.exe
   TARGET_IMPLIB = libtrainPlan3.dll.a
-  TARGET_PDB = trainPlan3.pdb
+  TARGET_PDB = trainPlan3.exe.dbg
 
 # =============================================================================
 # Object build statements for EXECUTABLE target reverseLink2
@@ -2154,16 +1653,12 @@ build CMakeFiles/reverseLink2.dir/chapter02-Linear_List/02Linked_list/SingleLink
   FLAGS = -g -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\reverseLink2.dir
   OBJECT_FILE_DIR = CMakeFiles\reverseLink2.dir\chapter02-Linear_List\02Linked_list\SingleLink\LeetCode
-  TARGET_COMPILE_PDB = CMakeFiles\reverseLink2.dir\
-  TARGET_PDB = reverseLink2.pdb
 
 build CMakeFiles/reverseLink2.dir/chapter02-Linear_List/02Linked_list/SingleLink/source/singleLinkWithHead.cpp.obj: CXX_COMPILER__reverseLink2_unscanned_Debug D$:/C_Study/WorkSpace/Cpp_Study/08DataStruct/chapter02-Linear_List/02Linked_list/SingleLink/source/singleLinkWithHead.cpp || cmake_object_order_depends_target_reverseLink2
   DEP_FILE = CMakeFiles\reverseLink2.dir\chapter02-Linear_List\02Linked_list\SingleLink\source\singleLinkWithHead.cpp.obj.d
   FLAGS = -g -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\reverseLink2.dir
   OBJECT_FILE_DIR = CMakeFiles\reverseLink2.dir\chapter02-Linear_List\02Linked_list\SingleLink\source
-  TARGET_COMPILE_PDB = CMakeFiles\reverseLink2.dir\
-  TARGET_PDB = reverseLink2.pdb
 
 
 # =============================================================================
@@ -2179,10 +1674,9 @@ build reverseLink2.exe: CXX_EXECUTABLE_LINKER__reverseLink2_Debug CMakeFiles/rev
   OBJECT_DIR = CMakeFiles\reverseLink2.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_COMPILE_PDB = CMakeFiles\reverseLink2.dir\
   TARGET_FILE = reverseLink2.exe
   TARGET_IMPLIB = libreverseLink2.dll.a
-  TARGET_PDB = reverseLink2.pdb
+  TARGET_PDB = reverseLink2.exe.dbg
 
 # =============================================================================
 # Object build statements for EXECUTABLE target testStaticStack
@@ -2198,16 +1692,12 @@ build CMakeFiles/testStaticStack.dir/chapter03-stack-queue/Stack/test/testStatic
   FLAGS = -g -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\testStaticStack.dir
   OBJECT_FILE_DIR = CMakeFiles\testStaticStack.dir\chapter03-stack-queue\Stack\test
-  TARGET_COMPILE_PDB = CMakeFiles\testStaticStack.dir\
-  TARGET_PDB = testStaticStack.pdb
 
 build CMakeFiles/testStaticStack.dir/chapter03-stack-queue/Stack/source/staticStack.cpp.obj: CXX_COMPILER__testStaticStack_unscanned_Debug D$:/C_Study/WorkSpace/Cpp_Study/08DataStruct/chapter03-stack-queue/Stack/source/staticStack.cpp || cmake_object_order_depends_target_testStaticStack
   DEP_FILE = CMakeFiles\testStaticStack.dir\chapter03-stack-queue\Stack\source\staticStack.cpp.obj.d
   FLAGS = -g -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\testStaticStack.dir
   OBJECT_FILE_DIR = CMakeFiles\testStaticStack.dir\chapter03-stack-queue\Stack\source
-  TARGET_COMPILE_PDB = CMakeFiles\testStaticStack.dir\
-  TARGET_PDB = testStaticStack.pdb
 
 
 # =============================================================================
@@ -2223,10 +1713,9 @@ build testStaticStack.exe: CXX_EXECUTABLE_LINKER__testStaticStack_Debug CMakeFil
   OBJECT_DIR = CMakeFiles\testStaticStack.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_COMPILE_PDB = CMakeFiles\testStaticStack.dir\
   TARGET_FILE = testStaticStack.exe
   TARGET_IMPLIB = libtestStaticStack.dll.a
-  TARGET_PDB = testStaticStack.pdb
+  TARGET_PDB = testStaticStack.exe.dbg
 
 # =============================================================================
 # Object build statements for EXECUTABLE target teststaticSharedStack
@@ -2242,16 +1731,12 @@ build CMakeFiles/teststaticSharedStack.dir/chapter03-stack-queue/Stack/test/test
   FLAGS = -g -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\teststaticSharedStack.dir
   OBJECT_FILE_DIR = CMakeFiles\teststaticSharedStack.dir\chapter03-stack-queue\Stack\test
-  TARGET_COMPILE_PDB = CMakeFiles\teststaticSharedStack.dir\
-  TARGET_PDB = teststaticSharedStack.pdb
 
 build CMakeFiles/teststaticSharedStack.dir/chapter03-stack-queue/Stack/source/staticSharedStack.cpp.obj: CXX_COMPILER__teststaticSharedStack_unscanned_Debug D$:/C_Study/WorkSpace/Cpp_Study/08DataStruct/chapter03-stack-queue/Stack/source/staticSharedStack.cpp || cmake_object_order_depends_target_teststaticSharedStack
   DEP_FILE = CMakeFiles\teststaticSharedStack.dir\chapter03-stack-queue\Stack\source\staticSharedStack.cpp.obj.d
   FLAGS = -g -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\teststaticSharedStack.dir
   OBJECT_FILE_DIR = CMakeFiles\teststaticSharedStack.dir\chapter03-stack-queue\Stack\source
-  TARGET_COMPILE_PDB = CMakeFiles\teststaticSharedStack.dir\
-  TARGET_PDB = teststaticSharedStack.pdb
 
 
 # =============================================================================
@@ -2267,10 +1752,9 @@ build teststaticSharedStack.exe: CXX_EXECUTABLE_LINKER__teststaticSharedStack_De
   OBJECT_DIR = CMakeFiles\teststaticSharedStack.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_COMPILE_PDB = CMakeFiles\teststaticSharedStack.dir\
   TARGET_FILE = teststaticSharedStack.exe
   TARGET_IMPLIB = libteststaticSharedStack.dll.a
-  TARGET_PDB = teststaticSharedStack.pdb
+  TARGET_PDB = teststaticSharedStack.exe.dbg
 
 # =============================================================================
 # Object build statements for EXECUTABLE target testLinkStack
@@ -2286,16 +1770,12 @@ build CMakeFiles/testLinkStack.dir/chapter03-stack-queue/Stack/test/testLinkStac
   FLAGS = -g -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\testLinkStack.dir
   OBJECT_FILE_DIR = CMakeFiles\testLinkStack.dir\chapter03-stack-queue\Stack\test
-  TARGET_COMPILE_PDB = CMakeFiles\testLinkStack.dir\
-  TARGET_PDB = testLinkStack.pdb
 
 build CMakeFiles/testLinkStack.dir/chapter03-stack-queue/Stack/source/LinkStack.cpp.obj: CXX_COMPILER__testLinkStack_unscanned_Debug D$:/C_Study/WorkSpace/Cpp_Study/08DataStruct/chapter03-stack-queue/Stack/source/LinkStack.cpp || cmake_object_order_depends_target_testLinkStack
   DEP_FILE = CMakeFiles\testLinkStack.dir\chapter03-stack-queue\Stack\source\LinkStack.cpp.obj.d
   FLAGS = -g -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\testLinkStack.dir
   OBJECT_FILE_DIR = CMakeFiles\testLinkStack.dir\chapter03-stack-queue\Stack\source
-  TARGET_COMPILE_PDB = CMakeFiles\testLinkStack.dir\
-  TARGET_PDB = testLinkStack.pdb
 
 
 # =============================================================================
@@ -2311,10 +1791,9 @@ build testLinkStack.exe: CXX_EXECUTABLE_LINKER__testLinkStack_Debug CMakeFiles/t
   OBJECT_DIR = CMakeFiles\testLinkStack.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_COMPILE_PDB = CMakeFiles\testLinkStack.dir\
   TARGET_FILE = testLinkStack.exe
   TARGET_IMPLIB = libtestLinkStack.dll.a
-  TARGET_PDB = testLinkStack.pdb
+  TARGET_PDB = testLinkStack.exe.dbg
 
 # =============================================================================
 # Object build statements for EXECUTABLE target teststaticStack_Hero
@@ -2330,16 +1809,12 @@ build CMakeFiles/teststaticStack_Hero.dir/chapter03-stack-queue/Stack/test/tests
   FLAGS = -g -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\teststaticStack_Hero.dir
   OBJECT_FILE_DIR = CMakeFiles\teststaticStack_Hero.dir\chapter03-stack-queue\Stack\test
-  TARGET_COMPILE_PDB = CMakeFiles\teststaticStack_Hero.dir\
-  TARGET_PDB = teststaticStack_Hero.pdb
 
 build CMakeFiles/teststaticStack_Hero.dir/chapter03-stack-queue/Stack/source/staticStack_Hero.cpp.obj: CXX_COMPILER__teststaticStack_Hero_unscanned_Debug D$:/C_Study/WorkSpace/Cpp_Study/08DataStruct/chapter03-stack-queue/Stack/source/staticStack_Hero.cpp || cmake_object_order_depends_target_teststaticStack_Hero
   DEP_FILE = CMakeFiles\teststaticStack_Hero.dir\chapter03-stack-queue\Stack\source\staticStack_Hero.cpp.obj.d
   FLAGS = -g -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\teststaticStack_Hero.dir
   OBJECT_FILE_DIR = CMakeFiles\teststaticStack_Hero.dir\chapter03-stack-queue\Stack\source
-  TARGET_COMPILE_PDB = CMakeFiles\teststaticStack_Hero.dir\
-  TARGET_PDB = teststaticStack_Hero.pdb
 
 
 # =============================================================================
@@ -2355,10 +1830,9 @@ build teststaticStack_Hero.exe: CXX_EXECUTABLE_LINKER__teststaticStack_Hero_Debu
   OBJECT_DIR = CMakeFiles\teststaticStack_Hero.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_COMPILE_PDB = CMakeFiles\teststaticStack_Hero.dir\
   TARGET_FILE = teststaticStack_Hero.exe
   TARGET_IMPLIB = libteststaticStack_Hero.dll.a
-  TARGET_PDB = teststaticStack_Hero.pdb
+  TARGET_PDB = teststaticStack_Hero.exe.dbg
 
 # =============================================================================
 # Object build statements for EXECUTABLE target testLinkStack_Hero
@@ -2374,16 +1848,12 @@ build CMakeFiles/testLinkStack_Hero.dir/chapter03-stack-queue/Stack/test/testLin
   FLAGS = -g -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\testLinkStack_Hero.dir
   OBJECT_FILE_DIR = CMakeFiles\testLinkStack_Hero.dir\chapter03-stack-queue\Stack\test
-  TARGET_COMPILE_PDB = CMakeFiles\testLinkStack_Hero.dir\
-  TARGET_PDB = testLinkStack_Hero.pdb
 
 build CMakeFiles/testLinkStack_Hero.dir/chapter03-stack-queue/Stack/source/LinkStack_Hero.cpp.obj: CXX_COMPILER__testLinkStack_Hero_unscanned_Debug D$:/C_Study/WorkSpace/Cpp_Study/08DataStruct/chapter03-stack-queue/Stack/source/LinkStack_Hero.cpp || cmake_object_order_depends_target_testLinkStack_Hero
   DEP_FILE = CMakeFiles\testLinkStack_Hero.dir\chapter03-stack-queue\Stack\source\LinkStack_Hero.cpp.obj.d
   FLAGS = -g -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\testLinkStack_Hero.dir
   OBJECT_FILE_DIR = CMakeFiles\testLinkStack_Hero.dir\chapter03-stack-queue\Stack\source
-  TARGET_COMPILE_PDB = CMakeFiles\testLinkStack_Hero.dir\
-  TARGET_PDB = testLinkStack_Hero.pdb
 
 
 # =============================================================================
@@ -2399,10 +1869,9 @@ build testLinkStack_Hero.exe: CXX_EXECUTABLE_LINKER__testLinkStack_Hero_Debug CM
   OBJECT_DIR = CMakeFiles\testLinkStack_Hero.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_COMPILE_PDB = CMakeFiles\testLinkStack_Hero.dir\
   TARGET_FILE = testLinkStack_Hero.exe
   TARGET_IMPLIB = libtestLinkStack_Hero.dll.a
-  TARGET_PDB = testLinkStack_Hero.pdb
+  TARGET_PDB = testLinkStack_Hero.exe.dbg
 
 # =============================================================================
 # Object build statements for EXECUTABLE target testCppStack
@@ -2418,8 +1887,6 @@ build CMakeFiles/testCppStack.dir/chapter03-stack-queue/Stack/test/testCppStack.
   FLAGS = -g -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\testCppStack.dir
   OBJECT_FILE_DIR = CMakeFiles\testCppStack.dir\chapter03-stack-queue\Stack\test
-  TARGET_COMPILE_PDB = CMakeFiles\testCppStack.dir\
-  TARGET_PDB = testCppStack.pdb
 
 
 # =============================================================================
@@ -2435,10 +1902,9 @@ build testCppStack.exe: CXX_EXECUTABLE_LINKER__testCppStack_Debug CMakeFiles/tes
   OBJECT_DIR = CMakeFiles\testCppStack.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_COMPILE_PDB = CMakeFiles\testCppStack.dir\
   TARGET_FILE = testCppStack.exe
   TARGET_IMPLIB = libtestCppStack.dll.a
-  TARGET_PDB = testCppStack.pdb
+  TARGET_PDB = testCppStack.exe.dbg
 
 # =============================================================================
 # Object build statements for EXECUTABLE target decToBinary
@@ -2454,16 +1920,12 @@ build CMakeFiles/decToBinary.dir/chapter03-stack-queue/Stack/LeetCode/decToBinar
   FLAGS = -g -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\decToBinary.dir
   OBJECT_FILE_DIR = CMakeFiles\decToBinary.dir\chapter03-stack-queue\Stack\LeetCode
-  TARGET_COMPILE_PDB = CMakeFiles\decToBinary.dir\
-  TARGET_PDB = decToBinary.pdb
 
 build CMakeFiles/decToBinary.dir/chapter03-stack-queue/Stack/source/LinkStack.cpp.obj: CXX_COMPILER__decToBinary_unscanned_Debug D$:/C_Study/WorkSpace/Cpp_Study/08DataStruct/chapter03-stack-queue/Stack/source/LinkStack.cpp || cmake_object_order_depends_target_decToBinary
   DEP_FILE = CMakeFiles\decToBinary.dir\chapter03-stack-queue\Stack\source\LinkStack.cpp.obj.d
   FLAGS = -g -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\decToBinary.dir
   OBJECT_FILE_DIR = CMakeFiles\decToBinary.dir\chapter03-stack-queue\Stack\source
-  TARGET_COMPILE_PDB = CMakeFiles\decToBinary.dir\
-  TARGET_PDB = decToBinary.pdb
 
 
 # =============================================================================
@@ -2479,10 +1941,9 @@ build decToBinary.exe: CXX_EXECUTABLE_LINKER__decToBinary_Debug CMakeFiles/decTo
   OBJECT_DIR = CMakeFiles\decToBinary.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_COMPILE_PDB = CMakeFiles\decToBinary.dir\
   TARGET_FILE = decToBinary.exe
   TARGET_IMPLIB = libdecToBinary.dll.a
-  TARGET_PDB = decToBinary.pdb
+  TARGET_PDB = decToBinary.exe.dbg
 
 # =============================================================================
 # Object build statements for EXECUTABLE target dectoAny
@@ -2498,16 +1959,12 @@ build CMakeFiles/dectoAny.dir/chapter03-stack-queue/Stack/LeetCode/decToAny.cpp.
   FLAGS = -g -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\dectoAny.dir
   OBJECT_FILE_DIR = CMakeFiles\dectoAny.dir\chapter03-stack-queue\Stack\LeetCode
-  TARGET_COMPILE_PDB = CMakeFiles\dectoAny.dir\
-  TARGET_PDB = dectoAny.pdb
 
 build CMakeFiles/dectoAny.dir/chapter03-stack-queue/Stack/source/LinkStack.cpp.obj: CXX_COMPILER__dectoAny_unscanned_Debug D$:/C_Study/WorkSpace/Cpp_Study/08DataStruct/chapter03-stack-queue/Stack/source/LinkStack.cpp || cmake_object_order_depends_target_dectoAny
   DEP_FILE = CMakeFiles\dectoAny.dir\chapter03-stack-queue\Stack\source\LinkStack.cpp.obj.d
   FLAGS = -g -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\dectoAny.dir
   OBJECT_FILE_DIR = CMakeFiles\dectoAny.dir\chapter03-stack-queue\Stack\source
-  TARGET_COMPILE_PDB = CMakeFiles\dectoAny.dir\
-  TARGET_PDB = dectoAny.pdb
 
 
 # =============================================================================
@@ -2523,10 +1980,9 @@ build dectoAny.exe: CXX_EXECUTABLE_LINKER__dectoAny_Debug CMakeFiles/dectoAny.di
   OBJECT_DIR = CMakeFiles\dectoAny.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_COMPILE_PDB = CMakeFiles\dectoAny.dir\
   TARGET_FILE = dectoAny.exe
   TARGET_IMPLIB = libdectoAny.dll.a
-  TARGET_PDB = dectoAny.pdb
+  TARGET_PDB = dectoAny.exe.dbg
 
 # =============================================================================
 # Object build statements for EXECUTABLE target arrangeBook_Stack
@@ -2542,16 +1998,12 @@ build CMakeFiles/arrangeBook_Stack.dir/chapter03-stack-queue/Stack/LeetCode/arra
   FLAGS = -g -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\arrangeBook_Stack.dir
   OBJECT_FILE_DIR = CMakeFiles\arrangeBook_Stack.dir\chapter03-stack-queue\Stack\LeetCode
-  TARGET_COMPILE_PDB = CMakeFiles\arrangeBook_Stack.dir\
-  TARGET_PDB = arrangeBook_Stack.pdb
 
 build CMakeFiles/arrangeBook_Stack.dir/chapter02-Linear_List/02Linked_list/SingleLink/source/singleLinkWithHead.cpp.obj: CXX_COMPILER__arrangeBook_Stack_unscanned_Debug D$:/C_Study/WorkSpace/Cpp_Study/08DataStruct/chapter02-Linear_List/02Linked_list/SingleLink/source/singleLinkWithHead.cpp || cmake_object_order_depends_target_arrangeBook_Stack
   DEP_FILE = CMakeFiles\arrangeBook_Stack.dir\chapter02-Linear_List\02Linked_list\SingleLink\source\singleLinkWithHead.cpp.obj.d
   FLAGS = -g -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\arrangeBook_Stack.dir
   OBJECT_FILE_DIR = CMakeFiles\arrangeBook_Stack.dir\chapter02-Linear_List\02Linked_list\SingleLink\source
-  TARGET_COMPILE_PDB = CMakeFiles\arrangeBook_Stack.dir\
-  TARGET_PDB = arrangeBook_Stack.pdb
 
 
 # =============================================================================
@@ -2567,10 +2019,9 @@ build arrangeBook_Stack.exe: CXX_EXECUTABLE_LINKER__arrangeBook_Stack_Debug CMak
   OBJECT_DIR = CMakeFiles\arrangeBook_Stack.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_COMPILE_PDB = CMakeFiles\arrangeBook_Stack.dir\
   TARGET_FILE = arrangeBook_Stack.exe
   TARGET_IMPLIB = libarrangeBook_Stack.dll.a
-  TARGET_PDB = arrangeBook_Stack.pdb
+  TARGET_PDB = arrangeBook_Stack.exe.dbg
 
 # =============================================================================
 # Object build statements for EXECUTABLE target palindromeLink
@@ -2586,16 +2037,12 @@ build CMakeFiles/palindromeLink.dir/chapter03-stack-queue/Stack/LeetCode/palindr
   FLAGS = -g -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\palindromeLink.dir
   OBJECT_FILE_DIR = CMakeFiles\palindromeLink.dir\chapter03-stack-queue\Stack\LeetCode
-  TARGET_COMPILE_PDB = CMakeFiles\palindromeLink.dir\
-  TARGET_PDB = palindromeLink.pdb
 
 build CMakeFiles/palindromeLink.dir/chapter02-Linear_List/02Linked_list/SingleLink/source/singleLinkWithHead.cpp.obj: CXX_COMPILER__palindromeLink_unscanned_Debug D$:/C_Study/WorkSpace/Cpp_Study/08DataStruct/chapter02-Linear_List/02Linked_list/SingleLink/source/singleLinkWithHead.cpp || cmake_object_order_depends_target_palindromeLink
   DEP_FILE = CMakeFiles\palindromeLink.dir\chapter02-Linear_List\02Linked_list\SingleLink\source\singleLinkWithHead.cpp.obj.d
   FLAGS = -g -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\palindromeLink.dir
   OBJECT_FILE_DIR = CMakeFiles\palindromeLink.dir\chapter02-Linear_List\02Linked_list\SingleLink\source
-  TARGET_COMPILE_PDB = CMakeFiles\palindromeLink.dir\
-  TARGET_PDB = palindromeLink.pdb
 
 
 # =============================================================================
@@ -2611,10 +2058,9 @@ build palindromeLink.exe: CXX_EXECUTABLE_LINKER__palindromeLink_Debug CMakeFiles
   OBJECT_DIR = CMakeFiles\palindromeLink.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_COMPILE_PDB = CMakeFiles\palindromeLink.dir\
   TARGET_FILE = palindromeLink.exe
   TARGET_IMPLIB = libpalindromeLink.dll.a
-  TARGET_PDB = palindromeLink.pdb
+  TARGET_PDB = palindromeLink.exe.dbg
 
 # =============================================================================
 # Object build statements for EXECUTABLE target validBracket
@@ -2630,8 +2076,6 @@ build CMakeFiles/validBracket.dir/chapter03-stack-queue/Stack/LeetCode/validBrac
   FLAGS = -g -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\validBracket.dir
   OBJECT_FILE_DIR = CMakeFiles\validBracket.dir\chapter03-stack-queue\Stack\LeetCode
-  TARGET_COMPILE_PDB = CMakeFiles\validBracket.dir\
-  TARGET_PDB = validBracket.pdb
 
 
 # =============================================================================
@@ -2647,10 +2091,9 @@ build validBracket.exe: CXX_EXECUTABLE_LINKER__validBracket_Debug CMakeFiles/val
   OBJECT_DIR = CMakeFiles\validBracket.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_COMPILE_PDB = CMakeFiles\validBracket.dir\
   TARGET_FILE = validBracket.exe
   TARGET_IMPLIB = libvalidBracket.dll.a
-  TARGET_PDB = validBracket.pdb
+  TARGET_PDB = validBracket.exe.dbg
 
 # =============================================================================
 # Object build statements for EXECUTABLE target testStaticQueue
@@ -2666,16 +2109,12 @@ build CMakeFiles/testStaticQueue.dir/chapter03-stack-queue/Queue/test/testStatic
   FLAGS = -g -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\testStaticQueue.dir
   OBJECT_FILE_DIR = CMakeFiles\testStaticQueue.dir\chapter03-stack-queue\Queue\test
-  TARGET_COMPILE_PDB = CMakeFiles\testStaticQueue.dir\
-  TARGET_PDB = testStaticQueue.pdb
 
 build CMakeFiles/testStaticQueue.dir/chapter03-stack-queue/Queue/source/staticQueue.cpp.obj: CXX_COMPILER__testStaticQueue_unscanned_Debug D$:/C_Study/WorkSpace/Cpp_Study/08DataStruct/chapter03-stack-queue/Queue/source/staticQueue.cpp || cmake_object_order_depends_target_testStaticQueue
   DEP_FILE = CMakeFiles\testStaticQueue.dir\chapter03-stack-queue\Queue\source\staticQueue.cpp.obj.d
   FLAGS = -g -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\testStaticQueue.dir
   OBJECT_FILE_DIR = CMakeFiles\testStaticQueue.dir\chapter03-stack-queue\Queue\source
-  TARGET_COMPILE_PDB = CMakeFiles\testStaticQueue.dir\
-  TARGET_PDB = testStaticQueue.pdb
 
 
 # =============================================================================
@@ -2691,10 +2130,9 @@ build testStaticQueue.exe: CXX_EXECUTABLE_LINKER__testStaticQueue_Debug CMakeFil
   OBJECT_DIR = CMakeFiles\testStaticQueue.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_COMPILE_PDB = CMakeFiles\testStaticQueue.dir\
   TARGET_FILE = testStaticQueue.exe
   TARGET_IMPLIB = libtestStaticQueue.dll.a
-  TARGET_PDB = testStaticQueue.pdb
+  TARGET_PDB = testStaticQueue.exe.dbg
 
 # =============================================================================
 # Object build statements for EXECUTABLE target testdoublePointLinkQueueWithoutHead
@@ -2710,16 +2148,12 @@ build CMakeFiles/testdoublePointLinkQueueWithoutHead.dir/chapter03-stack-queue/Q
   FLAGS = -g -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\testdoublePointLinkQueueWithoutHead.dir
   OBJECT_FILE_DIR = CMakeFiles\testdoublePointLinkQueueWithoutHead.dir\chapter03-stack-queue\Queue\test
-  TARGET_COMPILE_PDB = CMakeFiles\testdoublePointLinkQueueWithoutHead.dir\
-  TARGET_PDB = testdoublePointLinkQueueWithoutHead.pdb
 
 build CMakeFiles/testdoublePointLinkQueueWithoutHead.dir/chapter03-stack-queue/Queue/source/doublePointLinkQueueWithoutHead.cpp.obj: CXX_COMPILER__testdoublePointLinkQueueWithoutHead_unscanned_Debug D$:/C_Study/WorkSpace/Cpp_Study/08DataStruct/chapter03-stack-queue/Queue/source/doublePointLinkQueueWithoutHead.cpp || cmake_object_order_depends_target_testdoublePointLinkQueueWithoutHead
   DEP_FILE = CMakeFiles\testdoublePointLinkQueueWithoutHead.dir\chapter03-stack-queue\Queue\source\doublePointLinkQueueWithoutHead.cpp.obj.d
   FLAGS = -g -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\testdoublePointLinkQueueWithoutHead.dir
   OBJECT_FILE_DIR = CMakeFiles\testdoublePointLinkQueueWithoutHead.dir\chapter03-stack-queue\Queue\source
-  TARGET_COMPILE_PDB = CMakeFiles\testdoublePointLinkQueueWithoutHead.dir\
-  TARGET_PDB = testdoublePointLinkQueueWithoutHead.pdb
 
 
 # =============================================================================
@@ -2735,10 +2169,9 @@ build testdoublePointLinkQueueWithoutHead.exe: CXX_EXECUTABLE_LINKER__testdouble
   OBJECT_DIR = CMakeFiles\testdoublePointLinkQueueWithoutHead.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_COMPILE_PDB = CMakeFiles\testdoublePointLinkQueueWithoutHead.dir\
   TARGET_FILE = testdoublePointLinkQueueWithoutHead.exe
   TARGET_IMPLIB = libtestdoublePointLinkQueueWithoutHead.dll.a
-  TARGET_PDB = testdoublePointLinkQueueWithoutHead.pdb
+  TARGET_PDB = testdoublePointLinkQueueWithoutHead.exe.dbg
 
 # =============================================================================
 # Object build statements for EXECUTABLE target bracketMatch
@@ -2754,16 +2187,12 @@ build CMakeFiles/bracketMatch.dir/chapter03-stack-queue/Stack/LeetCode/bracketMa
   FLAGS = -g -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\bracketMatch.dir
   OBJECT_FILE_DIR = CMakeFiles\bracketMatch.dir\chapter03-stack-queue\Stack\LeetCode
-  TARGET_COMPILE_PDB = CMakeFiles\bracketMatch.dir\
-  TARGET_PDB = bracketMatch.pdb
 
 build CMakeFiles/bracketMatch.dir/chapter03-stack-queue/Stack/source/LinkStack.cpp.obj: CXX_COMPILER__bracketMatch_unscanned_Debug D$:/C_Study/WorkSpace/Cpp_Study/08DataStruct/chapter03-stack-queue/Stack/source/LinkStack.cpp || cmake_object_order_depends_target_bracketMatch
   DEP_FILE = CMakeFiles\bracketMatch.dir\chapter03-stack-queue\Stack\source\LinkStack.cpp.obj.d
   FLAGS = -g -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\bracketMatch.dir
   OBJECT_FILE_DIR = CMakeFiles\bracketMatch.dir\chapter03-stack-queue\Stack\source
-  TARGET_COMPILE_PDB = CMakeFiles\bracketMatch.dir\
-  TARGET_PDB = bracketMatch.pdb
 
 
 # =============================================================================
@@ -2779,10 +2208,306 @@ build bracketMatch.exe: CXX_EXECUTABLE_LINKER__bracketMatch_Debug CMakeFiles/bra
   OBJECT_DIR = CMakeFiles\bracketMatch.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_COMPILE_PDB = CMakeFiles\bracketMatch.dir\
   TARGET_FILE = bracketMatch.exe
   TARGET_IMPLIB = libbracketMatch.dll.a
-  TARGET_PDB = bracketMatch.pdb
+  TARGET_PDB = bracketMatch.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target infixToSuffix
+
+
+#############################################
+# Order-only phony target for infixToSuffix
+
+build cmake_object_order_depends_target_infixToSuffix: phony || CMakeFiles/infixToSuffix.dir
+
+build CMakeFiles/infixToSuffix.dir/chapter03-stack-queue/Stack/LeetCode/infixToSuffix.cpp.obj: CXX_COMPILER__infixToSuffix_unscanned_Debug D$:/C_Study/WorkSpace/Cpp_Study/08DataStruct/chapter03-stack-queue/Stack/LeetCode/infixToSuffix.cpp || cmake_object_order_depends_target_infixToSuffix
+  DEP_FILE = CMakeFiles\infixToSuffix.dir\chapter03-stack-queue\Stack\LeetCode\infixToSuffix.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\infixToSuffix.dir
+  OBJECT_FILE_DIR = CMakeFiles\infixToSuffix.dir\chapter03-stack-queue\Stack\LeetCode
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target infixToSuffix
+
+
+#############################################
+# Link the executable infixToSuffix.exe
+
+build infixToSuffix.exe: CXX_EXECUTABLE_LINKER__infixToSuffix_Debug CMakeFiles/infixToSuffix.dir/chapter03-stack-queue/Stack/LeetCode/infixToSuffix.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\infixToSuffix.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = infixToSuffix.exe
+  TARGET_IMPLIB = libinfixToSuffix.dll.a
+  TARGET_PDB = infixToSuffix.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target infixToPrefix
+
+
+#############################################
+# Order-only phony target for infixToPrefix
+
+build cmake_object_order_depends_target_infixToPrefix: phony || CMakeFiles/infixToPrefix.dir
+
+build CMakeFiles/infixToPrefix.dir/chapter03-stack-queue/Stack/LeetCode/infixToPrefix.cpp.obj: CXX_COMPILER__infixToPrefix_unscanned_Debug D$:/C_Study/WorkSpace/Cpp_Study/08DataStruct/chapter03-stack-queue/Stack/LeetCode/infixToPrefix.cpp || cmake_object_order_depends_target_infixToPrefix
+  DEP_FILE = CMakeFiles\infixToPrefix.dir\chapter03-stack-queue\Stack\LeetCode\infixToPrefix.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\infixToPrefix.dir
+  OBJECT_FILE_DIR = CMakeFiles\infixToPrefix.dir\chapter03-stack-queue\Stack\LeetCode
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target infixToPrefix
+
+
+#############################################
+# Link the executable infixToPrefix.exe
+
+build infixToPrefix.exe: CXX_EXECUTABLE_LINKER__infixToPrefix_Debug CMakeFiles/infixToPrefix.dir/chapter03-stack-queue/Stack/LeetCode/infixToPrefix.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\infixToPrefix.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = infixToPrefix.exe
+  TARGET_IMPLIB = libinfixToPrefix.dll.a
+  TARGET_PDB = infixToPrefix.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target calcFixExpre
+
+
+#############################################
+# Order-only phony target for calcFixExpre
+
+build cmake_object_order_depends_target_calcFixExpre: phony || CMakeFiles/calcFixExpre.dir
+
+build CMakeFiles/calcFixExpre.dir/chapter03-stack-queue/Stack/LeetCode/calcFixExpre.cpp.obj: CXX_COMPILER__calcFixExpre_unscanned_Debug D$:/C_Study/WorkSpace/Cpp_Study/08DataStruct/chapter03-stack-queue/Stack/LeetCode/calcFixExpre.cpp || cmake_object_order_depends_target_calcFixExpre
+  DEP_FILE = CMakeFiles\calcFixExpre.dir\chapter03-stack-queue\Stack\LeetCode\calcFixExpre.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\calcFixExpre.dir
+  OBJECT_FILE_DIR = CMakeFiles\calcFixExpre.dir\chapter03-stack-queue\Stack\LeetCode
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target calcFixExpre
+
+
+#############################################
+# Link the executable calcFixExpre.exe
+
+build calcFixExpre.exe: CXX_EXECUTABLE_LINKER__calcFixExpre_Debug CMakeFiles/calcFixExpre.dir/chapter03-stack-queue/Stack/LeetCode/calcFixExpre.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\calcFixExpre.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = calcFixExpre.exe
+  TARGET_IMPLIB = libcalcFixExpre.dll.a
+  TARGET_PDB = calcFixExpre.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target stackFactorial
+
+
+#############################################
+# Order-only phony target for stackFactorial
+
+build cmake_object_order_depends_target_stackFactorial: phony || CMakeFiles/stackFactorial.dir
+
+build CMakeFiles/stackFactorial.dir/chapter03-stack-queue/Stack/LeetCode/stackFactorial.cpp.obj: CXX_COMPILER__stackFactorial_unscanned_Debug D$:/C_Study/WorkSpace/Cpp_Study/08DataStruct/chapter03-stack-queue/Stack/LeetCode/stackFactorial.cpp || cmake_object_order_depends_target_stackFactorial
+  DEP_FILE = CMakeFiles\stackFactorial.dir\chapter03-stack-queue\Stack\LeetCode\stackFactorial.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\stackFactorial.dir
+  OBJECT_FILE_DIR = CMakeFiles\stackFactorial.dir\chapter03-stack-queue\Stack\LeetCode
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target stackFactorial
+
+
+#############################################
+# Link the executable stackFactorial.exe
+
+build stackFactorial.exe: CXX_EXECUTABLE_LINKER__stackFactorial_Debug CMakeFiles/stackFactorial.dir/chapter03-stack-queue/Stack/LeetCode/stackFactorial.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\stackFactorial.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = stackFactorial.exe
+  TARGET_IMPLIB = libstackFactorial.dll.a
+  TARGET_PDB = stackFactorial.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target Fibonacci_array
+
+
+#############################################
+# Order-only phony target for Fibonacci_array
+
+build cmake_object_order_depends_target_Fibonacci_array: phony || CMakeFiles/Fibonacci_array.dir
+
+build CMakeFiles/Fibonacci_array.dir/chapter03-stack-queue/Stack/LeetCode/Fibonacci_array.cpp.obj: CXX_COMPILER__Fibonacci_array_unscanned_Debug D$:/C_Study/WorkSpace/Cpp_Study/08DataStruct/chapter03-stack-queue/Stack/LeetCode/Fibonacci_array.cpp || cmake_object_order_depends_target_Fibonacci_array
+  DEP_FILE = CMakeFiles\Fibonacci_array.dir\chapter03-stack-queue\Stack\LeetCode\Fibonacci_array.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\Fibonacci_array.dir
+  OBJECT_FILE_DIR = CMakeFiles\Fibonacci_array.dir\chapter03-stack-queue\Stack\LeetCode
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target Fibonacci_array
+
+
+#############################################
+# Link the executable Fibonacci_array.exe
+
+build Fibonacci_array.exe: CXX_EXECUTABLE_LINKER__Fibonacci_array_Debug CMakeFiles/Fibonacci_array.dir/chapter03-stack-queue/Stack/LeetCode/Fibonacci_array.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\Fibonacci_array.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = Fibonacci_array.exe
+  TARGET_IMPLIB = libFibonacci_array.dll.a
+  TARGET_PDB = Fibonacci_array.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target symmetricMatrix
+
+
+#############################################
+# Order-only phony target for symmetricMatrix
+
+build cmake_object_order_depends_target_symmetricMatrix: phony || CMakeFiles/symmetricMatrix.dir
+
+build CMakeFiles/symmetricMatrix.dir/chapter03-stack-queue/Stack/LeetCode/symmetricMatrix.cpp.obj: CXX_COMPILER__symmetricMatrix_unscanned_Debug D$:/C_Study/WorkSpace/Cpp_Study/08DataStruct/chapter03-stack-queue/Stack/LeetCode/symmetricMatrix.cpp || cmake_object_order_depends_target_symmetricMatrix
+  DEP_FILE = CMakeFiles\symmetricMatrix.dir\chapter03-stack-queue\Stack\LeetCode\symmetricMatrix.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\symmetricMatrix.dir
+  OBJECT_FILE_DIR = CMakeFiles\symmetricMatrix.dir\chapter03-stack-queue\Stack\LeetCode
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target symmetricMatrix
+
+
+#############################################
+# Link the executable symmetricMatrix.exe
+
+build symmetricMatrix.exe: CXX_EXECUTABLE_LINKER__symmetricMatrix_Debug CMakeFiles/symmetricMatrix.dir/chapter03-stack-queue/Stack/LeetCode/symmetricMatrix.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\symmetricMatrix.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = symmetricMatrix.exe
+  TARGET_IMPLIB = libsymmetricMatrix.dll.a
+  TARGET_PDB = symmetricMatrix.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target sparseMatrix
+
+
+#############################################
+# Order-only phony target for sparseMatrix
+
+build cmake_object_order_depends_target_sparseMatrix: phony || CMakeFiles/sparseMatrix.dir
+
+build CMakeFiles/sparseMatrix.dir/chapter03-stack-queue/Stack/LeetCode/sparseMatrix.cpp.obj: CXX_COMPILER__sparseMatrix_unscanned_Debug D$:/C_Study/WorkSpace/Cpp_Study/08DataStruct/chapter03-stack-queue/Stack/LeetCode/sparseMatrix.cpp || cmake_object_order_depends_target_sparseMatrix
+  DEP_FILE = CMakeFiles\sparseMatrix.dir\chapter03-stack-queue\Stack\LeetCode\sparseMatrix.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\sparseMatrix.dir
+  OBJECT_FILE_DIR = CMakeFiles\sparseMatrix.dir\chapter03-stack-queue\Stack\LeetCode
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target sparseMatrix
+
+
+#############################################
+# Link the executable sparseMatrix.exe
+
+build sparseMatrix.exe: CXX_EXECUTABLE_LINKER__sparseMatrix_Debug CMakeFiles/sparseMatrix.dir/chapter03-stack-queue/Stack/LeetCode/sparseMatrix.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\sparseMatrix.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = sparseMatrix.exe
+  TARGET_IMPLIB = libsparseMatrix.dll.a
+  TARGET_PDB = sparseMatrix.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target UpperTriangularMatrix
+
+
+#############################################
+# Order-only phony target for UpperTriangularMatrix
+
+build cmake_object_order_depends_target_UpperTriangularMatrix: phony || CMakeFiles/UpperTriangularMatrix.dir
+
+build CMakeFiles/UpperTriangularMatrix.dir/chapter03-stack-queue/Stack/LeetCode/UpperTriangularMatrix.cpp.obj: CXX_COMPILER__UpperTriangularMatrix_unscanned_Debug D$:/C_Study/WorkSpace/Cpp_Study/08DataStruct/chapter03-stack-queue/Stack/LeetCode/UpperTriangularMatrix.cpp || cmake_object_order_depends_target_UpperTriangularMatrix
+  DEP_FILE = CMakeFiles\UpperTriangularMatrix.dir\chapter03-stack-queue\Stack\LeetCode\UpperTriangularMatrix.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\UpperTriangularMatrix.dir
+  OBJECT_FILE_DIR = CMakeFiles\UpperTriangularMatrix.dir\chapter03-stack-queue\Stack\LeetCode
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target UpperTriangularMatrix
+
+
+#############################################
+# Link the executable UpperTriangularMatrix.exe
+
+build UpperTriangularMatrix.exe: CXX_EXECUTABLE_LINKER__UpperTriangularMatrix_Debug CMakeFiles/UpperTriangularMatrix.dir/chapter03-stack-queue/Stack/LeetCode/UpperTriangularMatrix.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\UpperTriangularMatrix.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = UpperTriangularMatrix.exe
+  TARGET_IMPLIB = libUpperTriangularMatrix.dll.a
+  TARGET_PDB = UpperTriangularMatrix.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target LowerTriangularMatrix
+
+
+#############################################
+# Order-only phony target for LowerTriangularMatrix
+
+build cmake_object_order_depends_target_LowerTriangularMatrix: phony || CMakeFiles/LowerTriangularMatrix.dir
+
+build CMakeFiles/LowerTriangularMatrix.dir/chapter03-stack-queue/Stack/LeetCode/LowerTriangularMatrix.cpp.obj: CXX_COMPILER__LowerTriangularMatrix_unscanned_Debug D$:/C_Study/WorkSpace/Cpp_Study/08DataStruct/chapter03-stack-queue/Stack/LeetCode/LowerTriangularMatrix.cpp || cmake_object_order_depends_target_LowerTriangularMatrix
+  DEP_FILE = CMakeFiles\LowerTriangularMatrix.dir\chapter03-stack-queue\Stack\LeetCode\LowerTriangularMatrix.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\LowerTriangularMatrix.dir
+  OBJECT_FILE_DIR = CMakeFiles\LowerTriangularMatrix.dir\chapter03-stack-queue\Stack\LeetCode
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target LowerTriangularMatrix
+
+
+#############################################
+# Link the executable LowerTriangularMatrix.exe
+
+build LowerTriangularMatrix.exe: CXX_EXECUTABLE_LINKER__LowerTriangularMatrix_Debug CMakeFiles/LowerTriangularMatrix.dir/chapter03-stack-queue/Stack/LeetCode/LowerTriangularMatrix.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\LowerTriangularMatrix.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = LowerTriangularMatrix.exe
+  TARGET_IMPLIB = libLowerTriangularMatrix.dll.a
+  TARGET_PDB = LowerTriangularMatrix.exe.dbg
 
 
 #############################################
@@ -2810,6 +2535,12 @@ build rebuild_cache: phony CMakeFiles/rebuild_cache.util
 # =============================================================================
 # Target aliases.
 
+build Fibonacci_array: phony Fibonacci_array.exe
+
+build LowerTriangularMatrix: phony LowerTriangularMatrix.exe
+
+build UpperTriangularMatrix: phony UpperTriangularMatrix.exe
+
 build absDifference: phony absDifference.exe
 
 build absoluteK: phony absoluteK.exe
@@ -2828,6 +2559,8 @@ build bracketMatch: phony bracketMatch.exe
 
 build buildArray: phony buildArray.exe
 
+build calcFixExpre: phony calcFixExpre.exe
+
 build candyKid: phony candyKid.exe
 
 build countBack_K: phony countBack_K.exe
@@ -2845,6 +2578,10 @@ build delNode: phony delNode.exe
 build delRepeatEle: phony delRepeatEle.exe
 
 build guessNum: phony guessNum.exe
+
+build infixToPrefix: phony infixToPrefix.exe
+
+build infixToSuffix: phony infixToSuffix.exe
 
 build main: phony main.exe
 
@@ -2876,11 +2613,17 @@ build singerMark: phony singerMark.exe
 
 build singleEle: phony singleEle.exe
 
+build sparseMatrix: phony sparseMatrix.exe
+
+build stackFactorial: phony stackFactorial.exe
+
 build sumArray: phony sumArray.exe
 
 build sumK: phony sumK.exe
 
 build superStair: phony superStair.exe
+
+build symmetricMatrix: phony symmetricMatrix.exe
 
 build takeCoin: phony takeCoin.exe
 
@@ -2930,7 +2673,7 @@ build yanghuiTriangle: phony yanghuiTriangle.exe
 #############################################
 # Folder: D:/C_Study/WorkSpace/Cpp_Study/08DataStruct/cmake-build-debug
 
-build all: phony main.exe testStaticSeqTable.exe testDynamicSeqTable.exe oddProduct.exe valCount.exe singerMark.exe guessNum.exe takeCoin.exe minIndex.exe maxNumofContinOne.exe absoluteK.exe maxProduct.exe absDifference.exe sumK.exe triadCount.exe removeEle.exe buildArray.exe arrayConcat.exe candyKid.exe arrayMiddle.exe singleEle.exe yanghuiTriangle.exe testSingleLinkWithHead.exe testSingleLinkWithoutHead.exe sumArray.exe orderList.exe superStair.exe binaryInvertPos.exe countBack_K.exe trainPlan.exe middleNode.exe delMiddleNode.exe removeElem.exe delNode.exe delRepeatEle.exe delCountBack_N.exe remRepeatNode.exe arrangeBook.exe reverseLink.exe testDoubleLinkWithHead.cpp.exe trainPlan3.exe reverseLink2.exe testStaticStack.exe teststaticSharedStack.exe testLinkStack.exe teststaticStack_Hero.exe testLinkStack_Hero.exe testCppStack.exe decToBinary.exe dectoAny.exe arrangeBook_Stack.exe palindromeLink.exe validBracket.exe testStaticQueue.exe testdoublePointLinkQueueWithoutHead.exe bracketMatch.exe
+build all: phony main.exe testStaticSeqTable.exe testDynamicSeqTable.exe oddProduct.exe valCount.exe singerMark.exe guessNum.exe takeCoin.exe minIndex.exe maxNumofContinOne.exe absoluteK.exe maxProduct.exe absDifference.exe sumK.exe triadCount.exe removeEle.exe buildArray.exe arrayConcat.exe candyKid.exe arrayMiddle.exe singleEle.exe yanghuiTriangle.exe testSingleLinkWithHead.exe testSingleLinkWithoutHead.exe sumArray.exe orderList.exe superStair.exe binaryInvertPos.exe countBack_K.exe trainPlan.exe middleNode.exe delMiddleNode.exe removeElem.exe delNode.exe delRepeatEle.exe delCountBack_N.exe remRepeatNode.exe arrangeBook.exe reverseLink.exe testDoubleLinkWithHead.cpp.exe trainPlan3.exe reverseLink2.exe testStaticStack.exe teststaticSharedStack.exe testLinkStack.exe teststaticStack_Hero.exe testLinkStack_Hero.exe testCppStack.exe decToBinary.exe dectoAny.exe arrangeBook_Stack.exe palindromeLink.exe validBracket.exe testStaticQueue.exe testdoublePointLinkQueueWithoutHead.exe bracketMatch.exe infixToSuffix.exe infixToPrefix.exe calcFixExpre.exe stackFactorial.exe Fibonacci_array.exe symmetricMatrix.exe sparseMatrix.exe UpperTriangularMatrix.exe LowerTriangularMatrix.exe
 
 # =============================================================================
 # Built-in targets
@@ -2939,14 +2682,14 @@ build all: phony main.exe testStaticSeqTable.exe testDynamicSeqTable.exe oddProd
 #############################################
 # Re-run CMake if any of its inputs changed.
 
-build build.ninja: RERUN_CMAKE | CMakeCache.txt CMakeFiles/3.28.1/CMakeCCompiler.cmake CMakeFiles/3.28.1/CMakeCXXCompiler.cmake CMakeFiles/3.28.1/CMakeRCCompiler.cmake CMakeFiles/3.28.1/CMakeSystem.cmake D$:/C_Study/WorkSpace/Cpp_Study/08DataStruct/CMakeLists.txt E$:/ToolBox/CLion$ 2/bin/cmake/win/x64/share/cmake-3.28/Modules/CMakeCCompiler.cmake.in E$:/ToolBox/CLion$ 2/bin/cmake/win/x64/share/cmake-3.28/Modules/CMakeCCompilerABI.c E$:/ToolBox/CLion$ 2/bin/cmake/win/x64/share/cmake-3.28/Modules/CMakeCInformation.cmake E$:/ToolBox/CLion$ 2/bin/cmake/win/x64/share/cmake-3.28/Modules/CMakeCXXCompiler.cmake.in E$:/ToolBox/CLion$ 2/bin/cmake/win/x64/share/cmake-3.28/Modules/CMakeCXXCompilerABI.cpp E$:/ToolBox/CLion$ 2/bin/cmake/win/x64/share/cmake-3.28/Modules/CMakeCXXInformation.cmake E$:/ToolBox/CLion$ 2/bin/cmake/win/x64/share/cmake-3.28/Modules/CMakeCommonLanguageInclude.cmake E$:/ToolBox/CLion$ 2/bin/cmake/win/x64/share/cmake-3.28/Modules/CMakeCompilerIdDetection.cmake E$:/ToolBox/CLion$ 2/bin/cmake/win/x64/share/cmake-3.28/Modules/CMakeDetermineCCompiler.cmake E$:/ToolBox/CLion$ 2/bin/cmake/win/x64/share/cmake-3.28/Modules/CMakeDetermineCXXCompiler.cmake E$:/ToolBox/CLion$ 2/bin/cmake/win/x64/share/cmake-3.28/Modules/CMakeDetermineCompileFeatures.cmake E$:/ToolBox/CLion$ 2/bin/cmake/win/x64/share/cmake-3.28/Modules/CMakeDetermineCompiler.cmake E$:/ToolBox/CLion$ 2/bin/cmake/win/x64/share/cmake-3.28/Modules/CMakeDetermineCompilerABI.cmake E$:/ToolBox/CLion$ 2/bin/cmake/win/x64/share/cmake-3.28/Modules/CMakeDetermineCompilerId.cmake E$:/ToolBox/CLion$ 2/bin/cmake/win/x64/share/cmake-3.28/Modules/CMakeDetermineRCCompiler.cmake E$:/ToolBox/CLion$ 2/bin/cmake/win/x64/share/cmake-3.28/Modules/CMakeDetermineSystem.cmake E$:/ToolBox/CLion$ 2/bin/cmake/win/x64/share/cmake-3.28/Modules/CMakeFindBinUtils.cmake E$:/ToolBox/CLion$ 2/bin/cmake/win/x64/share/cmake-3.28/Modules/CMakeGenericSystem.cmake E$:/ToolBox/CLion$ 2/bin/cmake/win/x64/share/cmake-3.28/Modules/CMakeInitializeConfigs.cmake E$:/ToolBox/CLion$ 2/bin/cmake/win/x64/share/cmake-3.28/Modules/CMakeLanguageInformation.cmake E$:/ToolBox/CLion$ 2/bin/cmake/win/x64/share/cmake-3.28/Modules/CMakeParseImplicitIncludeInfo.cmake E$:/ToolBox/CLion$ 2/bin/cmake/win/x64/share/cmake-3.28/Modules/CMakeParseImplicitLinkInfo.cmake E$:/ToolBox/CLion$ 2/bin/cmake/win/x64/share/cmake-3.28/Modules/CMakeParseLibraryArchitecture.cmake E$:/ToolBox/CLion$ 2/bin/cmake/win/x64/share/cmake-3.28/Modules/CMakeRCCompiler.cmake.in E$:/ToolBox/CLion$ 2/bin/cmake/win/x64/share/cmake-3.28/Modules/CMakeRCInformation.cmake E$:/ToolBox/CLion$ 2/bin/cmake/win/x64/share/cmake-3.28/Modules/CMakeSystem.cmake.in E$:/ToolBox/CLion$ 2/bin/cmake/win/x64/share/cmake-3.28/Modules/CMakeSystemSpecificInformation.cmake E$:/ToolBox/CLion$ 2/bin/cmake/win/x64/share/cmake-3.28/Modules/CMakeSystemSpecificInitialize.cmake E$:/ToolBox/CLion$ 2/bin/cmake/win/x64/share/cmake-3.28/Modules/CMakeTestCCompiler.cmake E$:/ToolBox/CLion$ 2/bin/cmake/win/x64/share/cmake-3.28/Modules/CMakeTestCXXCompiler.cmake E$:/ToolBox/CLion$ 2/bin/cmake/win/x64/share/cmake-3.28/Modules/CMakeTestCompilerCommon.cmake E$:/ToolBox/CLion$ 2/bin/cmake/win/x64/share/cmake-3.28/Modules/CMakeTestRCCompiler.cmake E$:/ToolBox/CLion$ 2/bin/cmake/win/x64/share/cmake-3.28/Modules/Compiler/ADSP-DetermineCompiler.cmake E$:/ToolBox/CLion$ 2/bin/cmake/win/x64/share/cmake-3.28/Modules/Compiler/ARMCC-DetermineCompiler.cmake E$:/ToolBox/CLion$ 2/bin/cmake/win/x64/share/cmake-3.28/Modules/Compiler/ARMClang-DetermineCompiler.cmake E$:/ToolBox/CLion$ 2/bin/cmake/win/x64/share/cmake-3.28/Modules/Compiler/AppleClang-DetermineCompiler.cmake E$:/ToolBox/CLion$ 2/bin/cmake/win/x64/share/cmake-3.28/Modules/Compiler/Borland-DetermineCompiler.cmake E$:/ToolBox/CLion$ 2/bin/cmake/win/x64/share/cmake-3.28/Modules/Compiler/Bruce-C-DetermineCompiler.cmake E$:/ToolBox/CLion$ 2/bin/cmake/win/x64/share/cmake-3.28/Modules/Compiler/CMakeCommonCompilerMacros.cmake E$:/ToolBox/CLion$ 2/bin/cmake/win/x64/share/cmake-3.28/Modules/Compiler/Clang-DetermineCompiler.cmake E$:/ToolBox/CLion$ 2/bin/cmake/win/x64/share/cmake-3.28/Modules/Compiler/Clang-DetermineCompilerInternal.cmake E$:/ToolBox/CLion$ 2/bin/cmake/win/x64/share/cmake-3.28/Modules/Compiler/Comeau-CXX-DetermineCompiler.cmake E$:/ToolBox/CLion$ 2/bin/cmake/win/x64/share/cmake-3.28/Modules/Compiler/Compaq-C-DetermineCompiler.cmake E$:/ToolBox/CLion$ 2/bin/cmake/win/x64/share/cmake-3.28/Modules/Compiler/Compaq-CXX-DetermineCompiler.cmake E$:/ToolBox/CLion$ 2/bin/cmake/win/x64/share/cmake-3.28/Modules/Compiler/Cray-DetermineCompiler.cmake E$:/ToolBox/CLion$ 2/bin/cmake/win/x64/share/cmake-3.28/Modules/Compiler/CrayClang-DetermineCompiler.cmake E$:/ToolBox/CLion$ 2/bin/cmake/win/x64/share/cmake-3.28/Modules/Compiler/Embarcadero-DetermineCompiler.cmake E$:/ToolBox/CLion$ 2/bin/cmake/win/x64/share/cmake-3.28/Modules/Compiler/Fujitsu-DetermineCompiler.cmake E$:/ToolBox/CLion$ 2/bin/cmake/win/x64/share/cmake-3.28/Modules/Compiler/FujitsuClang-DetermineCompiler.cmake E$:/ToolBox/CLion$ 2/bin/cmake/win/x64/share/cmake-3.28/Modules/Compiler/GHS-DetermineCompiler.cmake E$:/ToolBox/CLion$ 2/bin/cmake/win/x64/share/cmake-3.28/Modules/Compiler/GNU-C-DetermineCompiler.cmake E$:/ToolBox/CLion$ 2/bin/cmake/win/x64/share/cmake-3.28/Modules/Compiler/GNU-C.cmake E$:/ToolBox/CLion$ 2/bin/cmake/win/x64/share/cmake-3.28/Modules/Compiler/GNU-CXX-DetermineCompiler.cmake E$:/ToolBox/CLion$ 2/bin/cmake/win/x64/share/cmake-3.28/Modules/Compiler/GNU-CXX.cmake E$:/ToolBox/CLion$ 2/bin/cmake/win/x64/share/cmake-3.28/Modules/Compiler/GNU-FindBinUtils.cmake E$:/ToolBox/CLion$ 2/bin/cmake/win/x64/share/cmake-3.28/Modules/Compiler/GNU.cmake E$:/ToolBox/CLion$ 2/bin/cmake/win/x64/share/cmake-3.28/Modules/Compiler/HP-C-DetermineCompiler.cmake E$:/ToolBox/CLion$ 2/bin/cmake/win/x64/share/cmake-3.28/Modules/Compiler/HP-CXX-DetermineCompiler.cmake E$:/ToolBox/CLion$ 2/bin/cmake/win/x64/share/cmake-3.28/Modules/Compiler/IAR-DetermineCompiler.cmake E$:/ToolBox/CLion$ 2/bin/cmake/win/x64/share/cmake-3.28/Modules/Compiler/IBMCPP-C-DetermineVersionInternal.cmake E$:/ToolBox/CLion$ 2/bin/cmake/win/x64/share/cmake-3.28/Modules/Compiler/IBMCPP-CXX-DetermineVersionInternal.cmake E$:/ToolBox/CLion$ 2/bin/cmake/win/x64/share/cmake-3.28/Modules/Compiler/IBMClang-C-DetermineCompiler.cmake E$:/ToolBox/CLion$ 2/bin/cmake/win/x64/share/cmake-3.28/Modules/Compiler/IBMClang-CXX-DetermineCompiler.cmake E$:/ToolBox/CLion$ 2/bin/cmake/win/x64/share/cmake-3.28/Modules/Compiler/Intel-DetermineCompiler.cmake E$:/ToolBox/CLion$ 2/bin/cmake/win/x64/share/cmake-3.28/Modules/Compiler/IntelLLVM-DetermineCompiler.cmake E$:/ToolBox/CLion$ 2/bin/cmake/win/x64/share/cmake-3.28/Modules/Compiler/LCC-C-DetermineCompiler.cmake E$:/ToolBox/CLion$ 2/bin/cmake/win/x64/share/cmake-3.28/Modules/Compiler/LCC-CXX-DetermineCompiler.cmake E$:/ToolBox/CLion$ 2/bin/cmake/win/x64/share/cmake-3.28/Modules/Compiler/MSVC-DetermineCompiler.cmake E$:/ToolBox/CLion$ 2/bin/cmake/win/x64/share/cmake-3.28/Modules/Compiler/NVHPC-DetermineCompiler.cmake E$:/ToolBox/CLion$ 2/bin/cmake/win/x64/share/cmake-3.28/Modules/Compiler/NVIDIA-DetermineCompiler.cmake E$:/ToolBox/CLion$ 2/bin/cmake/win/x64/share/cmake-3.28/Modules/Compiler/OpenWatcom-DetermineCompiler.cmake E$:/ToolBox/CLion$ 2/bin/cmake/win/x64/share/cmake-3.28/Modules/Compiler/OrangeC-DetermineCompiler.cmake E$:/ToolBox/CLion$ 2/bin/cmake/win/x64/share/cmake-3.28/Modules/Compiler/PGI-DetermineCompiler.cmake E$:/ToolBox/CLion$ 2/bin/cmake/win/x64/share/cmake-3.28/Modules/Compiler/PathScale-DetermineCompiler.cmake E$:/ToolBox/CLion$ 2/bin/cmake/win/x64/share/cmake-3.28/Modules/Compiler/SCO-DetermineCompiler.cmake E$:/ToolBox/CLion$ 2/bin/cmake/win/x64/share/cmake-3.28/Modules/Compiler/SDCC-C-DetermineCompiler.cmake E$:/ToolBox/CLion$ 2/bin/cmake/win/x64/share/cmake-3.28/Modules/Compiler/SunPro-C-DetermineCompiler.cmake E$:/ToolBox/CLion$ 2/bin/cmake/win/x64/share/cmake-3.28/Modules/Compiler/SunPro-CXX-DetermineCompiler.cmake E$:/ToolBox/CLion$ 2/bin/cmake/win/x64/share/cmake-3.28/Modules/Compiler/TI-DetermineCompiler.cmake E$:/ToolBox/CLion$ 2/bin/cmake/win/x64/share/cmake-3.28/Modules/Compiler/Tasking-DetermineCompiler.cmake E$:/ToolBox/CLion$ 2/bin/cmake/win/x64/share/cmake-3.28/Modules/Compiler/TinyCC-C-DetermineCompiler.cmake E$:/ToolBox/CLion$ 2/bin/cmake/win/x64/share/cmake-3.28/Modules/Compiler/VisualAge-C-DetermineCompiler.cmake E$:/ToolBox/CLion$ 2/bin/cmake/win/x64/share/cmake-3.28/Modules/Compiler/VisualAge-CXX-DetermineCompiler.cmake E$:/ToolBox/CLion$ 2/bin/cmake/win/x64/share/cmake-3.28/Modules/Compiler/Watcom-DetermineCompiler.cmake E$:/ToolBox/CLion$ 2/bin/cmake/win/x64/share/cmake-3.28/Modules/Compiler/XL-C-DetermineCompiler.cmake E$:/ToolBox/CLion$ 2/bin/cmake/win/x64/share/cmake-3.28/Modules/Compiler/XL-CXX-DetermineCompiler.cmake E$:/ToolBox/CLion$ 2/bin/cmake/win/x64/share/cmake-3.28/Modules/Compiler/XLClang-C-DetermineCompiler.cmake E$:/ToolBox/CLion$ 2/bin/cmake/win/x64/share/cmake-3.28/Modules/Compiler/XLClang-CXX-DetermineCompiler.cmake E$:/ToolBox/CLion$ 2/bin/cmake/win/x64/share/cmake-3.28/Modules/Compiler/zOS-C-DetermineCompiler.cmake E$:/ToolBox/CLion$ 2/bin/cmake/win/x64/share/cmake-3.28/Modules/Compiler/zOS-CXX-DetermineCompiler.cmake E$:/ToolBox/CLion$ 2/bin/cmake/win/x64/share/cmake-3.28/Modules/Internal/FeatureTesting.cmake E$:/ToolBox/CLion$ 2/bin/cmake/win/x64/share/cmake-3.28/Modules/Platform/Windows-Determine-CXX.cmake E$:/ToolBox/CLion$ 2/bin/cmake/win/x64/share/cmake-3.28/Modules/Platform/Windows-GNU-C-ABI.cmake E$:/ToolBox/CLion$ 2/bin/cmake/win/x64/share/cmake-3.28/Modules/Platform/Windows-GNU-C.cmake E$:/ToolBox/CLion$ 2/bin/cmake/win/x64/share/cmake-3.28/Modules/Platform/Windows-GNU-CXX-ABI.cmake E$:/ToolBox/CLion$ 2/bin/cmake/win/x64/share/cmake-3.28/Modules/Platform/Windows-GNU-CXX.cmake E$:/ToolBox/CLion$ 2/bin/cmake/win/x64/share/cmake-3.28/Modules/Platform/Windows-GNU.cmake E$:/ToolBox/CLion$ 2/bin/cmake/win/x64/share/cmake-3.28/Modules/Platform/Windows-Initialize.cmake E$:/ToolBox/CLion$ 2/bin/cmake/win/x64/share/cmake-3.28/Modules/Platform/Windows-windres.cmake E$:/ToolBox/CLion$ 2/bin/cmake/win/x64/share/cmake-3.28/Modules/Platform/Windows.cmake E$:/ToolBox/CLion$ 2/bin/cmake/win/x64/share/cmake-3.28/Modules/Platform/WindowsPaths.cmake
+build build.ninja: RERUN_CMAKE | CMakeCache.txt CMakeFiles/3.28.1/CMakeCCompiler.cmake CMakeFiles/3.28.1/CMakeCXXCompiler.cmake CMakeFiles/3.28.1/CMakeRCCompiler.cmake CMakeFiles/3.28.1/CMakeSystem.cmake D$:/C_Study/WorkSpace/Cpp_Study/08DataStruct/CMakeLists.txt E$:/ToolBox/CLion$ 2/bin/cmake/win/x64/share/cmake-3.28/Modules/CMakeCInformation.cmake E$:/ToolBox/CLion$ 2/bin/cmake/win/x64/share/cmake-3.28/Modules/CMakeCXXInformation.cmake E$:/ToolBox/CLion$ 2/bin/cmake/win/x64/share/cmake-3.28/Modules/CMakeCommonLanguageInclude.cmake E$:/ToolBox/CLion$ 2/bin/cmake/win/x64/share/cmake-3.28/Modules/CMakeGenericSystem.cmake E$:/ToolBox/CLion$ 2/bin/cmake/win/x64/share/cmake-3.28/Modules/CMakeInitializeConfigs.cmake E$:/ToolBox/CLion$ 2/bin/cmake/win/x64/share/cmake-3.28/Modules/CMakeLanguageInformation.cmake E$:/ToolBox/CLion$ 2/bin/cmake/win/x64/share/cmake-3.28/Modules/CMakeRCInformation.cmake E$:/ToolBox/CLion$ 2/bin/cmake/win/x64/share/cmake-3.28/Modules/CMakeSystemSpecificInformation.cmake E$:/ToolBox/CLion$ 2/bin/cmake/win/x64/share/cmake-3.28/Modules/CMakeSystemSpecificInitialize.cmake E$:/ToolBox/CLion$ 2/bin/cmake/win/x64/share/cmake-3.28/Modules/Compiler/CMakeCommonCompilerMacros.cmake E$:/ToolBox/CLion$ 2/bin/cmake/win/x64/share/cmake-3.28/Modules/Compiler/GNU-C.cmake E$:/ToolBox/CLion$ 2/bin/cmake/win/x64/share/cmake-3.28/Modules/Compiler/GNU-CXX.cmake E$:/ToolBox/CLion$ 2/bin/cmake/win/x64/share/cmake-3.28/Modules/Compiler/GNU.cmake E$:/ToolBox/CLion$ 2/bin/cmake/win/x64/share/cmake-3.28/Modules/Platform/Windows-GNU-C-ABI.cmake E$:/ToolBox/CLion$ 2/bin/cmake/win/x64/share/cmake-3.28/Modules/Platform/Windows-GNU-C.cmake E$:/ToolBox/CLion$ 2/bin/cmake/win/x64/share/cmake-3.28/Modules/Platform/Windows-GNU-CXX-ABI.cmake E$:/ToolBox/CLion$ 2/bin/cmake/win/x64/share/cmake-3.28/Modules/Platform/Windows-GNU-CXX.cmake E$:/ToolBox/CLion$ 2/bin/cmake/win/x64/share/cmake-3.28/Modules/Platform/Windows-GNU.cmake E$:/ToolBox/CLion$ 2/bin/cmake/win/x64/share/cmake-3.28/Modules/Platform/Windows-Initialize.cmake E$:/ToolBox/CLion$ 2/bin/cmake/win/x64/share/cmake-3.28/Modules/Platform/Windows-windres.cmake E$:/ToolBox/CLion$ 2/bin/cmake/win/x64/share/cmake-3.28/Modules/Platform/Windows.cmake E$:/ToolBox/CLion$ 2/bin/cmake/win/x64/share/cmake-3.28/Modules/Platform/WindowsPaths.cmake
   pool = console
 
 
 #############################################
 # A missing CMake input file is not an error.
 
-build CMakeCache.txt CMakeFiles/3.28.1/CMakeCCompiler.cmake CMakeFiles/3.28.1/CMakeCXXCompiler.cmake CMakeFiles/3.28.1/CMakeRCCompiler.cmake CMakeFiles/3.28.1/CMakeSystem.cmake D$:/C_Study/WorkSpace/Cpp_Study/08DataStruct/CMakeLists.txt E$:/ToolBox/CLion$ 2/bin/cmake/win/x64/share/cmake-3.28/Modules/CMakeCCompiler.cmake.in E$:/ToolBox/CLion$ 2/bin/cmake/win/x64/share/cmake-3.28/Modules/CMakeCCompilerABI.c E$:/ToolBox/CLion$ 2/bin/cmake/win/x64/share/cmake-3.28/Modules/CMakeCInformation.cmake E$:/ToolBox/CLion$ 2/bin/cmake/win/x64/share/cmake-3.28/Modules/CMakeCXXCompiler.cmake.in E$:/ToolBox/CLion$ 2/bin/cmake/win/x64/share/cmake-3.28/Modules/CMakeCXXCompilerABI.cpp E$:/ToolBox/CLion$ 2/bin/cmake/win/x64/share/cmake-3.28/Modules/CMakeCXXInformation.cmake E$:/ToolBox/CLion$ 2/bin/cmake/win/x64/share/cmake-3.28/Modules/CMakeCommonLanguageInclude.cmake E$:/ToolBox/CLion$ 2/bin/cmake/win/x64/share/cmake-3.28/Modules/CMakeCompilerIdDetection.cmake E$:/ToolBox/CLion$ 2/bin/cmake/win/x64/share/cmake-3.28/Modules/CMakeDetermineCCompiler.cmake E$:/ToolBox/CLion$ 2/bin/cmake/win/x64/share/cmake-3.28/Modules/CMakeDetermineCXXCompiler.cmake E$:/ToolBox/CLion$ 2/bin/cmake/win/x64/share/cmake-3.28/Modules/CMakeDetermineCompileFeatures.cmake E$:/ToolBox/CLion$ 2/bin/cmake/win/x64/share/cmake-3.28/Modules/CMakeDetermineCompiler.cmake E$:/ToolBox/CLion$ 2/bin/cmake/win/x64/share/cmake-3.28/Modules/CMakeDetermineCompilerABI.cmake E$:/ToolBox/CLion$ 2/bin/cmake/win/x64/share/cmake-3.28/Modules/CMakeDetermineCompilerId.cmake E$:/ToolBox/CLion$ 2/bin/cmake/win/x64/share/cmake-3.28/Modules/CMakeDetermineRCCompiler.cmake E$:/ToolBox/CLion$ 2/bin/cmake/win/x64/share/cmake-3.28/Modules/CMakeDetermineSystem.cmake E$:/ToolBox/CLion$ 2/bin/cmake/win/x64/share/cmake-3.28/Modules/CMakeFindBinUtils.cmake E$:/ToolBox/CLion$ 2/bin/cmake/win/x64/share/cmake-3.28/Modules/CMakeGenericSystem.cmake E$:/ToolBox/CLion$ 2/bin/cmake/win/x64/share/cmake-3.28/Modules/CMakeInitializeConfigs.cmake E$:/ToolBox/CLion$ 2/bin/cmake/win/x64/share/cmake-3.28/Modules/CMakeLanguageInformation.cmake E$:/ToolBox/CLion$ 2/bin/cmake/win/x64/share/cmake-3.28/Modules/CMakeParseImplicitIncludeInfo.cmake E$:/ToolBox/CLion$ 2/bin/cmake/win/x64/share/cmake-3.28/Modules/CMakeParseImplicitLinkInfo.cmake E$:/ToolBox/CLion$ 2/bin/cmake/win/x64/share/cmake-3.28/Modules/CMakeParseLibraryArchitecture.cmake E$:/ToolBox/CLion$ 2/bin/cmake/win/x64/share/cmake-3.28/Modules/CMakeRCCompiler.cmake.in E$:/ToolBox/CLion$ 2/bin/cmake/win/x64/share/cmake-3.28/Modules/CMakeRCInformation.cmake E$:/ToolBox/CLion$ 2/bin/cmake/win/x64/share/cmake-3.28/Modules/CMakeSystem.cmake.in E$:/ToolBox/CLion$ 2/bin/cmake/win/x64/share/cmake-3.28/Modules/CMakeSystemSpecificInformation.cmake E$:/ToolBox/CLion$ 2/bin/cmake/win/x64/share/cmake-3.28/Modules/CMakeSystemSpecificInitialize.cmake E$:/ToolBox/CLion$ 2/bin/cmake/win/x64/share/cmake-3.28/Modules/CMakeTestCCompiler.cmake E$:/ToolBox/CLion$ 2/bin/cmake/win/x64/share/cmake-3.28/Modules/CMakeTestCXXCompiler.cmake E$:/ToolBox/CLion$ 2/bin/cmake/win/x64/share/cmake-3.28/Modules/CMakeTestCompilerCommon.cmake E$:/ToolBox/CLion$ 2/bin/cmake/win/x64/share/cmake-3.28/Modules/CMakeTestRCCompiler.cmake E$:/ToolBox/CLion$ 2/bin/cmake/win/x64/share/cmake-3.28/Modules/Compiler/ADSP-DetermineCompiler.cmake E$:/ToolBox/CLion$ 2/bin/cmake/win/x64/share/cmake-3.28/Modules/Compiler/ARMCC-DetermineCompiler.cmake E$:/ToolBox/CLion$ 2/bin/cmake/win/x64/share/cmake-3.28/Modules/Compiler/ARMClang-DetermineCompiler.cmake E$:/ToolBox/CLion$ 2/bin/cmake/win/x64/share/cmake-3.28/Modules/Compiler/AppleClang-DetermineCompiler.cmake E$:/ToolBox/CLion$ 2/bin/cmake/win/x64/share/cmake-3.28/Modules/Compiler/Borland-DetermineCompiler.cmake E$:/ToolBox/CLion$ 2/bin/cmake/win/x64/share/cmake-3.28/Modules/Compiler/Bruce-C-DetermineCompiler.cmake E$:/ToolBox/CLion$ 2/bin/cmake/win/x64/share/cmake-3.28/Modules/Compiler/CMakeCommonCompilerMacros.cmake E$:/ToolBox/CLion$ 2/bin/cmake/win/x64/share/cmake-3.28/Modules/Compiler/Clang-DetermineCompiler.cmake E$:/ToolBox/CLion$ 2/bin/cmake/win/x64/share/cmake-3.28/Modules/Compiler/Clang-DetermineCompilerInternal.cmake E$:/ToolBox/CLion$ 2/bin/cmake/win/x64/share/cmake-3.28/Modules/Compiler/Comeau-CXX-DetermineCompiler.cmake E$:/ToolBox/CLion$ 2/bin/cmake/win/x64/share/cmake-3.28/Modules/Compiler/Compaq-C-DetermineCompiler.cmake E$:/ToolBox/CLion$ 2/bin/cmake/win/x64/share/cmake-3.28/Modules/Compiler/Compaq-CXX-DetermineCompiler.cmake E$:/ToolBox/CLion$ 2/bin/cmake/win/x64/share/cmake-3.28/Modules/Compiler/Cray-DetermineCompiler.cmake E$:/ToolBox/CLion$ 2/bin/cmake/win/x64/share/cmake-3.28/Modules/Compiler/CrayClang-DetermineCompiler.cmake E$:/ToolBox/CLion$ 2/bin/cmake/win/x64/share/cmake-3.28/Modules/Compiler/Embarcadero-DetermineCompiler.cmake E$:/ToolBox/CLion$ 2/bin/cmake/win/x64/share/cmake-3.28/Modules/Compiler/Fujitsu-DetermineCompiler.cmake E$:/ToolBox/CLion$ 2/bin/cmake/win/x64/share/cmake-3.28/Modules/Compiler/FujitsuClang-DetermineCompiler.cmake E$:/ToolBox/CLion$ 2/bin/cmake/win/x64/share/cmake-3.28/Modules/Compiler/GHS-DetermineCompiler.cmake E$:/ToolBox/CLion$ 2/bin/cmake/win/x64/share/cmake-3.28/Modules/Compiler/GNU-C-DetermineCompiler.cmake E$:/ToolBox/CLion$ 2/bin/cmake/win/x64/share/cmake-3.28/Modules/Compiler/GNU-C.cmake E$:/ToolBox/CLion$ 2/bin/cmake/win/x64/share/cmake-3.28/Modules/Compiler/GNU-CXX-DetermineCompiler.cmake E$:/ToolBox/CLion$ 2/bin/cmake/win/x64/share/cmake-3.28/Modules/Compiler/GNU-CXX.cmake E$:/ToolBox/CLion$ 2/bin/cmake/win/x64/share/cmake-3.28/Modules/Compiler/GNU-FindBinUtils.cmake E$:/ToolBox/CLion$ 2/bin/cmake/win/x64/share/cmake-3.28/Modules/Compiler/GNU.cmake E$:/ToolBox/CLion$ 2/bin/cmake/win/x64/share/cmake-3.28/Modules/Compiler/HP-C-DetermineCompiler.cmake E$:/ToolBox/CLion$ 2/bin/cmake/win/x64/share/cmake-3.28/Modules/Compiler/HP-CXX-DetermineCompiler.cmake E$:/ToolBox/CLion$ 2/bin/cmake/win/x64/share/cmake-3.28/Modules/Compiler/IAR-DetermineCompiler.cmake E$:/ToolBox/CLion$ 2/bin/cmake/win/x64/share/cmake-3.28/Modules/Compiler/IBMCPP-C-DetermineVersionInternal.cmake E$:/ToolBox/CLion$ 2/bin/cmake/win/x64/share/cmake-3.28/Modules/Compiler/IBMCPP-CXX-DetermineVersionInternal.cmake E$:/ToolBox/CLion$ 2/bin/cmake/win/x64/share/cmake-3.28/Modules/Compiler/IBMClang-C-DetermineCompiler.cmake E$:/ToolBox/CLion$ 2/bin/cmake/win/x64/share/cmake-3.28/Modules/Compiler/IBMClang-CXX-DetermineCompiler.cmake E$:/ToolBox/CLion$ 2/bin/cmake/win/x64/share/cmake-3.28/Modules/Compiler/Intel-DetermineCompiler.cmake E$:/ToolBox/CLion$ 2/bin/cmake/win/x64/share/cmake-3.28/Modules/Compiler/IntelLLVM-DetermineCompiler.cmake E$:/ToolBox/CLion$ 2/bin/cmake/win/x64/share/cmake-3.28/Modules/Compiler/LCC-C-DetermineCompiler.cmake E$:/ToolBox/CLion$ 2/bin/cmake/win/x64/share/cmake-3.28/Modules/Compiler/LCC-CXX-DetermineCompiler.cmake E$:/ToolBox/CLion$ 2/bin/cmake/win/x64/share/cmake-3.28/Modules/Compiler/MSVC-DetermineCompiler.cmake E$:/ToolBox/CLion$ 2/bin/cmake/win/x64/share/cmake-3.28/Modules/Compiler/NVHPC-DetermineCompiler.cmake E$:/ToolBox/CLion$ 2/bin/cmake/win/x64/share/cmake-3.28/Modules/Compiler/NVIDIA-DetermineCompiler.cmake E$:/ToolBox/CLion$ 2/bin/cmake/win/x64/share/cmake-3.28/Modules/Compiler/OpenWatcom-DetermineCompiler.cmake E$:/ToolBox/CLion$ 2/bin/cmake/win/x64/share/cmake-3.28/Modules/Compiler/OrangeC-DetermineCompiler.cmake E$:/ToolBox/CLion$ 2/bin/cmake/win/x64/share/cmake-3.28/Modules/Compiler/PGI-DetermineCompiler.cmake E$:/ToolBox/CLion$ 2/bin/cmake/win/x64/share/cmake-3.28/Modules/Compiler/PathScale-DetermineCompiler.cmake E$:/ToolBox/CLion$ 2/bin/cmake/win/x64/share/cmake-3.28/Modules/Compiler/SCO-DetermineCompiler.cmake E$:/ToolBox/CLion$ 2/bin/cmake/win/x64/share/cmake-3.28/Modules/Compiler/SDCC-C-DetermineCompiler.cmake E$:/ToolBox/CLion$ 2/bin/cmake/win/x64/share/cmake-3.28/Modules/Compiler/SunPro-C-DetermineCompiler.cmake E$:/ToolBox/CLion$ 2/bin/cmake/win/x64/share/cmake-3.28/Modules/Compiler/SunPro-CXX-DetermineCompiler.cmake E$:/ToolBox/CLion$ 2/bin/cmake/win/x64/share/cmake-3.28/Modules/Compiler/TI-DetermineCompiler.cmake E$:/ToolBox/CLion$ 2/bin/cmake/win/x64/share/cmake-3.28/Modules/Compiler/Tasking-DetermineCompiler.cmake E$:/ToolBox/CLion$ 2/bin/cmake/win/x64/share/cmake-3.28/Modules/Compiler/TinyCC-C-DetermineCompiler.cmake E$:/ToolBox/CLion$ 2/bin/cmake/win/x64/share/cmake-3.28/Modules/Compiler/VisualAge-C-DetermineCompiler.cmake E$:/ToolBox/CLion$ 2/bin/cmake/win/x64/share/cmake-3.28/Modules/Compiler/VisualAge-CXX-DetermineCompiler.cmake E$:/ToolBox/CLion$ 2/bin/cmake/win/x64/share/cmake-3.28/Modules/Compiler/Watcom-DetermineCompiler.cmake E$:/ToolBox/CLion$ 2/bin/cmake/win/x64/share/cmake-3.28/Modules/Compiler/XL-C-DetermineCompiler.cmake E$:/ToolBox/CLion$ 2/bin/cmake/win/x64/share/cmake-3.28/Modules/Compiler/XL-CXX-DetermineCompiler.cmake E$:/ToolBox/CLion$ 2/bin/cmake/win/x64/share/cmake-3.28/Modules/Compiler/XLClang-C-DetermineCompiler.cmake E$:/ToolBox/CLion$ 2/bin/cmake/win/x64/share/cmake-3.28/Modules/Compiler/XLClang-CXX-DetermineCompiler.cmake E$:/ToolBox/CLion$ 2/bin/cmake/win/x64/share/cmake-3.28/Modules/Compiler/zOS-C-DetermineCompiler.cmake E$:/ToolBox/CLion$ 2/bin/cmake/win/x64/share/cmake-3.28/Modules/Compiler/zOS-CXX-DetermineCompiler.cmake E$:/ToolBox/CLion$ 2/bin/cmake/win/x64/share/cmake-3.28/Modules/Internal/FeatureTesting.cmake E$:/ToolBox/CLion$ 2/bin/cmake/win/x64/share/cmake-3.28/Modules/Platform/Windows-Determine-CXX.cmake E$:/ToolBox/CLion$ 2/bin/cmake/win/x64/share/cmake-3.28/Modules/Platform/Windows-GNU-C-ABI.cmake E$:/ToolBox/CLion$ 2/bin/cmake/win/x64/share/cmake-3.28/Modules/Platform/Windows-GNU-C.cmake E$:/ToolBox/CLion$ 2/bin/cmake/win/x64/share/cmake-3.28/Modules/Platform/Windows-GNU-CXX-ABI.cmake E$:/ToolBox/CLion$ 2/bin/cmake/win/x64/share/cmake-3.28/Modules/Platform/Windows-GNU-CXX.cmake E$:/ToolBox/CLion$ 2/bin/cmake/win/x64/share/cmake-3.28/Modules/Platform/Windows-GNU.cmake E$:/ToolBox/CLion$ 2/bin/cmake/win/x64/share/cmake-3.28/Modules/Platform/Windows-Initialize.cmake E$:/ToolBox/CLion$ 2/bin/cmake/win/x64/share/cmake-3.28/Modules/Platform/Windows-windres.cmake E$:/ToolBox/CLion$ 2/bin/cmake/win/x64/share/cmake-3.28/Modules/Platform/Windows.cmake E$:/ToolBox/CLion$ 2/bin/cmake/win/x64/share/cmake-3.28/Modules/Platform/WindowsPaths.cmake: phony
+build CMakeCache.txt CMakeFiles/3.28.1/CMakeCCompiler.cmake CMakeFiles/3.28.1/CMakeCXXCompiler.cmake CMakeFiles/3.28.1/CMakeRCCompiler.cmake CMakeFiles/3.28.1/CMakeSystem.cmake D$:/C_Study/WorkSpace/Cpp_Study/08DataStruct/CMakeLists.txt E$:/ToolBox/CLion$ 2/bin/cmake/win/x64/share/cmake-3.28/Modules/CMakeCInformation.cmake E$:/ToolBox/CLion$ 2/bin/cmake/win/x64/share/cmake-3.28/Modules/CMakeCXXInformation.cmake E$:/ToolBox/CLion$ 2/bin/cmake/win/x64/share/cmake-3.28/Modules/CMakeCommonLanguageInclude.cmake E$:/ToolBox/CLion$ 2/bin/cmake/win/x64/share/cmake-3.28/Modules/CMakeGenericSystem.cmake E$:/ToolBox/CLion$ 2/bin/cmake/win/x64/share/cmake-3.28/Modules/CMakeInitializeConfigs.cmake E$:/ToolBox/CLion$ 2/bin/cmake/win/x64/share/cmake-3.28/Modules/CMakeLanguageInformation.cmake E$:/ToolBox/CLion$ 2/bin/cmake/win/x64/share/cmake-3.28/Modules/CMakeRCInformation.cmake E$:/ToolBox/CLion$ 2/bin/cmake/win/x64/share/cmake-3.28/Modules/CMakeSystemSpecificInformation.cmake E$:/ToolBox/CLion$ 2/bin/cmake/win/x64/share/cmake-3.28/Modules/CMakeSystemSpecificInitialize.cmake E$:/ToolBox/CLion$ 2/bin/cmake/win/x64/share/cmake-3.28/Modules/Compiler/CMakeCommonCompilerMacros.cmake E$:/ToolBox/CLion$ 2/bin/cmake/win/x64/share/cmake-3.28/Modules/Compiler/GNU-C.cmake E$:/ToolBox/CLion$ 2/bin/cmake/win/x64/share/cmake-3.28/Modules/Compiler/GNU-CXX.cmake E$:/ToolBox/CLion$ 2/bin/cmake/win/x64/share/cmake-3.28/Modules/Compiler/GNU.cmake E$:/ToolBox/CLion$ 2/bin/cmake/win/x64/share/cmake-3.28/Modules/Platform/Windows-GNU-C-ABI.cmake E$:/ToolBox/CLion$ 2/bin/cmake/win/x64/share/cmake-3.28/Modules/Platform/Windows-GNU-C.cmake E$:/ToolBox/CLion$ 2/bin/cmake/win/x64/share/cmake-3.28/Modules/Platform/Windows-GNU-CXX-ABI.cmake E$:/ToolBox/CLion$ 2/bin/cmake/win/x64/share/cmake-3.28/Modules/Platform/Windows-GNU-CXX.cmake E$:/ToolBox/CLion$ 2/bin/cmake/win/x64/share/cmake-3.28/Modules/Platform/Windows-GNU.cmake E$:/ToolBox/CLion$ 2/bin/cmake/win/x64/share/cmake-3.28/Modules/Platform/Windows-Initialize.cmake E$:/ToolBox/CLion$ 2/bin/cmake/win/x64/share/cmake-3.28/Modules/Platform/Windows-windres.cmake E$:/ToolBox/CLion$ 2/bin/cmake/win/x64/share/cmake-3.28/Modules/Platform/Windows.cmake E$:/ToolBox/CLion$ 2/bin/cmake/win/x64/share/cmake-3.28/Modules/Platform/WindowsPaths.cmake: phony
 
 
 #############################################

@@ -78,62 +78,71 @@ add_executable(
 
 add_executable(
         absDifference chapter02-Linear_List/01Sequence_table/LeetCode/absDifference.cpp
-        chapter02-Linear_List/02Linked_list/DoubleLink/source/doubleLinkWithHead.cpp
-        chapter02-Linear_List/02Linked_list/DoubleLink/head/doubleLinkWithHead.h
-        chapter02-Linear_List/02Linked_list/DoubleLink/test/testDoubleLinkWithHead.cpp
-        chapter02-Linear_List/02Linked_list/DoubleLink/source/doubleLinkWithoutHead.cpp
-        chapter02-Linear_List/02Linked_list/DoubleLink/head/doubleLinkWithoutHead.h
-        chapter02-Linear_List/02Linked_list/CircularLink/Single/source/cirSingleLinkWithHead.cpp
-        chapter02-Linear_List/02Linked_list/CircularLink/Single/head/cirSingleLinkWithHead.h
-        chapter02-Linear_List/02Linked_list/CircularLink/Single/test/testCirSingleLinkWithHead.cpp
-        chapter02-Linear_List/02Linked_list/CircularLink/Double/source/cirDoubleLinkWithHead.cpp
-        chapter02-Linear_List/02Linked_list/CircularLink/Double/head/cirDoubleLinkWithHead.h
-        chapter02-Linear_List/02Linked_list/StaticLink/source/staticLinkWithHead.cpp
-        chapter02-Linear_List/02Linked_list/StaticLink/head/staticLinkWithHead.h
-        chapter03-stack-queue/Stack/source/staticStack.cpp
-        chapter03-stack-queue/Stack/head/staticStack.h
-        chapter03-stack-queue/Stack/test/testStaticStack.cpp
-        chapter03-stack-queue/Stack/source/staticSharedStack.cpp
-        chapter03-stack-queue/Stack/head/staticSharedStack.h
-        chapter03-stack-queue/Stack/test/teststaticSharedStack.cpp
-        chapter03-stack-queue/Stack/source/LinkStack.cpp
-        chapter03-stack-queue/Stack/head/LinkStack.h
-        chapter03-stack-queue/Stack/test/testLinkStack.cpp
-        chapter03-stack-queue/Stack/source/staticStack_Hero.cpp
-        chapter03-stack-queue/Stack/head/staticStack_Hero.h
-        chapter03-stack-queue/Stack/test/teststaticStack_Hero.cpp
-        chapter03-stack-queue/Stack/source/LinkStack_Hero.cpp
-        chapter03-stack-queue/Stack/head/LinkStack_Hero.h
-        chapter03-stack-queue/Stack/test/testLinkStack_Hero.cpp
-        chapter03-stack-queue/Stack/test/testCppStack.cpp
-        chapter03-stack-queue/Stack/LeetCode/decToBinary.cpp
-        chapter03-stack-queue/Stack/LeetCode/decToAny.cpp
-        chapter03-stack-queue/Stack/LeetCode/arrangeBook_Stack.cpp
-        chapter03-stack-queue/Stack/LeetCode/palindromeLink.cpp
-        chapter03-stack-queue/Stack/LeetCode/maxDepthBracket.cpp
-        chapter03-stack-queue/Stack/LeetCode/validBracket.cpp
-        chapter03-stack-queue/Queue/source/staticQueue.cpp
-        chapter03-stack-queue/Queue/head/staticQueue.h
-        chapter03-stack-queue/Queue/test/testStaticQueue.cpp
-        chapter03-stack-queue/Queue/source/staticQueue02.cpp
-        chapter03-stack-queue/Queue/head/staticQueue02.h
-        chapter03-stack-queue/Queue/source/staticQueue03.cpp
-        chapter03-stack-queue/Queue/head/staticQueue03.h
-        chapter03-stack-queue/Queue/source/staticQueue04.cpp
-        chapter03-stack-queue/Queue/head/staticQueue04.h
-        chapter03-stack-queue/Queue/source/LinkQueueWithHead.cpp
-        chapter03-stack-queue/Queue/head/LinkQueueWithHead.h
-        chapter03-stack-queue/Queue/source/LinkQueueWithoutHead.cpp
-        chapter03-stack-queue/Queue/head/LinkQueueWithoutHead.h
-        chapter03-stack-queue/Queue/source/doublePointLinkQueueWithHead.cpp
-        chapter03-stack-queue/Queue/head/doublePointLinkQueueWithHead.h
-        chapter03-stack-queue/Queue/source/doublePointLinkQueueWithoutHead.cpp
-        chapter03-stack-queue/Queue/head/doublePointLinkQueueWithoutHead.h
-        chapter03-stack-queue/Queue/test/testdoublePointLinkQueueWithoutHead.cpp
-        chapter03-stack-queue/Queue/test/testdoublePointLinkQueueWithHead.cpp
-        chapter03-stack-queue/Queue/source/doublePointStaticQueue.cpp
-        chapter03-stack-queue/Queue/head/doublePointStaticQueue.h
-        chapter03-stack-queue/Stack/LeetCode/bracketMatch.cpp
+#        chapter02-Linear_List/02Linked_list/DoubleLink/source/doubleLinkWithHead.cpp
+#        chapter02-Linear_List/02Linked_list/DoubleLink/head/doubleLinkWithHead.h
+#        chapter02-Linear_List/02Linked_list/DoubleLink/test/testDoubleLinkWithHead.cpp
+#        chapter02-Linear_List/02Linked_list/DoubleLink/source/doubleLinkWithoutHead.cpp
+#        chapter02-Linear_List/02Linked_list/DoubleLink/head/doubleLinkWithoutHead.h
+#        chapter02-Linear_List/02Linked_list/CircularLink/Single/source/cirSingleLinkWithHead.cpp
+#        chapter02-Linear_List/02Linked_list/CircularLink/Single/head/cirSingleLinkWithHead.h
+#        chapter02-Linear_List/02Linked_list/CircularLink/Single/test/testCirSingleLinkWithHead.cpp
+#        chapter02-Linear_List/02Linked_list/CircularLink/Double/source/cirDoubleLinkWithHead.cpp
+#        chapter02-Linear_List/02Linked_list/CircularLink/Double/head/cirDoubleLinkWithHead.h
+#        chapter02-Linear_List/02Linked_list/StaticLink/source/staticLinkWithHead.cpp
+#        chapter02-Linear_List/02Linked_list/StaticLink/head/staticLinkWithHead.h
+#        chapter03-stack-queue/Stack/source/staticStack.cpp
+#        chapter03-stack-queue/Stack/head/staticStack.h
+#        chapter03-stack-queue/Stack/test/testStaticStack.cpp
+#        chapter03-stack-queue/Stack/source/staticSharedStack.cpp
+#        chapter03-stack-queue/Stack/head/staticSharedStack.h
+#        chapter03-stack-queue/Stack/test/teststaticSharedStack.cpp
+#        chapter03-stack-queue/Stack/source/LinkStack.cpp
+#        chapter03-stack-queue/Stack/head/LinkStack.h
+#        chapter03-stack-queue/Stack/test/testLinkStack.cpp
+#        chapter03-stack-queue/Stack/source/staticStack_Hero.cpp
+#        chapter03-stack-queue/Stack/head/staticStack_Hero.h
+#        chapter03-stack-queue/Stack/test/teststaticStack_Hero.cpp
+#        chapter03-stack-queue/Stack/source/LinkStack_Hero.cpp
+#        chapter03-stack-queue/Stack/head/LinkStack_Hero.h
+#        chapter03-stack-queue/Stack/test/testLinkStack_Hero.cpp
+#        chapter03-stack-queue/Stack/test/testCppStack.cpp
+#        chapter03-stack-queue/Stack/LeetCode/decToBinary.cpp
+#        chapter03-stack-queue/Stack/LeetCode/decToAny.cpp
+#        chapter03-stack-queue/Stack/LeetCode/arrangeBook_Stack.cpp
+#        chapter03-stack-queue/Stack/LeetCode/palindromeLink.cpp
+#        chapter03-stack-queue/Stack/LeetCode/maxDepthBracket.cpp
+#        chapter03-stack-queue/Stack/LeetCode/validBracket.cpp
+#        chapter03-stack-queue/Queue/source/staticQueue.cpp
+#        chapter03-stack-queue/Queue/head/staticQueue.h
+#        chapter03-stack-queue/Queue/test/testStaticQueue.cpp
+#        chapter03-stack-queue/Queue/source/staticQueue02.cpp
+#        chapter03-stack-queue/Queue/head/staticQueue02.h
+#        chapter03-stack-queue/Queue/source/staticQueue03.cpp
+#        chapter03-stack-queue/Queue/head/staticQueue03.h
+#        chapter03-stack-queue/Queue/source/staticQueue04.cpp
+#        chapter03-stack-queue/Queue/head/staticQueue04.h
+#        chapter03-stack-queue/Queue/source/LinkQueueWithHead.cpp
+#        chapter03-stack-queue/Queue/head/LinkQueueWithHead.h
+#        chapter03-stack-queue/Queue/source/LinkQueueWithoutHead.cpp
+#        chapter03-stack-queue/Queue/head/LinkQueueWithoutHead.h
+#        chapter03-stack-queue/Queue/source/doublePointLinkQueueWithHead.cpp
+#        chapter03-stack-queue/Queue/head/doublePointLinkQueueWithHead.h
+#        chapter03-stack-queue/Queue/source/doublePointLinkQueueWithoutHead.cpp
+#        chapter03-stack-queue/Queue/head/doublePointLinkQueueWithoutHead.h
+#        chapter03-stack-queue/Queue/test/testdoublePointLinkQueueWithoutHead.cpp
+#        chapter03-stack-queue/Queue/test/testdoublePointLinkQueueWithHead.cpp
+#        chapter03-stack-queue/Queue/source/doublePointStaticQueue.cpp
+#        chapter03-stack-queue/Queue/head/doublePointStaticQueue.h
+#        chapter03-stack-queue/Stack/LeetCode/bracketMatch.cpp
+#        chapter03-stack-queue/Stack/LeetCode/infixToSuffix.cpp
+#        chapter03-stack-queue/Stack/LeetCode/infixToPrefix.cpp
+#        chapter03-stack-queue/Stack/LeetCode/calcFixExpre.cpp
+#        chapter03-stack-queue/Stack/LeetCode/stackFactorial.cpp
+#        chapter03-stack-queue/Stack/LeetCode/Fibonacci_array.cpp
+#        chapter03-stack-queue/Stack/LeetCode/symmetricMatrix.cpp
+#        chapter03-stack-queue/Stack/LeetCode/sparseMatrix.cpp
+#        chapter03-stack-queue/Stack/LeetCode/UpperTriangularMatrix.cpp
+#        chapter03-stack-queue/Stack/LeetCode/LowerTriangularMatrix.cpp
 )
 
 add_executable(
@@ -368,3 +377,40 @@ add_executable(
         chapter03-stack-queue/Stack/head/LinkStack.h
         chapter03-stack-queue/Stack/source/LinkStack.cpp
 )
+
+add_executable(
+        infixToSuffix chapter03-stack-queue/Stack/LeetCode/infixToSuffix.cpp
+)
+
+add_executable(
+        infixToPrefix chapter03-stack-queue/Stack/LeetCode/infixToPrefix.cpp
+)
+
+add_executable(
+        calcFixExpre chapter03-stack-queue/Stack/LeetCode/calcFixExpre.cpp
+)
+
+add_executable(
+        stackFactorial chapter03-stack-queue/Stack/LeetCode/stackFactorial.cpp
+)
+
+add_executable(
+        Fibonacci_array chapter03-stack-queue/Stack/LeetCode/Fibonacci_array.cpp
+)
+
+add_executable(
+        symmetricMatrix chapter03-stack-queue/Stack/LeetCode/symmetricMatrix.cpp
+)
+
+add_executable(
+        sparseMatrix chapter03-stack-queue/Stack/LeetCode/sparseMatrix.cpp
+)
+
+add_executable(
+        UpperTriangularMatrix chapter03-stack-queue/Stack/LeetCode/UpperTriangularMatrix.cpp
+)
+
+add_executable(
+        LowerTriangularMatrix chapter03-stack-queue/Stack/LeetCode/LowerTriangularMatrix.cpp
+)
+
