@@ -2005,6 +2005,12 @@ build CMakeFiles/arrangeBook_Stack.dir/chapter02-Linear_List/02Linked_list/Singl
   OBJECT_DIR = CMakeFiles\arrangeBook_Stack.dir
   OBJECT_FILE_DIR = CMakeFiles\arrangeBook_Stack.dir\chapter02-Linear_List\02Linked_list\SingleLink\source
 
+build CMakeFiles/arrangeBook_Stack.dir/chapter03-stack-queue/Stack/LeetCode/stackRealizeQueue.cpp.obj: CXX_COMPILER__arrangeBook_Stack_unscanned_Debug D$:/C_Study/WorkSpace/Cpp_Study/08DataStruct/chapter03-stack-queue/Stack/LeetCode/stackRealizeQueue.cpp || cmake_object_order_depends_target_arrangeBook_Stack
+  DEP_FILE = CMakeFiles\arrangeBook_Stack.dir\chapter03-stack-queue\Stack\LeetCode\stackRealizeQueue.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\arrangeBook_Stack.dir
+  OBJECT_FILE_DIR = CMakeFiles\arrangeBook_Stack.dir\chapter03-stack-queue\Stack\LeetCode
+
 
 # =============================================================================
 # Link build statements for EXECUTABLE target arrangeBook_Stack
@@ -2013,7 +2019,7 @@ build CMakeFiles/arrangeBook_Stack.dir/chapter02-Linear_List/02Linked_list/Singl
 #############################################
 # Link the executable arrangeBook_Stack.exe
 
-build arrangeBook_Stack.exe: CXX_EXECUTABLE_LINKER__arrangeBook_Stack_Debug CMakeFiles/arrangeBook_Stack.dir/chapter03-stack-queue/Stack/LeetCode/arrangeBook_Stack.cpp.obj CMakeFiles/arrangeBook_Stack.dir/chapter02-Linear_List/02Linked_list/SingleLink/source/singleLinkWithHead.cpp.obj
+build arrangeBook_Stack.exe: CXX_EXECUTABLE_LINKER__arrangeBook_Stack_Debug CMakeFiles/arrangeBook_Stack.dir/chapter03-stack-queue/Stack/LeetCode/arrangeBook_Stack.cpp.obj CMakeFiles/arrangeBook_Stack.dir/chapter02-Linear_List/02Linked_list/SingleLink/source/singleLinkWithHead.cpp.obj CMakeFiles/arrangeBook_Stack.dir/chapter03-stack-queue/Stack/LeetCode/stackRealizeQueue.cpp.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\arrangeBook_Stack.dir
@@ -2509,6 +2515,342 @@ build LowerTriangularMatrix.exe: CXX_EXECUTABLE_LINKER__LowerTriangularMatrix_De
   TARGET_IMPLIB = libLowerTriangularMatrix.dll.a
   TARGET_PDB = LowerTriangularMatrix.exe.dbg
 
+# =============================================================================
+# Object build statements for EXECUTABLE target soldierQueue
+
+
+#############################################
+# Order-only phony target for soldierQueue
+
+build cmake_object_order_depends_target_soldierQueue: phony || CMakeFiles/soldierQueue.dir
+
+build CMakeFiles/soldierQueue.dir/chapter03-stack-queue/Queue/LeetCode/soldierQueue.cpp.obj: CXX_COMPILER__soldierQueue_unscanned_Debug D$:/C_Study/WorkSpace/Cpp_Study/08DataStruct/chapter03-stack-queue/Queue/LeetCode/soldierQueue.cpp || cmake_object_order_depends_target_soldierQueue
+  DEP_FILE = CMakeFiles\soldierQueue.dir\chapter03-stack-queue\Queue\LeetCode\soldierQueue.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\soldierQueue.dir
+  OBJECT_FILE_DIR = CMakeFiles\soldierQueue.dir\chapter03-stack-queue\Queue\LeetCode
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target soldierQueue
+
+
+#############################################
+# Link the executable soldierQueue.exe
+
+build soldierQueue.exe: CXX_EXECUTABLE_LINKER__soldierQueue_Debug CMakeFiles/soldierQueue.dir/chapter03-stack-queue/Queue/LeetCode/soldierQueue.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\soldierQueue.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = soldierQueue.exe
+  TARGET_IMPLIB = libsoldierQueue.dll.a
+  TARGET_PDB = soldierQueue.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target twoDimenQueue
+
+
+#############################################
+# Order-only phony target for twoDimenQueue
+
+build cmake_object_order_depends_target_twoDimenQueue: phony || CMakeFiles/twoDimenQueue.dir
+
+build CMakeFiles/twoDimenQueue.dir/chapter03-stack-queue/Queue/LeetCode/twoDimenQueue.cpp.obj: CXX_COMPILER__twoDimenQueue_unscanned_Debug D$:/C_Study/WorkSpace/Cpp_Study/08DataStruct/chapter03-stack-queue/Queue/LeetCode/twoDimenQueue.cpp || cmake_object_order_depends_target_twoDimenQueue
+  DEP_FILE = CMakeFiles\twoDimenQueue.dir\chapter03-stack-queue\Queue\LeetCode\twoDimenQueue.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\twoDimenQueue.dir
+  OBJECT_FILE_DIR = CMakeFiles\twoDimenQueue.dir\chapter03-stack-queue\Queue\LeetCode
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target twoDimenQueue
+
+
+#############################################
+# Link the executable twoDimenQueue.exe
+
+build twoDimenQueue.exe: CXX_EXECUTABLE_LINKER__twoDimenQueue_Debug CMakeFiles/twoDimenQueue.dir/chapter03-stack-queue/Queue/LeetCode/twoDimenQueue.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\twoDimenQueue.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = twoDimenQueue.exe
+  TARGET_IMPLIB = libtwoDimenQueue.dll.a
+  TARGET_PDB = twoDimenQueue.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target recentRequest
+
+
+#############################################
+# Order-only phony target for recentRequest
+
+build cmake_object_order_depends_target_recentRequest: phony || CMakeFiles/recentRequest.dir
+
+build CMakeFiles/recentRequest.dir/chapter03-stack-queue/Queue/LeetCode/recentRequest.cpp.obj: CXX_COMPILER__recentRequest_unscanned_Debug D$:/C_Study/WorkSpace/Cpp_Study/08DataStruct/chapter03-stack-queue/Queue/LeetCode/recentRequest.cpp || cmake_object_order_depends_target_recentRequest
+  DEP_FILE = CMakeFiles\recentRequest.dir\chapter03-stack-queue\Queue\LeetCode\recentRequest.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\recentRequest.dir
+  OBJECT_FILE_DIR = CMakeFiles\recentRequest.dir\chapter03-stack-queue\Queue\LeetCode
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target recentRequest
+
+
+#############################################
+# Link the executable recentRequest.exe
+
+build recentRequest.exe: CXX_EXECUTABLE_LINKER__recentRequest_Debug CMakeFiles/recentRequest.dir/chapter03-stack-queue/Queue/LeetCode/recentRequest.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\recentRequest.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = recentRequest.exe
+  TARGET_IMPLIB = librecentRequest.dll.a
+  TARGET_PDB = recentRequest.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target stackRealizeQueue
+
+
+#############################################
+# Order-only phony target for stackRealizeQueue
+
+build cmake_object_order_depends_target_stackRealizeQueue: phony || CMakeFiles/stackRealizeQueue.dir
+
+build CMakeFiles/stackRealizeQueue.dir/chapter03-stack-queue/Stack/LeetCode/stackRealizeQueue.cpp.obj: CXX_COMPILER__stackRealizeQueue_unscanned_Debug D$:/C_Study/WorkSpace/Cpp_Study/08DataStruct/chapter03-stack-queue/Stack/LeetCode/stackRealizeQueue.cpp || cmake_object_order_depends_target_stackRealizeQueue
+  DEP_FILE = CMakeFiles\stackRealizeQueue.dir\chapter03-stack-queue\Stack\LeetCode\stackRealizeQueue.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\stackRealizeQueue.dir
+  OBJECT_FILE_DIR = CMakeFiles\stackRealizeQueue.dir\chapter03-stack-queue\Stack\LeetCode
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target stackRealizeQueue
+
+
+#############################################
+# Link the executable stackRealizeQueue.exe
+
+build stackRealizeQueue.exe: CXX_EXECUTABLE_LINKER__stackRealizeQueue_Debug CMakeFiles/stackRealizeQueue.dir/chapter03-stack-queue/Stack/LeetCode/stackRealizeQueue.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\stackRealizeQueue.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = stackRealizeQueue.exe
+  TARGET_IMPLIB = libstackRealizeQueue.dll.a
+  TARGET_PDB = stackRealizeQueue.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target queueRealizeStack
+
+
+#############################################
+# Order-only phony target for queueRealizeStack
+
+build cmake_object_order_depends_target_queueRealizeStack: phony || CMakeFiles/queueRealizeStack.dir
+
+build CMakeFiles/queueRealizeStack.dir/chapter03-stack-queue/Queue/LeetCode/queueRealizeStack.cpp.obj: CXX_COMPILER__queueRealizeStack_unscanned_Debug D$:/C_Study/WorkSpace/Cpp_Study/08DataStruct/chapter03-stack-queue/Queue/LeetCode/queueRealizeStack.cpp || cmake_object_order_depends_target_queueRealizeStack
+  DEP_FILE = CMakeFiles\queueRealizeStack.dir\chapter03-stack-queue\Queue\LeetCode\queueRealizeStack.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\queueRealizeStack.dir
+  OBJECT_FILE_DIR = CMakeFiles\queueRealizeStack.dir\chapter03-stack-queue\Queue\LeetCode
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target queueRealizeStack
+
+
+#############################################
+# Link the executable queueRealizeStack.exe
+
+build queueRealizeStack.exe: CXX_EXECUTABLE_LINKER__queueRealizeStack_Debug CMakeFiles/queueRealizeStack.dir/chapter03-stack-queue/Queue/LeetCode/queueRealizeStack.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\queueRealizeStack.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = queueRealizeStack.exe
+  TARGET_IMPLIB = libqueueRealizeStack.dll.a
+  TARGET_PDB = queueRealizeStack.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target testLinkString
+
+
+#############################################
+# Order-only phony target for testLinkString
+
+build cmake_object_order_depends_target_testLinkString: phony || CMakeFiles/testLinkString.dir
+
+build CMakeFiles/testLinkString.dir/chapter04-string/test/testLinkString.cpp.obj: CXX_COMPILER__testLinkString_unscanned_Debug D$:/C_Study/WorkSpace/Cpp_Study/08DataStruct/chapter04-string/test/testLinkString.cpp || cmake_object_order_depends_target_testLinkString
+  DEP_FILE = CMakeFiles\testLinkString.dir\chapter04-string\test\testLinkString.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\testLinkString.dir
+  OBJECT_FILE_DIR = CMakeFiles\testLinkString.dir\chapter04-string\test
+
+build CMakeFiles/testLinkString.dir/chapter04-string/source/staticString.cpp.obj: CXX_COMPILER__testLinkString_unscanned_Debug D$:/C_Study/WorkSpace/Cpp_Study/08DataStruct/chapter04-string/source/staticString.cpp || cmake_object_order_depends_target_testLinkString
+  DEP_FILE = CMakeFiles\testLinkString.dir\chapter04-string\source\staticString.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\testLinkString.dir
+  OBJECT_FILE_DIR = CMakeFiles\testLinkString.dir\chapter04-string\source
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target testLinkString
+
+
+#############################################
+# Link the executable testLinkString.exe
+
+build testLinkString.exe: CXX_EXECUTABLE_LINKER__testLinkString_Debug CMakeFiles/testLinkString.dir/chapter04-string/test/testLinkString.cpp.obj CMakeFiles/testLinkString.dir/chapter04-string/source/staticString.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\testLinkString.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = testLinkString.exe
+  TARGET_IMPLIB = libtestLinkString.dll.a
+  TARGET_PDB = testLinkString.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target KMP
+
+
+#############################################
+# Order-only phony target for KMP
+
+build cmake_object_order_depends_target_KMP: phony || CMakeFiles/KMP.dir
+
+build CMakeFiles/KMP.dir/chapter04-string/LeetCode/KMP.cpp.obj: CXX_COMPILER__KMP_unscanned_Debug D$:/C_Study/WorkSpace/Cpp_Study/08DataStruct/chapter04-string/LeetCode/KMP.cpp || cmake_object_order_depends_target_KMP
+  DEP_FILE = CMakeFiles\KMP.dir\chapter04-string\LeetCode\KMP.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\KMP.dir
+  OBJECT_FILE_DIR = CMakeFiles\KMP.dir\chapter04-string\LeetCode
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target KMP
+
+
+#############################################
+# Link the executable KMP.exe
+
+build KMP.exe: CXX_EXECUTABLE_LINKER__KMP_Debug CMakeFiles/KMP.dir/chapter04-string/LeetCode/KMP.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\KMP.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = KMP.exe
+  TARGET_IMPLIB = libKMP.dll.a
+  TARGET_PDB = KMP.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target insertSort
+
+
+#############################################
+# Order-only phony target for insertSort
+
+build cmake_object_order_depends_target_insertSort: phony || CMakeFiles/insertSort.dir
+
+build CMakeFiles/insertSort.dir/chapter08-sort/insertSort.cpp.obj: CXX_COMPILER__insertSort_unscanned_Debug D$:/C_Study/WorkSpace/Cpp_Study/08DataStruct/chapter08-sort/insertSort.cpp || cmake_object_order_depends_target_insertSort
+  DEP_FILE = CMakeFiles\insertSort.dir\chapter08-sort\insertSort.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\insertSort.dir
+  OBJECT_FILE_DIR = CMakeFiles\insertSort.dir\chapter08-sort
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target insertSort
+
+
+#############################################
+# Link the executable insertSort.exe
+
+build insertSort.exe: CXX_EXECUTABLE_LINKER__insertSort_Debug CMakeFiles/insertSort.dir/chapter08-sort/insertSort.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\insertSort.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = insertSort.exe
+  TARGET_IMPLIB = libinsertSort.dll.a
+  TARGET_PDB = insertSort.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target hillSort
+
+
+#############################################
+# Order-only phony target for hillSort
+
+build cmake_object_order_depends_target_hillSort: phony || CMakeFiles/hillSort.dir
+
+build CMakeFiles/hillSort.dir/chapter08-sort/hillSort.cpp.obj: CXX_COMPILER__hillSort_unscanned_Debug D$:/C_Study/WorkSpace/Cpp_Study/08DataStruct/chapter08-sort/hillSort.cpp || cmake_object_order_depends_target_hillSort
+  DEP_FILE = CMakeFiles\hillSort.dir\chapter08-sort\hillSort.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\hillSort.dir
+  OBJECT_FILE_DIR = CMakeFiles\hillSort.dir\chapter08-sort
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target hillSort
+
+
+#############################################
+# Link the executable hillSort.exe
+
+build hillSort.exe: CXX_EXECUTABLE_LINKER__hillSort_Debug CMakeFiles/hillSort.dir/chapter08-sort/hillSort.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\hillSort.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = hillSort.exe
+  TARGET_IMPLIB = libhillSort.dll.a
+  TARGET_PDB = hillSort.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target KMP_WangDao
+
+
+#############################################
+# Order-only phony target for KMP_WangDao
+
+build cmake_object_order_depends_target_KMP_WangDao: phony || CMakeFiles/KMP_WangDao.dir
+
+build CMakeFiles/KMP_WangDao.dir/chapter04-string/LeetCode/KMP_WangDao.cpp.obj: CXX_COMPILER__KMP_WangDao_unscanned_Debug D$:/C_Study/WorkSpace/Cpp_Study/08DataStruct/chapter04-string/LeetCode/KMP_WangDao.cpp || cmake_object_order_depends_target_KMP_WangDao
+  DEP_FILE = CMakeFiles\KMP_WangDao.dir\chapter04-string\LeetCode\KMP_WangDao.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\KMP_WangDao.dir
+  OBJECT_FILE_DIR = CMakeFiles\KMP_WangDao.dir\chapter04-string\LeetCode
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target KMP_WangDao
+
+
+#############################################
+# Link the executable KMP_WangDao.exe
+
+build KMP_WangDao.exe: CXX_EXECUTABLE_LINKER__KMP_WangDao_Debug CMakeFiles/KMP_WangDao.dir/chapter04-string/LeetCode/KMP_WangDao.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\KMP_WangDao.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = KMP_WangDao.exe
+  TARGET_IMPLIB = libKMP_WangDao.dll.a
+  TARGET_PDB = KMP_WangDao.exe.dbg
+
 
 #############################################
 # Utility command for edit_cache
@@ -2536,6 +2878,10 @@ build rebuild_cache: phony CMakeFiles/rebuild_cache.util
 # Target aliases.
 
 build Fibonacci_array: phony Fibonacci_array.exe
+
+build KMP: phony KMP.exe
+
+build KMP_WangDao: phony KMP_WangDao.exe
 
 build LowerTriangularMatrix: phony LowerTriangularMatrix.exe
 
@@ -2579,9 +2925,13 @@ build delRepeatEle: phony delRepeatEle.exe
 
 build guessNum: phony guessNum.exe
 
+build hillSort: phony hillSort.exe
+
 build infixToPrefix: phony infixToPrefix.exe
 
 build infixToSuffix: phony infixToSuffix.exe
+
+build insertSort: phony insertSort.exe
 
 build main: phony main.exe
 
@@ -2599,6 +2949,10 @@ build orderList: phony orderList.exe
 
 build palindromeLink: phony palindromeLink.exe
 
+build queueRealizeStack: phony queueRealizeStack.exe
+
+build recentRequest: phony recentRequest.exe
+
 build remRepeatNode: phony remRepeatNode.exe
 
 build removeEle: phony removeEle.exe
@@ -2613,9 +2967,13 @@ build singerMark: phony singerMark.exe
 
 build singleEle: phony singleEle.exe
 
+build soldierQueue: phony soldierQueue.exe
+
 build sparseMatrix: phony sparseMatrix.exe
 
 build stackFactorial: phony stackFactorial.exe
+
+build stackRealizeQueue: phony stackRealizeQueue.exe
 
 build sumArray: phony sumArray.exe
 
@@ -2636,6 +2994,8 @@ build testDynamicSeqTable: phony testDynamicSeqTable.exe
 build testLinkStack: phony testLinkStack.exe
 
 build testLinkStack_Hero: phony testLinkStack_Hero.exe
+
+build testLinkString: phony testLinkString.exe
 
 build testSingleLinkWithHead: phony testSingleLinkWithHead.exe
 
@@ -2659,6 +3019,8 @@ build trainPlan3: phony trainPlan3.exe
 
 build triadCount: phony triadCount.exe
 
+build twoDimenQueue: phony twoDimenQueue.exe
+
 build valCount: phony valCount.exe
 
 build validBracket: phony validBracket.exe
@@ -2673,7 +3035,7 @@ build yanghuiTriangle: phony yanghuiTriangle.exe
 #############################################
 # Folder: D:/C_Study/WorkSpace/Cpp_Study/08DataStruct/cmake-build-debug
 
-build all: phony main.exe testStaticSeqTable.exe testDynamicSeqTable.exe oddProduct.exe valCount.exe singerMark.exe guessNum.exe takeCoin.exe minIndex.exe maxNumofContinOne.exe absoluteK.exe maxProduct.exe absDifference.exe sumK.exe triadCount.exe removeEle.exe buildArray.exe arrayConcat.exe candyKid.exe arrayMiddle.exe singleEle.exe yanghuiTriangle.exe testSingleLinkWithHead.exe testSingleLinkWithoutHead.exe sumArray.exe orderList.exe superStair.exe binaryInvertPos.exe countBack_K.exe trainPlan.exe middleNode.exe delMiddleNode.exe removeElem.exe delNode.exe delRepeatEle.exe delCountBack_N.exe remRepeatNode.exe arrangeBook.exe reverseLink.exe testDoubleLinkWithHead.cpp.exe trainPlan3.exe reverseLink2.exe testStaticStack.exe teststaticSharedStack.exe testLinkStack.exe teststaticStack_Hero.exe testLinkStack_Hero.exe testCppStack.exe decToBinary.exe dectoAny.exe arrangeBook_Stack.exe palindromeLink.exe validBracket.exe testStaticQueue.exe testdoublePointLinkQueueWithoutHead.exe bracketMatch.exe infixToSuffix.exe infixToPrefix.exe calcFixExpre.exe stackFactorial.exe Fibonacci_array.exe symmetricMatrix.exe sparseMatrix.exe UpperTriangularMatrix.exe LowerTriangularMatrix.exe
+build all: phony main.exe testStaticSeqTable.exe testDynamicSeqTable.exe oddProduct.exe valCount.exe singerMark.exe guessNum.exe takeCoin.exe minIndex.exe maxNumofContinOne.exe absoluteK.exe maxProduct.exe absDifference.exe sumK.exe triadCount.exe removeEle.exe buildArray.exe arrayConcat.exe candyKid.exe arrayMiddle.exe singleEle.exe yanghuiTriangle.exe testSingleLinkWithHead.exe testSingleLinkWithoutHead.exe sumArray.exe orderList.exe superStair.exe binaryInvertPos.exe countBack_K.exe trainPlan.exe middleNode.exe delMiddleNode.exe removeElem.exe delNode.exe delRepeatEle.exe delCountBack_N.exe remRepeatNode.exe arrangeBook.exe reverseLink.exe testDoubleLinkWithHead.cpp.exe trainPlan3.exe reverseLink2.exe testStaticStack.exe teststaticSharedStack.exe testLinkStack.exe teststaticStack_Hero.exe testLinkStack_Hero.exe testCppStack.exe decToBinary.exe dectoAny.exe arrangeBook_Stack.exe palindromeLink.exe validBracket.exe testStaticQueue.exe testdoublePointLinkQueueWithoutHead.exe bracketMatch.exe infixToSuffix.exe infixToPrefix.exe calcFixExpre.exe stackFactorial.exe Fibonacci_array.exe symmetricMatrix.exe sparseMatrix.exe UpperTriangularMatrix.exe LowerTriangularMatrix.exe soldierQueue.exe twoDimenQueue.exe recentRequest.exe stackRealizeQueue.exe queueRealizeStack.exe testLinkString.exe KMP.exe insertSort.exe hillSort.exe KMP_WangDao.exe
 
 # =============================================================================
 # Built-in targets

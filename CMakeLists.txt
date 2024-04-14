@@ -78,7 +78,30 @@ add_executable(
 
 add_executable(
         absDifference chapter02-Linear_List/01Sequence_table/LeetCode/absDifference.cpp
-#        chapter02-Linear_List/02Linked_list/DoubleLink/source/doubleLinkWithHead.cpp
+#        chapter03-stack-queue/Queue/LeetCode/soldierQueue.cpp
+#        chapter03-stack-queue/Queue/LeetCode/twoDimenQueue.cpp
+#        chapter03-stack-queue/Queue/LeetCode/recentRequest.cpp
+#        chapter03-stack-queue/Queue/LeetCode/queueRealizeStack.cpp
+#        chapter04-string/source/staticString.cpp
+#        chapter04-string/head/staticString.h
+#        chapter04-string/source/linkString.cpp
+#        chapter04-string/head/linkString.h
+#        chapter04-string/test/testLinkString.cpp
+#        chapter04-string/test/testStaticString.cpp
+#        chapter04-string/LeetCode/KMP.cpp
+#        chapter08-sort/insertSort.cpp
+#        chapter08-sort/insertSortWithSentry.cpp
+#        chapter08-sort/halfInsertSort.cpp
+#        chapter08-sort/hillSort.cpp
+#        chapter08-sort/bubbleSort.cpp
+#        chapter08-sort/quickSort.cpp
+#        chapter08-sort/selectSort.cpp
+#        chapter08-sort/hashNode.cpp
+#        chapter08-sort/hashNode.h
+#        temp/test01.cpp
+#        temp/test02.cpp
+#        chapter04-string/LeetCode/KMP_WangDao.cpp
+        #        chapter02-Linear_List/02Linked_list/DoubleLink/source/doubleLinkWithHead.cpp
 #        chapter02-Linear_List/02Linked_list/DoubleLink/head/doubleLinkWithHead.h
 #        chapter02-Linear_List/02Linked_list/DoubleLink/test/testDoubleLinkWithHead.cpp
 #        chapter02-Linear_List/02Linked_list/DoubleLink/source/doubleLinkWithoutHead.cpp
@@ -349,6 +372,7 @@ add_executable(
         arrangeBook_Stack chapter03-stack-queue/Stack/LeetCode/arrangeBook_Stack.cpp
         chapter02-Linear_List/02Linked_list/SingleLink/head/singleLinkWithHead.h
         chapter02-Linear_List/02Linked_list/SingleLink/source/singleLinkWithHead.cpp
+        chapter03-stack-queue/Stack/LeetCode/stackRealizeQueue.cpp
 )
 
 add_executable(
@@ -414,3 +438,45 @@ add_executable(
         LowerTriangularMatrix chapter03-stack-queue/Stack/LeetCode/LowerTriangularMatrix.cpp
 )
 
+add_executable(
+        soldierQueue chapter03-stack-queue/Queue/LeetCode/soldierQueue.cpp
+)
+
+add_executable(
+        twoDimenQueue chapter03-stack-queue/Queue/LeetCode/twoDimenQueue.cpp
+)
+
+add_executable(
+        recentRequest chapter03-stack-queue/Queue/LeetCode/recentRequest.cpp
+)
+
+add_executable(
+        stackRealizeQueue chapter03-stack-queue/Stack/LeetCode/stackRealizeQueue.cpp
+)
+
+add_executable(
+        queueRealizeStack chapter03-stack-queue/Queue/LeetCode/queueRealizeStack.cpp
+)
+
+add_executable(
+        testLinkString chapter04-string/test/testLinkString.cpp
+        chapter04-string/head/staticString.h
+        chapter04-string/source/staticString.cpp
+)
+
+add_executable(
+        KMP chapter04-string/LeetCode/KMP.cpp
+)
+
+add_executable(
+        insertSort chapter08-sort/insertSort.cpp
+)
+
+add_executable(
+        hillSort chapter08-sort/hillSort.cpp
+)
+
+
+add_executable(
+        KMP_WangDao chapter04-string/LeetCode/KMP_WangDao.cpp
+)
