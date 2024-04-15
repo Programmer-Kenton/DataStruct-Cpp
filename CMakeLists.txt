@@ -78,15 +78,17 @@ add_executable(
 
 add_executable(
         absDifference chapter02-Linear_List/01Sequence_table/LeetCode/absDifference.cpp
-#        chapter03-stack-queue/Queue/LeetCode/soldierQueue.cpp
+        chapter04-string/source/heroString.cpp
+        chapter04-string/head/heroString.h
+        #        chapter03-stack-queue/Queue/LeetCode/soldierQueue.cpp
 #        chapter03-stack-queue/Queue/LeetCode/twoDimenQueue.cpp
 #        chapter03-stack-queue/Queue/LeetCode/recentRequest.cpp
 #        chapter03-stack-queue/Queue/LeetCode/queueRealizeStack.cpp
 #        chapter04-string/source/staticString.cpp
 #        chapter04-string/head/staticString.h
-#        chapter04-string/source/linkString.cpp
-#        chapter04-string/head/linkString.h
-#        chapter04-string/test/testLinkString.cpp
+        chapter04-string/source/linkString.cpp
+        chapter04-string/head/linkString.h
+        chapter04-string/test/testLinkString.cpp
 #        chapter04-string/test/testStaticString.cpp
 #        chapter04-string/LeetCode/KMP.cpp
 #        chapter08-sort/insertSort.cpp
@@ -354,7 +356,8 @@ add_executable(
         chapter03-stack-queue/Stack/source/LinkStack_Hero.cpp
 )
 
-add_executable(testCppStack chapter03-stack-queue/Stack/test/testCppStack.cpp)
+add_executable(testCppStack chapter03-stack-queue/Stack/test/testCppStack.cpp
+        chapter04-string/LeetCode/countNumofString.cpp)
 
 add_executable(
         decToBinary chapter03-stack-queue/Stack/LeetCode/decToBinary.cpp
@@ -462,10 +465,25 @@ add_executable(
         testLinkString chapter04-string/test/testLinkString.cpp
         chapter04-string/head/staticString.h
         chapter04-string/source/staticString.cpp
+        chapter04-string/test/testHeroString.cpp
 )
 
 add_executable(
         KMP chapter04-string/LeetCode/KMP.cpp
+        chapter04-string/LeetCode/countChar.cpp
+        chapter04-string/LeetCode/upperFirstLetter.cpp
+        chapter04-string/LeetCode/findMax.cpp
+        chapter04-string/LeetCode/judgeColor.cpp
+        chapter04-string/LeetCode/pathEncrypte.cpp
+        chapter04-string/LeetCode/subString.cpp
+        chapter04-string/LeetCode/calcRobot.cpp
+        chapter04-string/LeetCode/manipulateVal.cpp
+        chapter04-string/LeetCode/ipInvalid.cpp
+        chapter04-string/LeetCode/countStars.cpp
+        chapter04-string/LeetCode/splitBalanceString.cpp
+        chapter04-string/LeetCode/dynamicPassword.cpp
+        chapter04-string/LeetCode/GoalResolver.cpp
+        chapter04-string/LeetCode/countMaxWord.cpp
 )
 
 add_executable(
@@ -479,4 +497,60 @@ add_executable(
 
 add_executable(
         KMP_WangDao chapter04-string/LeetCode/KMP_WangDao.cpp
+)
+
+add_executable(
+        testHeroString chapter04-string/test/testHeroString.cpp
+)
+
+add_executable(
+        countChar chapter04-string/LeetCode/countChar.cpp
+)
+
+add_executable(
+        upperFirstLetter chapter04-string/LeetCode/upperFirstLetter.cpp
+)
+
+add_executable(
+        findMax chapter04-string/LeetCode/findMax.cpp
+)
+
+add_executable(
+        judgeColor chapter04-string/LeetCode/judgeColor.cpp
+)
+
+add_executable(
+        pathEncrypte chapter04-string/LeetCode/pathEncrypte.cpp
+)
+
+add_executable(
+        subString chapter04-string/LeetCode/subString.cpp
+)
+
+add_executable(
+        manipulateVal chapter04-string/LeetCode/manipulateVal.cpp
+)
+
+add_executable(
+        ipInvalid chapter04-string/LeetCode/ipInvalid.cpp
+)
+
+add_executable(
+        countStars chapter04-string/LeetCode/countStars.cpp
+)
+
+add_executable(
+        splitBalanceString chapter04-string/LeetCode/splitBalanceString.cpp
+)
+
+add_executable(
+        dynamicPassword chapter04-string/LeetCode/dynamicPassword.cpp
+)
+
+add_executable(
+        GoalResolver chapter04-string/LeetCode/GoalResolver.cpp
+)
+
+add_executable(
+        countNumofString chapter04-string/LeetCode/countNumofString.cpp
 )

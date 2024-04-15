@@ -583,6 +583,24 @@ build CMakeFiles/absDifference.dir/chapter02-Linear_List/01Sequence_table/LeetCo
   OBJECT_DIR = CMakeFiles\absDifference.dir
   OBJECT_FILE_DIR = CMakeFiles\absDifference.dir\chapter02-Linear_List\01Sequence_table\LeetCode
 
+build CMakeFiles/absDifference.dir/chapter04-string/source/heroString.cpp.obj: CXX_COMPILER__absDifference_unscanned_Debug D$:/C_Study/WorkSpace/Cpp_Study/08DataStruct/chapter04-string/source/heroString.cpp || cmake_object_order_depends_target_absDifference
+  DEP_FILE = CMakeFiles\absDifference.dir\chapter04-string\source\heroString.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\absDifference.dir
+  OBJECT_FILE_DIR = CMakeFiles\absDifference.dir\chapter04-string\source
+
+build CMakeFiles/absDifference.dir/chapter04-string/source/linkString.cpp.obj: CXX_COMPILER__absDifference_unscanned_Debug D$:/C_Study/WorkSpace/Cpp_Study/08DataStruct/chapter04-string/source/linkString.cpp || cmake_object_order_depends_target_absDifference
+  DEP_FILE = CMakeFiles\absDifference.dir\chapter04-string\source\linkString.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\absDifference.dir
+  OBJECT_FILE_DIR = CMakeFiles\absDifference.dir\chapter04-string\source
+
+build CMakeFiles/absDifference.dir/chapter04-string/test/testLinkString.cpp.obj: CXX_COMPILER__absDifference_unscanned_Debug D$:/C_Study/WorkSpace/Cpp_Study/08DataStruct/chapter04-string/test/testLinkString.cpp || cmake_object_order_depends_target_absDifference
+  DEP_FILE = CMakeFiles\absDifference.dir\chapter04-string\test\testLinkString.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\absDifference.dir
+  OBJECT_FILE_DIR = CMakeFiles\absDifference.dir\chapter04-string\test
+
 
 # =============================================================================
 # Link build statements for EXECUTABLE target absDifference
@@ -591,7 +609,7 @@ build CMakeFiles/absDifference.dir/chapter02-Linear_List/01Sequence_table/LeetCo
 #############################################
 # Link the executable absDifference.exe
 
-build absDifference.exe: CXX_EXECUTABLE_LINKER__absDifference_Debug CMakeFiles/absDifference.dir/chapter02-Linear_List/01Sequence_table/LeetCode/absDifference.cpp.obj
+build absDifference.exe: CXX_EXECUTABLE_LINKER__absDifference_Debug CMakeFiles/absDifference.dir/chapter02-Linear_List/01Sequence_table/LeetCode/absDifference.cpp.obj CMakeFiles/absDifference.dir/chapter04-string/source/heroString.cpp.obj CMakeFiles/absDifference.dir/chapter04-string/source/linkString.cpp.obj CMakeFiles/absDifference.dir/chapter04-string/test/testLinkString.cpp.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\absDifference.dir
@@ -1888,6 +1906,12 @@ build CMakeFiles/testCppStack.dir/chapter03-stack-queue/Stack/test/testCppStack.
   OBJECT_DIR = CMakeFiles\testCppStack.dir
   OBJECT_FILE_DIR = CMakeFiles\testCppStack.dir\chapter03-stack-queue\Stack\test
 
+build CMakeFiles/testCppStack.dir/chapter04-string/LeetCode/countNumofString.cpp.obj: CXX_COMPILER__testCppStack_unscanned_Debug D$:/C_Study/WorkSpace/Cpp_Study/08DataStruct/chapter04-string/LeetCode/countNumofString.cpp || cmake_object_order_depends_target_testCppStack
+  DEP_FILE = CMakeFiles\testCppStack.dir\chapter04-string\LeetCode\countNumofString.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\testCppStack.dir
+  OBJECT_FILE_DIR = CMakeFiles\testCppStack.dir\chapter04-string\LeetCode
+
 
 # =============================================================================
 # Link build statements for EXECUTABLE target testCppStack
@@ -1896,7 +1920,7 @@ build CMakeFiles/testCppStack.dir/chapter03-stack-queue/Stack/test/testCppStack.
 #############################################
 # Link the executable testCppStack.exe
 
-build testCppStack.exe: CXX_EXECUTABLE_LINKER__testCppStack_Debug CMakeFiles/testCppStack.dir/chapter03-stack-queue/Stack/test/testCppStack.cpp.obj
+build testCppStack.exe: CXX_EXECUTABLE_LINKER__testCppStack_Debug CMakeFiles/testCppStack.dir/chapter03-stack-queue/Stack/test/testCppStack.cpp.obj CMakeFiles/testCppStack.dir/chapter04-string/LeetCode/countNumofString.cpp.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\testCppStack.dir
@@ -2701,6 +2725,12 @@ build CMakeFiles/testLinkString.dir/chapter04-string/source/staticString.cpp.obj
   OBJECT_DIR = CMakeFiles\testLinkString.dir
   OBJECT_FILE_DIR = CMakeFiles\testLinkString.dir\chapter04-string\source
 
+build CMakeFiles/testLinkString.dir/chapter04-string/test/testHeroString.cpp.obj: CXX_COMPILER__testLinkString_unscanned_Debug D$:/C_Study/WorkSpace/Cpp_Study/08DataStruct/chapter04-string/test/testHeroString.cpp || cmake_object_order_depends_target_testLinkString
+  DEP_FILE = CMakeFiles\testLinkString.dir\chapter04-string\test\testHeroString.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\testLinkString.dir
+  OBJECT_FILE_DIR = CMakeFiles\testLinkString.dir\chapter04-string\test
+
 
 # =============================================================================
 # Link build statements for EXECUTABLE target testLinkString
@@ -2709,7 +2739,7 @@ build CMakeFiles/testLinkString.dir/chapter04-string/source/staticString.cpp.obj
 #############################################
 # Link the executable testLinkString.exe
 
-build testLinkString.exe: CXX_EXECUTABLE_LINKER__testLinkString_Debug CMakeFiles/testLinkString.dir/chapter04-string/test/testLinkString.cpp.obj CMakeFiles/testLinkString.dir/chapter04-string/source/staticString.cpp.obj
+build testLinkString.exe: CXX_EXECUTABLE_LINKER__testLinkString_Debug CMakeFiles/testLinkString.dir/chapter04-string/test/testLinkString.cpp.obj CMakeFiles/testLinkString.dir/chapter04-string/source/staticString.cpp.obj CMakeFiles/testLinkString.dir/chapter04-string/test/testHeroString.cpp.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\testLinkString.dir
@@ -2734,6 +2764,90 @@ build CMakeFiles/KMP.dir/chapter04-string/LeetCode/KMP.cpp.obj: CXX_COMPILER__KM
   OBJECT_DIR = CMakeFiles\KMP.dir
   OBJECT_FILE_DIR = CMakeFiles\KMP.dir\chapter04-string\LeetCode
 
+build CMakeFiles/KMP.dir/chapter04-string/LeetCode/countChar.cpp.obj: CXX_COMPILER__KMP_unscanned_Debug D$:/C_Study/WorkSpace/Cpp_Study/08DataStruct/chapter04-string/LeetCode/countChar.cpp || cmake_object_order_depends_target_KMP
+  DEP_FILE = CMakeFiles\KMP.dir\chapter04-string\LeetCode\countChar.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\KMP.dir
+  OBJECT_FILE_DIR = CMakeFiles\KMP.dir\chapter04-string\LeetCode
+
+build CMakeFiles/KMP.dir/chapter04-string/LeetCode/upperFirstLetter.cpp.obj: CXX_COMPILER__KMP_unscanned_Debug D$:/C_Study/WorkSpace/Cpp_Study/08DataStruct/chapter04-string/LeetCode/upperFirstLetter.cpp || cmake_object_order_depends_target_KMP
+  DEP_FILE = CMakeFiles\KMP.dir\chapter04-string\LeetCode\upperFirstLetter.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\KMP.dir
+  OBJECT_FILE_DIR = CMakeFiles\KMP.dir\chapter04-string\LeetCode
+
+build CMakeFiles/KMP.dir/chapter04-string/LeetCode/findMax.cpp.obj: CXX_COMPILER__KMP_unscanned_Debug D$:/C_Study/WorkSpace/Cpp_Study/08DataStruct/chapter04-string/LeetCode/findMax.cpp || cmake_object_order_depends_target_KMP
+  DEP_FILE = CMakeFiles\KMP.dir\chapter04-string\LeetCode\findMax.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\KMP.dir
+  OBJECT_FILE_DIR = CMakeFiles\KMP.dir\chapter04-string\LeetCode
+
+build CMakeFiles/KMP.dir/chapter04-string/LeetCode/judgeColor.cpp.obj: CXX_COMPILER__KMP_unscanned_Debug D$:/C_Study/WorkSpace/Cpp_Study/08DataStruct/chapter04-string/LeetCode/judgeColor.cpp || cmake_object_order_depends_target_KMP
+  DEP_FILE = CMakeFiles\KMP.dir\chapter04-string\LeetCode\judgeColor.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\KMP.dir
+  OBJECT_FILE_DIR = CMakeFiles\KMP.dir\chapter04-string\LeetCode
+
+build CMakeFiles/KMP.dir/chapter04-string/LeetCode/pathEncrypte.cpp.obj: CXX_COMPILER__KMP_unscanned_Debug D$:/C_Study/WorkSpace/Cpp_Study/08DataStruct/chapter04-string/LeetCode/pathEncrypte.cpp || cmake_object_order_depends_target_KMP
+  DEP_FILE = CMakeFiles\KMP.dir\chapter04-string\LeetCode\pathEncrypte.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\KMP.dir
+  OBJECT_FILE_DIR = CMakeFiles\KMP.dir\chapter04-string\LeetCode
+
+build CMakeFiles/KMP.dir/chapter04-string/LeetCode/subString.cpp.obj: CXX_COMPILER__KMP_unscanned_Debug D$:/C_Study/WorkSpace/Cpp_Study/08DataStruct/chapter04-string/LeetCode/subString.cpp || cmake_object_order_depends_target_KMP
+  DEP_FILE = CMakeFiles\KMP.dir\chapter04-string\LeetCode\subString.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\KMP.dir
+  OBJECT_FILE_DIR = CMakeFiles\KMP.dir\chapter04-string\LeetCode
+
+build CMakeFiles/KMP.dir/chapter04-string/LeetCode/calcRobot.cpp.obj: CXX_COMPILER__KMP_unscanned_Debug D$:/C_Study/WorkSpace/Cpp_Study/08DataStruct/chapter04-string/LeetCode/calcRobot.cpp || cmake_object_order_depends_target_KMP
+  DEP_FILE = CMakeFiles\KMP.dir\chapter04-string\LeetCode\calcRobot.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\KMP.dir
+  OBJECT_FILE_DIR = CMakeFiles\KMP.dir\chapter04-string\LeetCode
+
+build CMakeFiles/KMP.dir/chapter04-string/LeetCode/manipulateVal.cpp.obj: CXX_COMPILER__KMP_unscanned_Debug D$:/C_Study/WorkSpace/Cpp_Study/08DataStruct/chapter04-string/LeetCode/manipulateVal.cpp || cmake_object_order_depends_target_KMP
+  DEP_FILE = CMakeFiles\KMP.dir\chapter04-string\LeetCode\manipulateVal.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\KMP.dir
+  OBJECT_FILE_DIR = CMakeFiles\KMP.dir\chapter04-string\LeetCode
+
+build CMakeFiles/KMP.dir/chapter04-string/LeetCode/ipInvalid.cpp.obj: CXX_COMPILER__KMP_unscanned_Debug D$:/C_Study/WorkSpace/Cpp_Study/08DataStruct/chapter04-string/LeetCode/ipInvalid.cpp || cmake_object_order_depends_target_KMP
+  DEP_FILE = CMakeFiles\KMP.dir\chapter04-string\LeetCode\ipInvalid.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\KMP.dir
+  OBJECT_FILE_DIR = CMakeFiles\KMP.dir\chapter04-string\LeetCode
+
+build CMakeFiles/KMP.dir/chapter04-string/LeetCode/countStars.cpp.obj: CXX_COMPILER__KMP_unscanned_Debug D$:/C_Study/WorkSpace/Cpp_Study/08DataStruct/chapter04-string/LeetCode/countStars.cpp || cmake_object_order_depends_target_KMP
+  DEP_FILE = CMakeFiles\KMP.dir\chapter04-string\LeetCode\countStars.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\KMP.dir
+  OBJECT_FILE_DIR = CMakeFiles\KMP.dir\chapter04-string\LeetCode
+
+build CMakeFiles/KMP.dir/chapter04-string/LeetCode/splitBalanceString.cpp.obj: CXX_COMPILER__KMP_unscanned_Debug D$:/C_Study/WorkSpace/Cpp_Study/08DataStruct/chapter04-string/LeetCode/splitBalanceString.cpp || cmake_object_order_depends_target_KMP
+  DEP_FILE = CMakeFiles\KMP.dir\chapter04-string\LeetCode\splitBalanceString.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\KMP.dir
+  OBJECT_FILE_DIR = CMakeFiles\KMP.dir\chapter04-string\LeetCode
+
+build CMakeFiles/KMP.dir/chapter04-string/LeetCode/dynamicPassword.cpp.obj: CXX_COMPILER__KMP_unscanned_Debug D$:/C_Study/WorkSpace/Cpp_Study/08DataStruct/chapter04-string/LeetCode/dynamicPassword.cpp || cmake_object_order_depends_target_KMP
+  DEP_FILE = CMakeFiles\KMP.dir\chapter04-string\LeetCode\dynamicPassword.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\KMP.dir
+  OBJECT_FILE_DIR = CMakeFiles\KMP.dir\chapter04-string\LeetCode
+
+build CMakeFiles/KMP.dir/chapter04-string/LeetCode/GoalResolver.cpp.obj: CXX_COMPILER__KMP_unscanned_Debug D$:/C_Study/WorkSpace/Cpp_Study/08DataStruct/chapter04-string/LeetCode/GoalResolver.cpp || cmake_object_order_depends_target_KMP
+  DEP_FILE = CMakeFiles\KMP.dir\chapter04-string\LeetCode\GoalResolver.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\KMP.dir
+  OBJECT_FILE_DIR = CMakeFiles\KMP.dir\chapter04-string\LeetCode
+
+build CMakeFiles/KMP.dir/chapter04-string/LeetCode/countMaxWord.cpp.obj: CXX_COMPILER__KMP_unscanned_Debug D$:/C_Study/WorkSpace/Cpp_Study/08DataStruct/chapter04-string/LeetCode/countMaxWord.cpp || cmake_object_order_depends_target_KMP
+  DEP_FILE = CMakeFiles\KMP.dir\chapter04-string\LeetCode\countMaxWord.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\KMP.dir
+  OBJECT_FILE_DIR = CMakeFiles\KMP.dir\chapter04-string\LeetCode
+
 
 # =============================================================================
 # Link build statements for EXECUTABLE target KMP
@@ -2742,7 +2856,7 @@ build CMakeFiles/KMP.dir/chapter04-string/LeetCode/KMP.cpp.obj: CXX_COMPILER__KM
 #############################################
 # Link the executable KMP.exe
 
-build KMP.exe: CXX_EXECUTABLE_LINKER__KMP_Debug CMakeFiles/KMP.dir/chapter04-string/LeetCode/KMP.cpp.obj
+build KMP.exe: CXX_EXECUTABLE_LINKER__KMP_Debug CMakeFiles/KMP.dir/chapter04-string/LeetCode/KMP.cpp.obj CMakeFiles/KMP.dir/chapter04-string/LeetCode/countChar.cpp.obj CMakeFiles/KMP.dir/chapter04-string/LeetCode/upperFirstLetter.cpp.obj CMakeFiles/KMP.dir/chapter04-string/LeetCode/findMax.cpp.obj CMakeFiles/KMP.dir/chapter04-string/LeetCode/judgeColor.cpp.obj CMakeFiles/KMP.dir/chapter04-string/LeetCode/pathEncrypte.cpp.obj CMakeFiles/KMP.dir/chapter04-string/LeetCode/subString.cpp.obj CMakeFiles/KMP.dir/chapter04-string/LeetCode/calcRobot.cpp.obj CMakeFiles/KMP.dir/chapter04-string/LeetCode/manipulateVal.cpp.obj CMakeFiles/KMP.dir/chapter04-string/LeetCode/ipInvalid.cpp.obj CMakeFiles/KMP.dir/chapter04-string/LeetCode/countStars.cpp.obj CMakeFiles/KMP.dir/chapter04-string/LeetCode/splitBalanceString.cpp.obj CMakeFiles/KMP.dir/chapter04-string/LeetCode/dynamicPassword.cpp.obj CMakeFiles/KMP.dir/chapter04-string/LeetCode/GoalResolver.cpp.obj CMakeFiles/KMP.dir/chapter04-string/LeetCode/countMaxWord.cpp.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\KMP.dir
@@ -2851,6 +2965,468 @@ build KMP_WangDao.exe: CXX_EXECUTABLE_LINKER__KMP_WangDao_Debug CMakeFiles/KMP_W
   TARGET_IMPLIB = libKMP_WangDao.dll.a
   TARGET_PDB = KMP_WangDao.exe.dbg
 
+# =============================================================================
+# Object build statements for EXECUTABLE target testHeroString
+
+
+#############################################
+# Order-only phony target for testHeroString
+
+build cmake_object_order_depends_target_testHeroString: phony || CMakeFiles/testHeroString.dir
+
+build CMakeFiles/testHeroString.dir/chapter04-string/test/testHeroString.cpp.obj: CXX_COMPILER__testHeroString_unscanned_Debug D$:/C_Study/WorkSpace/Cpp_Study/08DataStruct/chapter04-string/test/testHeroString.cpp || cmake_object_order_depends_target_testHeroString
+  DEP_FILE = CMakeFiles\testHeroString.dir\chapter04-string\test\testHeroString.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\testHeroString.dir
+  OBJECT_FILE_DIR = CMakeFiles\testHeroString.dir\chapter04-string\test
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target testHeroString
+
+
+#############################################
+# Link the executable testHeroString.exe
+
+build testHeroString.exe: CXX_EXECUTABLE_LINKER__testHeroString_Debug CMakeFiles/testHeroString.dir/chapter04-string/test/testHeroString.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\testHeroString.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = testHeroString.exe
+  TARGET_IMPLIB = libtestHeroString.dll.a
+  TARGET_PDB = testHeroString.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target countChar
+
+
+#############################################
+# Order-only phony target for countChar
+
+build cmake_object_order_depends_target_countChar: phony || CMakeFiles/countChar.dir
+
+build CMakeFiles/countChar.dir/chapter04-string/LeetCode/countChar.cpp.obj: CXX_COMPILER__countChar_unscanned_Debug D$:/C_Study/WorkSpace/Cpp_Study/08DataStruct/chapter04-string/LeetCode/countChar.cpp || cmake_object_order_depends_target_countChar
+  DEP_FILE = CMakeFiles\countChar.dir\chapter04-string\LeetCode\countChar.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\countChar.dir
+  OBJECT_FILE_DIR = CMakeFiles\countChar.dir\chapter04-string\LeetCode
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target countChar
+
+
+#############################################
+# Link the executable countChar.exe
+
+build countChar.exe: CXX_EXECUTABLE_LINKER__countChar_Debug CMakeFiles/countChar.dir/chapter04-string/LeetCode/countChar.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\countChar.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = countChar.exe
+  TARGET_IMPLIB = libcountChar.dll.a
+  TARGET_PDB = countChar.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target upperFirstLetter
+
+
+#############################################
+# Order-only phony target for upperFirstLetter
+
+build cmake_object_order_depends_target_upperFirstLetter: phony || CMakeFiles/upperFirstLetter.dir
+
+build CMakeFiles/upperFirstLetter.dir/chapter04-string/LeetCode/upperFirstLetter.cpp.obj: CXX_COMPILER__upperFirstLetter_unscanned_Debug D$:/C_Study/WorkSpace/Cpp_Study/08DataStruct/chapter04-string/LeetCode/upperFirstLetter.cpp || cmake_object_order_depends_target_upperFirstLetter
+  DEP_FILE = CMakeFiles\upperFirstLetter.dir\chapter04-string\LeetCode\upperFirstLetter.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\upperFirstLetter.dir
+  OBJECT_FILE_DIR = CMakeFiles\upperFirstLetter.dir\chapter04-string\LeetCode
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target upperFirstLetter
+
+
+#############################################
+# Link the executable upperFirstLetter.exe
+
+build upperFirstLetter.exe: CXX_EXECUTABLE_LINKER__upperFirstLetter_Debug CMakeFiles/upperFirstLetter.dir/chapter04-string/LeetCode/upperFirstLetter.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\upperFirstLetter.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = upperFirstLetter.exe
+  TARGET_IMPLIB = libupperFirstLetter.dll.a
+  TARGET_PDB = upperFirstLetter.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target findMax
+
+
+#############################################
+# Order-only phony target for findMax
+
+build cmake_object_order_depends_target_findMax: phony || CMakeFiles/findMax.dir
+
+build CMakeFiles/findMax.dir/chapter04-string/LeetCode/findMax.cpp.obj: CXX_COMPILER__findMax_unscanned_Debug D$:/C_Study/WorkSpace/Cpp_Study/08DataStruct/chapter04-string/LeetCode/findMax.cpp || cmake_object_order_depends_target_findMax
+  DEP_FILE = CMakeFiles\findMax.dir\chapter04-string\LeetCode\findMax.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\findMax.dir
+  OBJECT_FILE_DIR = CMakeFiles\findMax.dir\chapter04-string\LeetCode
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target findMax
+
+
+#############################################
+# Link the executable findMax.exe
+
+build findMax.exe: CXX_EXECUTABLE_LINKER__findMax_Debug CMakeFiles/findMax.dir/chapter04-string/LeetCode/findMax.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\findMax.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = findMax.exe
+  TARGET_IMPLIB = libfindMax.dll.a
+  TARGET_PDB = findMax.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target judgeColor
+
+
+#############################################
+# Order-only phony target for judgeColor
+
+build cmake_object_order_depends_target_judgeColor: phony || CMakeFiles/judgeColor.dir
+
+build CMakeFiles/judgeColor.dir/chapter04-string/LeetCode/judgeColor.cpp.obj: CXX_COMPILER__judgeColor_unscanned_Debug D$:/C_Study/WorkSpace/Cpp_Study/08DataStruct/chapter04-string/LeetCode/judgeColor.cpp || cmake_object_order_depends_target_judgeColor
+  DEP_FILE = CMakeFiles\judgeColor.dir\chapter04-string\LeetCode\judgeColor.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\judgeColor.dir
+  OBJECT_FILE_DIR = CMakeFiles\judgeColor.dir\chapter04-string\LeetCode
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target judgeColor
+
+
+#############################################
+# Link the executable judgeColor.exe
+
+build judgeColor.exe: CXX_EXECUTABLE_LINKER__judgeColor_Debug CMakeFiles/judgeColor.dir/chapter04-string/LeetCode/judgeColor.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\judgeColor.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = judgeColor.exe
+  TARGET_IMPLIB = libjudgeColor.dll.a
+  TARGET_PDB = judgeColor.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target pathEncrypte
+
+
+#############################################
+# Order-only phony target for pathEncrypte
+
+build cmake_object_order_depends_target_pathEncrypte: phony || CMakeFiles/pathEncrypte.dir
+
+build CMakeFiles/pathEncrypte.dir/chapter04-string/LeetCode/pathEncrypte.cpp.obj: CXX_COMPILER__pathEncrypte_unscanned_Debug D$:/C_Study/WorkSpace/Cpp_Study/08DataStruct/chapter04-string/LeetCode/pathEncrypte.cpp || cmake_object_order_depends_target_pathEncrypte
+  DEP_FILE = CMakeFiles\pathEncrypte.dir\chapter04-string\LeetCode\pathEncrypte.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\pathEncrypte.dir
+  OBJECT_FILE_DIR = CMakeFiles\pathEncrypte.dir\chapter04-string\LeetCode
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target pathEncrypte
+
+
+#############################################
+# Link the executable pathEncrypte.exe
+
+build pathEncrypte.exe: CXX_EXECUTABLE_LINKER__pathEncrypte_Debug CMakeFiles/pathEncrypte.dir/chapter04-string/LeetCode/pathEncrypte.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\pathEncrypte.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = pathEncrypte.exe
+  TARGET_IMPLIB = libpathEncrypte.dll.a
+  TARGET_PDB = pathEncrypte.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target subString
+
+
+#############################################
+# Order-only phony target for subString
+
+build cmake_object_order_depends_target_subString: phony || CMakeFiles/subString.dir
+
+build CMakeFiles/subString.dir/chapter04-string/LeetCode/subString.cpp.obj: CXX_COMPILER__subString_unscanned_Debug D$:/C_Study/WorkSpace/Cpp_Study/08DataStruct/chapter04-string/LeetCode/subString.cpp || cmake_object_order_depends_target_subString
+  DEP_FILE = CMakeFiles\subString.dir\chapter04-string\LeetCode\subString.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\subString.dir
+  OBJECT_FILE_DIR = CMakeFiles\subString.dir\chapter04-string\LeetCode
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target subString
+
+
+#############################################
+# Link the executable subString.exe
+
+build subString.exe: CXX_EXECUTABLE_LINKER__subString_Debug CMakeFiles/subString.dir/chapter04-string/LeetCode/subString.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\subString.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = subString.exe
+  TARGET_IMPLIB = libsubString.dll.a
+  TARGET_PDB = subString.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target manipulateVal
+
+
+#############################################
+# Order-only phony target for manipulateVal
+
+build cmake_object_order_depends_target_manipulateVal: phony || CMakeFiles/manipulateVal.dir
+
+build CMakeFiles/manipulateVal.dir/chapter04-string/LeetCode/manipulateVal.cpp.obj: CXX_COMPILER__manipulateVal_unscanned_Debug D$:/C_Study/WorkSpace/Cpp_Study/08DataStruct/chapter04-string/LeetCode/manipulateVal.cpp || cmake_object_order_depends_target_manipulateVal
+  DEP_FILE = CMakeFiles\manipulateVal.dir\chapter04-string\LeetCode\manipulateVal.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\manipulateVal.dir
+  OBJECT_FILE_DIR = CMakeFiles\manipulateVal.dir\chapter04-string\LeetCode
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target manipulateVal
+
+
+#############################################
+# Link the executable manipulateVal.exe
+
+build manipulateVal.exe: CXX_EXECUTABLE_LINKER__manipulateVal_Debug CMakeFiles/manipulateVal.dir/chapter04-string/LeetCode/manipulateVal.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\manipulateVal.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = manipulateVal.exe
+  TARGET_IMPLIB = libmanipulateVal.dll.a
+  TARGET_PDB = manipulateVal.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target ipInvalid
+
+
+#############################################
+# Order-only phony target for ipInvalid
+
+build cmake_object_order_depends_target_ipInvalid: phony || CMakeFiles/ipInvalid.dir
+
+build CMakeFiles/ipInvalid.dir/chapter04-string/LeetCode/ipInvalid.cpp.obj: CXX_COMPILER__ipInvalid_unscanned_Debug D$:/C_Study/WorkSpace/Cpp_Study/08DataStruct/chapter04-string/LeetCode/ipInvalid.cpp || cmake_object_order_depends_target_ipInvalid
+  DEP_FILE = CMakeFiles\ipInvalid.dir\chapter04-string\LeetCode\ipInvalid.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\ipInvalid.dir
+  OBJECT_FILE_DIR = CMakeFiles\ipInvalid.dir\chapter04-string\LeetCode
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target ipInvalid
+
+
+#############################################
+# Link the executable ipInvalid.exe
+
+build ipInvalid.exe: CXX_EXECUTABLE_LINKER__ipInvalid_Debug CMakeFiles/ipInvalid.dir/chapter04-string/LeetCode/ipInvalid.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\ipInvalid.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = ipInvalid.exe
+  TARGET_IMPLIB = libipInvalid.dll.a
+  TARGET_PDB = ipInvalid.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target countStars
+
+
+#############################################
+# Order-only phony target for countStars
+
+build cmake_object_order_depends_target_countStars: phony || CMakeFiles/countStars.dir
+
+build CMakeFiles/countStars.dir/chapter04-string/LeetCode/countStars.cpp.obj: CXX_COMPILER__countStars_unscanned_Debug D$:/C_Study/WorkSpace/Cpp_Study/08DataStruct/chapter04-string/LeetCode/countStars.cpp || cmake_object_order_depends_target_countStars
+  DEP_FILE = CMakeFiles\countStars.dir\chapter04-string\LeetCode\countStars.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\countStars.dir
+  OBJECT_FILE_DIR = CMakeFiles\countStars.dir\chapter04-string\LeetCode
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target countStars
+
+
+#############################################
+# Link the executable countStars.exe
+
+build countStars.exe: CXX_EXECUTABLE_LINKER__countStars_Debug CMakeFiles/countStars.dir/chapter04-string/LeetCode/countStars.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\countStars.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = countStars.exe
+  TARGET_IMPLIB = libcountStars.dll.a
+  TARGET_PDB = countStars.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target splitBalanceString
+
+
+#############################################
+# Order-only phony target for splitBalanceString
+
+build cmake_object_order_depends_target_splitBalanceString: phony || CMakeFiles/splitBalanceString.dir
+
+build CMakeFiles/splitBalanceString.dir/chapter04-string/LeetCode/splitBalanceString.cpp.obj: CXX_COMPILER__splitBalanceString_unscanned_Debug D$:/C_Study/WorkSpace/Cpp_Study/08DataStruct/chapter04-string/LeetCode/splitBalanceString.cpp || cmake_object_order_depends_target_splitBalanceString
+  DEP_FILE = CMakeFiles\splitBalanceString.dir\chapter04-string\LeetCode\splitBalanceString.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\splitBalanceString.dir
+  OBJECT_FILE_DIR = CMakeFiles\splitBalanceString.dir\chapter04-string\LeetCode
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target splitBalanceString
+
+
+#############################################
+# Link the executable splitBalanceString.exe
+
+build splitBalanceString.exe: CXX_EXECUTABLE_LINKER__splitBalanceString_Debug CMakeFiles/splitBalanceString.dir/chapter04-string/LeetCode/splitBalanceString.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\splitBalanceString.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = splitBalanceString.exe
+  TARGET_IMPLIB = libsplitBalanceString.dll.a
+  TARGET_PDB = splitBalanceString.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target dynamicPassword
+
+
+#############################################
+# Order-only phony target for dynamicPassword
+
+build cmake_object_order_depends_target_dynamicPassword: phony || CMakeFiles/dynamicPassword.dir
+
+build CMakeFiles/dynamicPassword.dir/chapter04-string/LeetCode/dynamicPassword.cpp.obj: CXX_COMPILER__dynamicPassword_unscanned_Debug D$:/C_Study/WorkSpace/Cpp_Study/08DataStruct/chapter04-string/LeetCode/dynamicPassword.cpp || cmake_object_order_depends_target_dynamicPassword
+  DEP_FILE = CMakeFiles\dynamicPassword.dir\chapter04-string\LeetCode\dynamicPassword.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\dynamicPassword.dir
+  OBJECT_FILE_DIR = CMakeFiles\dynamicPassword.dir\chapter04-string\LeetCode
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target dynamicPassword
+
+
+#############################################
+# Link the executable dynamicPassword.exe
+
+build dynamicPassword.exe: CXX_EXECUTABLE_LINKER__dynamicPassword_Debug CMakeFiles/dynamicPassword.dir/chapter04-string/LeetCode/dynamicPassword.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\dynamicPassword.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = dynamicPassword.exe
+  TARGET_IMPLIB = libdynamicPassword.dll.a
+  TARGET_PDB = dynamicPassword.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target GoalResolver
+
+
+#############################################
+# Order-only phony target for GoalResolver
+
+build cmake_object_order_depends_target_GoalResolver: phony || CMakeFiles/GoalResolver.dir
+
+build CMakeFiles/GoalResolver.dir/chapter04-string/LeetCode/GoalResolver.cpp.obj: CXX_COMPILER__GoalResolver_unscanned_Debug D$:/C_Study/WorkSpace/Cpp_Study/08DataStruct/chapter04-string/LeetCode/GoalResolver.cpp || cmake_object_order_depends_target_GoalResolver
+  DEP_FILE = CMakeFiles\GoalResolver.dir\chapter04-string\LeetCode\GoalResolver.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\GoalResolver.dir
+  OBJECT_FILE_DIR = CMakeFiles\GoalResolver.dir\chapter04-string\LeetCode
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target GoalResolver
+
+
+#############################################
+# Link the executable GoalResolver.exe
+
+build GoalResolver.exe: CXX_EXECUTABLE_LINKER__GoalResolver_Debug CMakeFiles/GoalResolver.dir/chapter04-string/LeetCode/GoalResolver.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\GoalResolver.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = GoalResolver.exe
+  TARGET_IMPLIB = libGoalResolver.dll.a
+  TARGET_PDB = GoalResolver.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target countNumofString
+
+
+#############################################
+# Order-only phony target for countNumofString
+
+build cmake_object_order_depends_target_countNumofString: phony || CMakeFiles/countNumofString.dir
+
+build CMakeFiles/countNumofString.dir/chapter04-string/LeetCode/countNumofString.cpp.obj: CXX_COMPILER__countNumofString_unscanned_Debug D$:/C_Study/WorkSpace/Cpp_Study/08DataStruct/chapter04-string/LeetCode/countNumofString.cpp || cmake_object_order_depends_target_countNumofString
+  DEP_FILE = CMakeFiles\countNumofString.dir\chapter04-string\LeetCode\countNumofString.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\countNumofString.dir
+  OBJECT_FILE_DIR = CMakeFiles\countNumofString.dir\chapter04-string\LeetCode
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target countNumofString
+
+
+#############################################
+# Link the executable countNumofString.exe
+
+build countNumofString.exe: CXX_EXECUTABLE_LINKER__countNumofString_Debug CMakeFiles/countNumofString.dir/chapter04-string/LeetCode/countNumofString.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\countNumofString.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = countNumofString.exe
+  TARGET_IMPLIB = libcountNumofString.dll.a
+  TARGET_PDB = countNumofString.exe.dbg
+
 
 #############################################
 # Utility command for edit_cache
@@ -2878,6 +3454,8 @@ build rebuild_cache: phony CMakeFiles/rebuild_cache.util
 # Target aliases.
 
 build Fibonacci_array: phony Fibonacci_array.exe
+
+build GoalResolver: phony GoalResolver.exe
 
 build KMP: phony KMP.exe
 
@@ -2911,6 +3489,12 @@ build candyKid: phony candyKid.exe
 
 build countBack_K: phony countBack_K.exe
 
+build countChar: phony countChar.exe
+
+build countNumofString: phony countNumofString.exe
+
+build countStars: phony countStars.exe
+
 build decToBinary: phony decToBinary.exe
 
 build dectoAny: phony dectoAny.exe
@@ -2923,6 +3507,10 @@ build delNode: phony delNode.exe
 
 build delRepeatEle: phony delRepeatEle.exe
 
+build dynamicPassword: phony dynamicPassword.exe
+
+build findMax: phony findMax.exe
+
 build guessNum: phony guessNum.exe
 
 build hillSort: phony hillSort.exe
@@ -2933,7 +3521,13 @@ build infixToSuffix: phony infixToSuffix.exe
 
 build insertSort: phony insertSort.exe
 
+build ipInvalid: phony ipInvalid.exe
+
+build judgeColor: phony judgeColor.exe
+
 build main: phony main.exe
+
+build manipulateVal: phony manipulateVal.exe
 
 build maxNumofContinOne: phony maxNumofContinOne.exe
 
@@ -2948,6 +3542,8 @@ build oddProduct: phony oddProduct.exe
 build orderList: phony orderList.exe
 
 build palindromeLink: phony palindromeLink.exe
+
+build pathEncrypte: phony pathEncrypte.exe
 
 build queueRealizeStack: phony queueRealizeStack.exe
 
@@ -2971,9 +3567,13 @@ build soldierQueue: phony soldierQueue.exe
 
 build sparseMatrix: phony sparseMatrix.exe
 
+build splitBalanceString: phony splitBalanceString.exe
+
 build stackFactorial: phony stackFactorial.exe
 
 build stackRealizeQueue: phony stackRealizeQueue.exe
+
+build subString: phony subString.exe
 
 build sumArray: phony sumArray.exe
 
@@ -2990,6 +3590,8 @@ build testCppStack: phony testCppStack.exe
 build testDoubleLinkWithHead.cpp: phony testDoubleLinkWithHead.cpp.exe
 
 build testDynamicSeqTable: phony testDynamicSeqTable.exe
+
+build testHeroString: phony testHeroString.exe
 
 build testLinkStack: phony testLinkStack.exe
 
@@ -3021,6 +3623,8 @@ build triadCount: phony triadCount.exe
 
 build twoDimenQueue: phony twoDimenQueue.exe
 
+build upperFirstLetter: phony upperFirstLetter.exe
+
 build valCount: phony valCount.exe
 
 build validBracket: phony validBracket.exe
@@ -3035,7 +3639,7 @@ build yanghuiTriangle: phony yanghuiTriangle.exe
 #############################################
 # Folder: D:/C_Study/WorkSpace/Cpp_Study/08DataStruct/cmake-build-debug
 
-build all: phony main.exe testStaticSeqTable.exe testDynamicSeqTable.exe oddProduct.exe valCount.exe singerMark.exe guessNum.exe takeCoin.exe minIndex.exe maxNumofContinOne.exe absoluteK.exe maxProduct.exe absDifference.exe sumK.exe triadCount.exe removeEle.exe buildArray.exe arrayConcat.exe candyKid.exe arrayMiddle.exe singleEle.exe yanghuiTriangle.exe testSingleLinkWithHead.exe testSingleLinkWithoutHead.exe sumArray.exe orderList.exe superStair.exe binaryInvertPos.exe countBack_K.exe trainPlan.exe middleNode.exe delMiddleNode.exe removeElem.exe delNode.exe delRepeatEle.exe delCountBack_N.exe remRepeatNode.exe arrangeBook.exe reverseLink.exe testDoubleLinkWithHead.cpp.exe trainPlan3.exe reverseLink2.exe testStaticStack.exe teststaticSharedStack.exe testLinkStack.exe teststaticStack_Hero.exe testLinkStack_Hero.exe testCppStack.exe decToBinary.exe dectoAny.exe arrangeBook_Stack.exe palindromeLink.exe validBracket.exe testStaticQueue.exe testdoublePointLinkQueueWithoutHead.exe bracketMatch.exe infixToSuffix.exe infixToPrefix.exe calcFixExpre.exe stackFactorial.exe Fibonacci_array.exe symmetricMatrix.exe sparseMatrix.exe UpperTriangularMatrix.exe LowerTriangularMatrix.exe soldierQueue.exe twoDimenQueue.exe recentRequest.exe stackRealizeQueue.exe queueRealizeStack.exe testLinkString.exe KMP.exe insertSort.exe hillSort.exe KMP_WangDao.exe
+build all: phony main.exe testStaticSeqTable.exe testDynamicSeqTable.exe oddProduct.exe valCount.exe singerMark.exe guessNum.exe takeCoin.exe minIndex.exe maxNumofContinOne.exe absoluteK.exe maxProduct.exe absDifference.exe sumK.exe triadCount.exe removeEle.exe buildArray.exe arrayConcat.exe candyKid.exe arrayMiddle.exe singleEle.exe yanghuiTriangle.exe testSingleLinkWithHead.exe testSingleLinkWithoutHead.exe sumArray.exe orderList.exe superStair.exe binaryInvertPos.exe countBack_K.exe trainPlan.exe middleNode.exe delMiddleNode.exe removeElem.exe delNode.exe delRepeatEle.exe delCountBack_N.exe remRepeatNode.exe arrangeBook.exe reverseLink.exe testDoubleLinkWithHead.cpp.exe trainPlan3.exe reverseLink2.exe testStaticStack.exe teststaticSharedStack.exe testLinkStack.exe teststaticStack_Hero.exe testLinkStack_Hero.exe testCppStack.exe decToBinary.exe dectoAny.exe arrangeBook_Stack.exe palindromeLink.exe validBracket.exe testStaticQueue.exe testdoublePointLinkQueueWithoutHead.exe bracketMatch.exe infixToSuffix.exe infixToPrefix.exe calcFixExpre.exe stackFactorial.exe Fibonacci_array.exe symmetricMatrix.exe sparseMatrix.exe UpperTriangularMatrix.exe LowerTriangularMatrix.exe soldierQueue.exe twoDimenQueue.exe recentRequest.exe stackRealizeQueue.exe queueRealizeStack.exe testLinkString.exe KMP.exe insertSort.exe hillSort.exe KMP_WangDao.exe testHeroString.exe countChar.exe upperFirstLetter.exe findMax.exe judgeColor.exe pathEncrypte.exe subString.exe manipulateVal.exe ipInvalid.exe countStars.exe splitBalanceString.exe dynamicPassword.exe GoalResolver.exe countNumofString.exe
 
 # =============================================================================
 # Built-in targets
