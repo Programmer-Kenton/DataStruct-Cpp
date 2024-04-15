@@ -8,11 +8,11 @@
 #define INC_08WANGDAO_STATICQUEUE_H
 
 #include "iostream"
-#define MaxSize 10
+#define defaultNum 10
 using ElemType = int;
 
 struct SqQueue{
-    ElemType data[MaxSize];
+    ElemType data[defaultNum];
     int front,rear;
 };
 

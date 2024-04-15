@@ -89,7 +89,16 @@ add_executable(
         chapter04-string/source/linkString.cpp
         chapter04-string/head/linkString.h
         chapter04-string/test/testLinkString.cpp
-#        chapter04-string/test/testStaticString.cpp
+        chapter05-tree/tree/source/Tree.cpp
+        chapter05-tree/tree/head/Tree.h
+        chapter05-tree/tree/test/testTree.cpp
+        chapter05-tree/LeetCode/judgeRoot.cpp
+        chapter05-tree/binaryTree/source/staticBinaryTree.cpp
+        chapter05-tree/binaryTree/head/staticBinaryTree.h
+        chapter05-tree/binaryTree/source/linkBinaryTree.cpp
+        chapter05-tree/binaryTree/head/linkBinaryTree.h
+        chapter05-tree/binaryTree/test/testStaticBinaryTree.cpp
+        #        chapter04-string/test/testStaticString.cpp
 #        chapter04-string/LeetCode/KMP.cpp
 #        chapter08-sort/insertSort.cpp
 #        chapter08-sort/insertSortWithSentry.cpp
@@ -553,4 +562,20 @@ add_executable(
 
 add_executable(
         countNumofString chapter04-string/LeetCode/countNumofString.cpp
+)
+
+add_executable(
+        testTree chapter05-tree/tree/test/testTree.cpp
+        chapter05-tree/tree/head/Tree.h
+        chapter05-tree/tree/source/Tree.cpp
+)
+
+add_executable(
+        judgeRoot chapter05-tree/LeetCode/judgeRoot.cpp
+)
+
+add_executable(
+        testStaticBinaryTree chapter05-tree/binaryTree/test/testStaticBinaryTree.cpp
+        chapter05-tree/binaryTree/head/staticBinaryTree.h
+        chapter05-tree/binaryTree/source/staticBinaryTree.cpp
 )

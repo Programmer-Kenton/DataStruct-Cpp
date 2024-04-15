@@ -14,11 +14,11 @@ void staticSharedStack::InitStack() {
     // 初始化0号栈顶指针
     S.top0 = -1;
     // 初始化1号栈顶指针
-    S.top1 = MaxSize;
+    S.top1 = defaultNum;
 }
 
 bool staticSharedStack::StackEmpty() const {
-    return S.top1 == -1 && S.top1 == MaxSize;
+    return S.top1 == -1 && S.top1 == defaultNum;
 }
 
 bool staticSharedStack::StackFull() const {
@@ -51,7 +51,7 @@ bool staticSharedStack::Pop0(ElemType &x) {
 }
 
 bool staticSharedStack::Pop1(ElemType &x) {
-    if (S.top1 == MaxSize){
+    if (S.top1 == defaultNum){
         return false;
     }
     x = S.data[S.top1++];
@@ -67,7 +67,7 @@ bool staticSharedStack::GetTop0(ElemType &x) const {
 }
 
 bool staticSharedStack::GetTop1(ElemType &x) const {
-    if (S.top1 == MaxSize){
+    if (S.top1 == defaultNum){
         return false;
     }
     // 这里的top1指向下一个存储位置 所以栈顶索引为S.top-1

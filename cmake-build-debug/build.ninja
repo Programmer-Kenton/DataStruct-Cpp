@@ -601,6 +601,42 @@ build CMakeFiles/absDifference.dir/chapter04-string/test/testLinkString.cpp.obj:
   OBJECT_DIR = CMakeFiles\absDifference.dir
   OBJECT_FILE_DIR = CMakeFiles\absDifference.dir\chapter04-string\test
 
+build CMakeFiles/absDifference.dir/chapter05-tree/tree/source/Tree.cpp.obj: CXX_COMPILER__absDifference_unscanned_Debug D$:/C_Study/WorkSpace/Cpp_Study/08DataStruct/chapter05-tree/tree/source/Tree.cpp || cmake_object_order_depends_target_absDifference
+  DEP_FILE = CMakeFiles\absDifference.dir\chapter05-tree\tree\source\Tree.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\absDifference.dir
+  OBJECT_FILE_DIR = CMakeFiles\absDifference.dir\chapter05-tree\tree\source
+
+build CMakeFiles/absDifference.dir/chapter05-tree/tree/test/testTree.cpp.obj: CXX_COMPILER__absDifference_unscanned_Debug D$:/C_Study/WorkSpace/Cpp_Study/08DataStruct/chapter05-tree/tree/test/testTree.cpp || cmake_object_order_depends_target_absDifference
+  DEP_FILE = CMakeFiles\absDifference.dir\chapter05-tree\tree\test\testTree.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\absDifference.dir
+  OBJECT_FILE_DIR = CMakeFiles\absDifference.dir\chapter05-tree\tree\test
+
+build CMakeFiles/absDifference.dir/chapter05-tree/LeetCode/judgeRoot.cpp.obj: CXX_COMPILER__absDifference_unscanned_Debug D$:/C_Study/WorkSpace/Cpp_Study/08DataStruct/chapter05-tree/LeetCode/judgeRoot.cpp || cmake_object_order_depends_target_absDifference
+  DEP_FILE = CMakeFiles\absDifference.dir\chapter05-tree\LeetCode\judgeRoot.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\absDifference.dir
+  OBJECT_FILE_DIR = CMakeFiles\absDifference.dir\chapter05-tree\LeetCode
+
+build CMakeFiles/absDifference.dir/chapter05-tree/binaryTree/source/staticBinaryTree.cpp.obj: CXX_COMPILER__absDifference_unscanned_Debug D$:/C_Study/WorkSpace/Cpp_Study/08DataStruct/chapter05-tree/binaryTree/source/staticBinaryTree.cpp || cmake_object_order_depends_target_absDifference
+  DEP_FILE = CMakeFiles\absDifference.dir\chapter05-tree\binaryTree\source\staticBinaryTree.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\absDifference.dir
+  OBJECT_FILE_DIR = CMakeFiles\absDifference.dir\chapter05-tree\binaryTree\source
+
+build CMakeFiles/absDifference.dir/chapter05-tree/binaryTree/source/linkBinaryTree.cpp.obj: CXX_COMPILER__absDifference_unscanned_Debug D$:/C_Study/WorkSpace/Cpp_Study/08DataStruct/chapter05-tree/binaryTree/source/linkBinaryTree.cpp || cmake_object_order_depends_target_absDifference
+  DEP_FILE = CMakeFiles\absDifference.dir\chapter05-tree\binaryTree\source\linkBinaryTree.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\absDifference.dir
+  OBJECT_FILE_DIR = CMakeFiles\absDifference.dir\chapter05-tree\binaryTree\source
+
+build CMakeFiles/absDifference.dir/chapter05-tree/binaryTree/test/testStaticBinaryTree.cpp.obj: CXX_COMPILER__absDifference_unscanned_Debug D$:/C_Study/WorkSpace/Cpp_Study/08DataStruct/chapter05-tree/binaryTree/test/testStaticBinaryTree.cpp || cmake_object_order_depends_target_absDifference
+  DEP_FILE = CMakeFiles\absDifference.dir\chapter05-tree\binaryTree\test\testStaticBinaryTree.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\absDifference.dir
+  OBJECT_FILE_DIR = CMakeFiles\absDifference.dir\chapter05-tree\binaryTree\test
+
 
 # =============================================================================
 # Link build statements for EXECUTABLE target absDifference
@@ -609,7 +645,7 @@ build CMakeFiles/absDifference.dir/chapter04-string/test/testLinkString.cpp.obj:
 #############################################
 # Link the executable absDifference.exe
 
-build absDifference.exe: CXX_EXECUTABLE_LINKER__absDifference_Debug CMakeFiles/absDifference.dir/chapter02-Linear_List/01Sequence_table/LeetCode/absDifference.cpp.obj CMakeFiles/absDifference.dir/chapter04-string/source/heroString.cpp.obj CMakeFiles/absDifference.dir/chapter04-string/source/linkString.cpp.obj CMakeFiles/absDifference.dir/chapter04-string/test/testLinkString.cpp.obj
+build absDifference.exe: CXX_EXECUTABLE_LINKER__absDifference_Debug CMakeFiles/absDifference.dir/chapter02-Linear_List/01Sequence_table/LeetCode/absDifference.cpp.obj CMakeFiles/absDifference.dir/chapter04-string/source/heroString.cpp.obj CMakeFiles/absDifference.dir/chapter04-string/source/linkString.cpp.obj CMakeFiles/absDifference.dir/chapter04-string/test/testLinkString.cpp.obj CMakeFiles/absDifference.dir/chapter05-tree/tree/source/Tree.cpp.obj CMakeFiles/absDifference.dir/chapter05-tree/tree/test/testTree.cpp.obj CMakeFiles/absDifference.dir/chapter05-tree/LeetCode/judgeRoot.cpp.obj CMakeFiles/absDifference.dir/chapter05-tree/binaryTree/source/staticBinaryTree.cpp.obj CMakeFiles/absDifference.dir/chapter05-tree/binaryTree/source/linkBinaryTree.cpp.obj CMakeFiles/absDifference.dir/chapter05-tree/binaryTree/test/testStaticBinaryTree.cpp.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\absDifference.dir
@@ -3427,6 +3463,117 @@ build countNumofString.exe: CXX_EXECUTABLE_LINKER__countNumofString_Debug CMakeF
   TARGET_IMPLIB = libcountNumofString.dll.a
   TARGET_PDB = countNumofString.exe.dbg
 
+# =============================================================================
+# Object build statements for EXECUTABLE target testTree
+
+
+#############################################
+# Order-only phony target for testTree
+
+build cmake_object_order_depends_target_testTree: phony || CMakeFiles/testTree.dir
+
+build CMakeFiles/testTree.dir/chapter05-tree/tree/test/testTree.cpp.obj: CXX_COMPILER__testTree_unscanned_Debug D$:/C_Study/WorkSpace/Cpp_Study/08DataStruct/chapter05-tree/tree/test/testTree.cpp || cmake_object_order_depends_target_testTree
+  DEP_FILE = CMakeFiles\testTree.dir\chapter05-tree\tree\test\testTree.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\testTree.dir
+  OBJECT_FILE_DIR = CMakeFiles\testTree.dir\chapter05-tree\tree\test
+
+build CMakeFiles/testTree.dir/chapter05-tree/tree/source/Tree.cpp.obj: CXX_COMPILER__testTree_unscanned_Debug D$:/C_Study/WorkSpace/Cpp_Study/08DataStruct/chapter05-tree/tree/source/Tree.cpp || cmake_object_order_depends_target_testTree
+  DEP_FILE = CMakeFiles\testTree.dir\chapter05-tree\tree\source\Tree.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\testTree.dir
+  OBJECT_FILE_DIR = CMakeFiles\testTree.dir\chapter05-tree\tree\source
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target testTree
+
+
+#############################################
+# Link the executable testTree.exe
+
+build testTree.exe: CXX_EXECUTABLE_LINKER__testTree_Debug CMakeFiles/testTree.dir/chapter05-tree/tree/test/testTree.cpp.obj CMakeFiles/testTree.dir/chapter05-tree/tree/source/Tree.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\testTree.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = testTree.exe
+  TARGET_IMPLIB = libtestTree.dll.a
+  TARGET_PDB = testTree.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target judgeRoot
+
+
+#############################################
+# Order-only phony target for judgeRoot
+
+build cmake_object_order_depends_target_judgeRoot: phony || CMakeFiles/judgeRoot.dir
+
+build CMakeFiles/judgeRoot.dir/chapter05-tree/LeetCode/judgeRoot.cpp.obj: CXX_COMPILER__judgeRoot_unscanned_Debug D$:/C_Study/WorkSpace/Cpp_Study/08DataStruct/chapter05-tree/LeetCode/judgeRoot.cpp || cmake_object_order_depends_target_judgeRoot
+  DEP_FILE = CMakeFiles\judgeRoot.dir\chapter05-tree\LeetCode\judgeRoot.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\judgeRoot.dir
+  OBJECT_FILE_DIR = CMakeFiles\judgeRoot.dir\chapter05-tree\LeetCode
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target judgeRoot
+
+
+#############################################
+# Link the executable judgeRoot.exe
+
+build judgeRoot.exe: CXX_EXECUTABLE_LINKER__judgeRoot_Debug CMakeFiles/judgeRoot.dir/chapter05-tree/LeetCode/judgeRoot.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\judgeRoot.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = judgeRoot.exe
+  TARGET_IMPLIB = libjudgeRoot.dll.a
+  TARGET_PDB = judgeRoot.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target testStaticBinaryTree
+
+
+#############################################
+# Order-only phony target for testStaticBinaryTree
+
+build cmake_object_order_depends_target_testStaticBinaryTree: phony || CMakeFiles/testStaticBinaryTree.dir
+
+build CMakeFiles/testStaticBinaryTree.dir/chapter05-tree/binaryTree/test/testStaticBinaryTree.cpp.obj: CXX_COMPILER__testStaticBinaryTree_unscanned_Debug D$:/C_Study/WorkSpace/Cpp_Study/08DataStruct/chapter05-tree/binaryTree/test/testStaticBinaryTree.cpp || cmake_object_order_depends_target_testStaticBinaryTree
+  DEP_FILE = CMakeFiles\testStaticBinaryTree.dir\chapter05-tree\binaryTree\test\testStaticBinaryTree.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\testStaticBinaryTree.dir
+  OBJECT_FILE_DIR = CMakeFiles\testStaticBinaryTree.dir\chapter05-tree\binaryTree\test
+
+build CMakeFiles/testStaticBinaryTree.dir/chapter05-tree/binaryTree/source/staticBinaryTree.cpp.obj: CXX_COMPILER__testStaticBinaryTree_unscanned_Debug D$:/C_Study/WorkSpace/Cpp_Study/08DataStruct/chapter05-tree/binaryTree/source/staticBinaryTree.cpp || cmake_object_order_depends_target_testStaticBinaryTree
+  DEP_FILE = CMakeFiles\testStaticBinaryTree.dir\chapter05-tree\binaryTree\source\staticBinaryTree.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\testStaticBinaryTree.dir
+  OBJECT_FILE_DIR = CMakeFiles\testStaticBinaryTree.dir\chapter05-tree\binaryTree\source
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target testStaticBinaryTree
+
+
+#############################################
+# Link the executable testStaticBinaryTree.exe
+
+build testStaticBinaryTree.exe: CXX_EXECUTABLE_LINKER__testStaticBinaryTree_Debug CMakeFiles/testStaticBinaryTree.dir/chapter05-tree/binaryTree/test/testStaticBinaryTree.cpp.obj CMakeFiles/testStaticBinaryTree.dir/chapter05-tree/binaryTree/source/staticBinaryTree.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\testStaticBinaryTree.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = testStaticBinaryTree.exe
+  TARGET_IMPLIB = libtestStaticBinaryTree.dll.a
+  TARGET_PDB = testStaticBinaryTree.exe.dbg
+
 
 #############################################
 # Utility command for edit_cache
@@ -3525,6 +3672,8 @@ build ipInvalid: phony ipInvalid.exe
 
 build judgeColor: phony judgeColor.exe
 
+build judgeRoot: phony judgeRoot.exe
+
 build main: phony main.exe
 
 build manipulateVal: phony manipulateVal.exe
@@ -3603,11 +3752,15 @@ build testSingleLinkWithHead: phony testSingleLinkWithHead.exe
 
 build testSingleLinkWithoutHead: phony testSingleLinkWithoutHead.exe
 
+build testStaticBinaryTree: phony testStaticBinaryTree.exe
+
 build testStaticQueue: phony testStaticQueue.exe
 
 build testStaticSeqTable: phony testStaticSeqTable.exe
 
 build testStaticStack: phony testStaticStack.exe
+
+build testTree: phony testTree.exe
 
 build testdoublePointLinkQueueWithoutHead: phony testdoublePointLinkQueueWithoutHead.exe
 
@@ -3639,7 +3792,7 @@ build yanghuiTriangle: phony yanghuiTriangle.exe
 #############################################
 # Folder: D:/C_Study/WorkSpace/Cpp_Study/08DataStruct/cmake-build-debug
 
-build all: phony main.exe testStaticSeqTable.exe testDynamicSeqTable.exe oddProduct.exe valCount.exe singerMark.exe guessNum.exe takeCoin.exe minIndex.exe maxNumofContinOne.exe absoluteK.exe maxProduct.exe absDifference.exe sumK.exe triadCount.exe removeEle.exe buildArray.exe arrayConcat.exe candyKid.exe arrayMiddle.exe singleEle.exe yanghuiTriangle.exe testSingleLinkWithHead.exe testSingleLinkWithoutHead.exe sumArray.exe orderList.exe superStair.exe binaryInvertPos.exe countBack_K.exe trainPlan.exe middleNode.exe delMiddleNode.exe removeElem.exe delNode.exe delRepeatEle.exe delCountBack_N.exe remRepeatNode.exe arrangeBook.exe reverseLink.exe testDoubleLinkWithHead.cpp.exe trainPlan3.exe reverseLink2.exe testStaticStack.exe teststaticSharedStack.exe testLinkStack.exe teststaticStack_Hero.exe testLinkStack_Hero.exe testCppStack.exe decToBinary.exe dectoAny.exe arrangeBook_Stack.exe palindromeLink.exe validBracket.exe testStaticQueue.exe testdoublePointLinkQueueWithoutHead.exe bracketMatch.exe infixToSuffix.exe infixToPrefix.exe calcFixExpre.exe stackFactorial.exe Fibonacci_array.exe symmetricMatrix.exe sparseMatrix.exe UpperTriangularMatrix.exe LowerTriangularMatrix.exe soldierQueue.exe twoDimenQueue.exe recentRequest.exe stackRealizeQueue.exe queueRealizeStack.exe testLinkString.exe KMP.exe insertSort.exe hillSort.exe KMP_WangDao.exe testHeroString.exe countChar.exe upperFirstLetter.exe findMax.exe judgeColor.exe pathEncrypte.exe subString.exe manipulateVal.exe ipInvalid.exe countStars.exe splitBalanceString.exe dynamicPassword.exe GoalResolver.exe countNumofString.exe
+build all: phony main.exe testStaticSeqTable.exe testDynamicSeqTable.exe oddProduct.exe valCount.exe singerMark.exe guessNum.exe takeCoin.exe minIndex.exe maxNumofContinOne.exe absoluteK.exe maxProduct.exe absDifference.exe sumK.exe triadCount.exe removeEle.exe buildArray.exe arrayConcat.exe candyKid.exe arrayMiddle.exe singleEle.exe yanghuiTriangle.exe testSingleLinkWithHead.exe testSingleLinkWithoutHead.exe sumArray.exe orderList.exe superStair.exe binaryInvertPos.exe countBack_K.exe trainPlan.exe middleNode.exe delMiddleNode.exe removeElem.exe delNode.exe delRepeatEle.exe delCountBack_N.exe remRepeatNode.exe arrangeBook.exe reverseLink.exe testDoubleLinkWithHead.cpp.exe trainPlan3.exe reverseLink2.exe testStaticStack.exe teststaticSharedStack.exe testLinkStack.exe teststaticStack_Hero.exe testLinkStack_Hero.exe testCppStack.exe decToBinary.exe dectoAny.exe arrangeBook_Stack.exe palindromeLink.exe validBracket.exe testStaticQueue.exe testdoublePointLinkQueueWithoutHead.exe bracketMatch.exe infixToSuffix.exe infixToPrefix.exe calcFixExpre.exe stackFactorial.exe Fibonacci_array.exe symmetricMatrix.exe sparseMatrix.exe UpperTriangularMatrix.exe LowerTriangularMatrix.exe soldierQueue.exe twoDimenQueue.exe recentRequest.exe stackRealizeQueue.exe queueRealizeStack.exe testLinkString.exe KMP.exe insertSort.exe hillSort.exe KMP_WangDao.exe testHeroString.exe countChar.exe upperFirstLetter.exe findMax.exe judgeColor.exe pathEncrypte.exe subString.exe manipulateVal.exe ipInvalid.exe countStars.exe splitBalanceString.exe dynamicPassword.exe GoalResolver.exe countNumofString.exe testTree.exe judgeRoot.exe testStaticBinaryTree.exe
 
 # =============================================================================
 # Built-in targets

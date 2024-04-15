@@ -10,7 +10,7 @@
 int main(){
     staticQueue Q;
 
-    for (int i = 0; i < MaxSize; ++i) {
+    for (int i = 0; i < defaultNum; ++i) {
         if (!Q.EnQueue(i)){
             std::cout << "Queue is full,can't enqueue" << i << std::endl;
             break;
@@ -19,7 +19,7 @@ int main(){
 
     std::cout << "Queue is full:" << Q.isFull() << std::endl;
 
-    for (int i = 0; i < MaxSize; ++i) {
+    for (int i = 0; i < defaultNum; ++i) {
         ElemType x;
         if (Q.DeQueue(x)){
             std::cout << "Dequeued:" << x << std::endl;
@@ -29,10 +29,10 @@ int main(){
         }
     }
 
-    if (Q.EnQueue(MaxSize)){
-        std::cout << "Enqueue:" << MaxSize << std::endl;
+    if (Q.EnQueue(defaultNum)){
+        std::cout << "Enqueue:" << defaultNum << std::endl;
     } else{
-        std::cout << "Failed to enqueued" << MaxSize << ",queue is full" << std::endl;
+        std::cout << "Failed to enqueued" << defaultNum << ",queue is full" << std::endl;
     }
 
     std::cout << "Queue size:" << Q.getSize() << std::endl;

@@ -8,12 +8,12 @@
 #define INC_08WANGDAO_STATICSTACK_H
 
 #include "iostream"
-#define MaxSize 10
+#define defaultNum 10
 using ElemType = int;
 
 struct SqStack{
     // 静态数组存放栈中元素
-    ElemType data[MaxSize];
+    ElemType data[defaultNum];
     // 栈顶指针
     int top;
 };

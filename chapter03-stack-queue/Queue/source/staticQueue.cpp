@@ -21,7 +21,7 @@ bool staticQueue::EnQueue(ElemType x) {
         return false;
     }
     S.data[S.rear] = x;
-    S.rear = (S.rear + 1) % MaxSize;
+    S.rear = (S.rear + 1) % defaultNum;
     return true;
 }
 
@@ -30,16 +30,16 @@ bool staticQueue::DeQueue(ElemType &x) {
         return false;
     }
     x = S.data[S.front];
-    S.front = (S.front + 1) % MaxSize;
+    S.front = (S.front + 1) % defaultNum;
     return true;
 }
 
 int staticQueue::getSize() {
-    return (S.rear - S.front + MaxSize) % MaxSize;
+    return (S.rear - S.front + defaultNum) % defaultNum;
 }
 
 bool staticQueue::isFull() {
-    return (S.rear + 1) % MaxSize == S.front;
+    return (S.rear + 1) % defaultNum == S.front;
 }
 
 bool staticQueue::isEmpty() {

@@ -9,13 +9,13 @@
 #define STATIC_SEQTABLE_H
 
 #include <iostream>
-#define MaxSize 10
+#define defaultNum 10
 using ElemType = int;
 
 class static_SeqTable {
 public:
     // 静态数组容量
-    ElemType data[MaxSize];
+    ElemType data[defaultNum];
 
     // 数组长度
     int length;

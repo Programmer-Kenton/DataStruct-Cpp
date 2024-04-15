@@ -66,7 +66,7 @@ bool LinkStack::LinkStackEmpty() {
 }
 
 bool LinkStack::LinkStackFull() {
-    return size == MaxSize;
+    return size == defaultNum;
 }
 
 LinkStack::~LinkStack() {

@@ -9,7 +9,7 @@
 
 #include "iostream"
 // 链栈的最大容量
-#define MaxSize 100
+#define defaultNum 100
 using ElemType = int;
 
 struct LinkNode{

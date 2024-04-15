@@ -10,7 +10,7 @@
 
 void static_SeqTable::InitList(){
     // 数组元素都置为0
-    for (int i = 0; i < MaxSize; ++i) {
+    for (int i = 0; i < defaultNum; ++i) {
         this->data[i] = 0;
     }
     // 初始化数组长度为0
@@ -19,7 +19,7 @@ void static_SeqTable::InitList(){
 
 // // 静态数组无法扩容 容量为10 这里填充9个元素元素
 void static_SeqTable::AssignList() {
-    for (int i = 0; i < MaxSize - 1; ++i) {
+    for (int i = 0; i < defaultNum - 1; ++i) {
         this->data[i] = i;
         this->length++;
     }
@@ -31,7 +31,7 @@ static_SeqTable::static_SeqTable() {
 
 bool static_SeqTable::ListInsert(int i, ElemType e) {
     // 静态数组无法扩容 插入之前判断是否超过最大容量
-    if ((this->length + 1) > MaxSize) {
+    if ((this->length + 1) > defaultNum) {
        throw "array is full...";
     }
 

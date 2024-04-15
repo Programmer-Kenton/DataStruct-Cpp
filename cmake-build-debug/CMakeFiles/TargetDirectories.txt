@@ -87,5 +87,8 @@ D:/C_Study/WorkSpace/Cpp_Study/08DataStruct/cmake-build-debug/CMakeFiles/splitBa
 D:/C_Study/WorkSpace/Cpp_Study/08DataStruct/cmake-build-debug/CMakeFiles/dynamicPassword.dir
 D:/C_Study/WorkSpace/Cpp_Study/08DataStruct/cmake-build-debug/CMakeFiles/GoalResolver.dir
 D:/C_Study/WorkSpace/Cpp_Study/08DataStruct/cmake-build-debug/CMakeFiles/countNumofString.dir
+D:/C_Study/WorkSpace/Cpp_Study/08DataStruct/cmake-build-debug/CMakeFiles/testTree.dir
+D:/C_Study/WorkSpace/Cpp_Study/08DataStruct/cmake-build-debug/CMakeFiles/judgeRoot.dir
+D:/C_Study/WorkSpace/Cpp_Study/08DataStruct/cmake-build-debug/CMakeFiles/testStaticBinaryTree.dir
 D:/C_Study/WorkSpace/Cpp_Study/08DataStruct/cmake-build-debug/CMakeFiles/edit_cache.dir
 D:/C_Study/WorkSpace/Cpp_Study/08DataStruct/cmake-build-debug/CMakeFiles/rebuild_cache.dir

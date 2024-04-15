@@ -46,5 +46,5 @@ bool staticStack::GetTop(ElemType &x) const{
 }
 
 bool staticStack::StackFull() const {
-    return S.top == MaxSize - 1;
+    return S.top == defaultNum - 1;
 }
