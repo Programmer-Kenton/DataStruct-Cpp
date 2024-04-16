@@ -14,7 +14,7 @@
 421	549	7333838801503532	testDynamicSeqTable.exe	187c6a0e696ae4ce
 9	434	7341634448391940	CMakeFiles/testStaticStack.dir/chapter03-stack-queue/Stack/source/staticStack.cpp.obj	ef6518b060bff502
 403	520	7337228609121675	countBack_K.exe	3f388a71eabaa879
-5	453	7349690480768428	build.ninja	25da0abe6dbef06c
+5	453	7349763398279524	build.ninja	25da0abe6dbef06c
 513	640	7342449124243465	validBracket.exe	2cdacf3476977a5d
 371	474	7333872991722205	valCount.exe	6568d5a97f32750a
 5	422	7333852950572761	CMakeFiles/oddProduct.dir/chapter02-Linear_List/01Sequence_table/source/dynamic_SeqTable.cpp.obj	1292c1b49c81be7b
@@ -82,6 +82,7 @@
 463	593	7340923576920491	testDoubleLinkWithHead.cpp.exe	37520f60606427dc
 5	436	7341634448391940	CMakeFiles/testStaticStack.dir/chapter03-stack-queue/Stack/test/testStaticStack.cpp.obj	5cdfa90ee6c03f78
 69	726	7341553663752301	CMakeFiles/arrangeBook.dir/chapter02-Linear_List/02Linked_list/SingleLink/source/singleLinkWithHead.cpp.obj	36cf186ee756007d
+10	440	7349720654634222	CMakeFiles/testBinarySearchTree.dir/chapter05-tree/tree-Hero/test/testBinarySearchTree.cpp.obj	e0b9ddd04a8e6eb7
 41	736	7341553663843931	CMakeFiles/arrangeBook.dir/chapter02-Linear_List/02Linked_list/SingleLink/LeetCode/arrangeBook.cpp.obj	e30430f7d59d2aaf
 14	730	7348934169801403	CMakeFiles/absDifference.dir/chapter05-tree/binaryTree/source/DisjointSet.cpp.obj	5c79de62b6844a7d
 11	878	7348934171269500	CMakeFiles/absDifference.dir/chapter05-tree/binaryTree/source/huffmanTree.cpp.obj	bf37835d31762d2
@@ -166,3 +167,5 @@
 11	462	7349614924525507	CMakeFiles/testBinaryTree_Hero.dir/chapter05-tree/tree-Hero/source/binaryTree_Hero.cpp.obj	7b4bedc60bc049e3
 8	480	7349614924703159	CMakeFiles/testBinaryTree_Hero.dir/chapter05-tree/tree-Hero/test/testBinaryTree_Hero.cpp.obj	4e59dd200e6692d5
 480	640	7349614926261170	testBinaryTree_Hero.exe	6961fe5f6c98e3ad
+14	425	7349720654478901	CMakeFiles/testBinarySearchTree.dir/chapter05-tree/tree-Hero/source/binarySearchTree.cpp.obj	1b3def9fcd7d0d2
+440	548	7349720655680410	testBinarySearchTree.exe	a7325217fd52b8ee

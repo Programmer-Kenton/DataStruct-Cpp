@@ -548,3 +548,26 @@ add_executable(
         chapter05-tree/tree-Hero/source/binarySearchTree.cpp
 )
 
+add_executable(
+        search_binarySearch chapter05-tree/LeetCode/search_binarySearch.cpp
+        chapter05-tree/tree-Hero/head/binarySearchTree.h
+        chapter05-tree/tree-Hero/source/binarySearchTree.cpp
+)
+
+add_executable(
+        rangeSumBST chapter05-tree/LeetCode/rangeSumBST.cpp
+        chapter05-tree/tree-Hero/head/binarySearchTree.h
+        chapter05-tree/tree-Hero/source/binarySearchTree.cpp
+)
+
+add_executable(
+        balance_BinarySearchTree chapter05-tree/LeetCode/balance_BinarySearchTree.cpp
+        chapter05-tree/tree-Hero/head/binarySearchTree.h
+        chapter05-tree/tree-Hero/source/binarySearchTree.cpp
+)
+
+add_executable(
+        verifyBinarySearchTree chapter05-tree/LeetCode/verifyBinarySearchTree.cpp
+        chapter05-tree/tree-Hero/head/binarySearchTree.h
+        chapter05-tree/tree-Hero/source/binarySearchTree.cpp
+)
