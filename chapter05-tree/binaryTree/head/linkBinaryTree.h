@@ -13,11 +13,20 @@
 
 // 定义二叉树节点的结构
 struct TreeNode {
-    int data; // 节点中存储的数据
-    TreeNode* left; // 左子节点指针
-    TreeNode* right; // 右子节点指针
-    bool leftThread; // 左线索标记
-    bool rightThread; // 右线索标记
+    // 节点中存储的数据
+    int data;
+
+    // 左子节点指针
+    TreeNode* left;
+
+    // 右子节点指针
+    TreeNode* right;
+
+    // 左线索标记
+    bool leftThread;
+
+    // 右线索标记
+    bool rightThread;
 
     // 构造函数
     TreeNode(int val) : data(val), left(nullptr), right(nullptr), leftThread(false), rightThread(false) {}
@@ -27,31 +36,87 @@ struct TreeNode {
 class linkBinaryTree {
 
 private:
-    TreeNode* root; // 树的根节点指针
+    // 树的根节点指针
+    TreeNode* root;
 
     // 辅助函数
-    void destroyTree(TreeNode* root); // 销毁树的辅助函数
-    void preOrderTraversal(TreeNode* root); // 前序遍历的辅助函数
-    void inOrderTraversal(TreeNode* root); // 中序遍历的辅助函数
-    void postOrderTraversal(TreeNode* root); // 后序遍历的辅助函数
-    void inOrderThread(TreeNode* root, TreeNode*& prev); // 中序线索化的辅助函数
-    void postOrderThread(TreeNode* root, TreeNode*& prev); // 后序线索化的辅助函数
-    void preOrderThread(TreeNode* root, TreeNode*& prev); // 先序线索化的辅助函数
+    // 销毁树的辅助函数
+    void destroyTree(TreeNode* root);
+
+    // 前序遍历的辅助函数
+    void preOrderTraversal(TreeNode* root);
+
+    // 中序遍历的辅助函数
+    void inOrderTraversal(TreeNode* root);
+
+    // 后序遍历的辅助函数
+    void postOrderTraversal(TreeNode* root);
+
+    // 中序线索化的辅助函数
+    void inOrderThread(TreeNode* root, TreeNode*& prev);
+
+    // 后序线索化的辅助函数
+    void postOrderThread(TreeNode* root, TreeNode*& prev);
+
+    // 先序线索化的辅助函数
+    void preOrderThread(TreeNode* root, TreeNode*& prev);
+
+    // 辅助函数：找到以给定节点为根的子树中的最左边的节点
+    TreeNode* leftmost(TreeNode* node);
+
+    // 辅助函数：找到以给定节点为根的子树中的最右边的节点
+    TreeNode* rightmost(TreeNode* node);
 
 public:
     // 构造函数和析构函数
-    linkBinaryTree(); // 构造函数
-    ~linkBinaryTree(); // 析构函数
+    // 构造函数
+    linkBinaryTree();
+
+    // 析构函数
+    ~linkBinaryTree();
 
     // 公共成员函数
-    void insert(int data); // 插入节点的公共函数
-    void remove(int data); // 删除节点的公共函数
-    void preOrder(); // 前序遍历的公共函数
-    void inOrder(); // 中序遍历的公共函数
-    void postOrder(); // 后序遍历的公共函数
-    void inOrderThreaded(); // 建立中序线索二叉树的公共函数
-    void postOrderThreaded(); // 建立后序线索二叉树的公共函数
-    void preOrderThreaded(); // 建立先序线索二叉树的公共函数
+    // 插入节点的公共函数
+    void insert(int data);
+
+    // 删除节点的公共函数
+    void remove(int data);
+
+    // 前序遍历的公共函数
+    void preOrder();
+
+    // 中序遍历的公共函数
+    void inOrder();
+
+    // 后序遍历的公共函数
+    void postOrder();
+
+    // 建立中序线索二叉树的公共函数
+    void inOrderThreaded();
+
+    // 建立后序线索二叉树的公共函数
+    void postOrderThreaded();
+
+    // 建立先序线索二叉树的公共函数
+    void preOrderThreaded();
+
+    // 在中序线索二叉树中查找给定节点的中序后继
+    TreeNode* findInOrderSuccessor(TreeNode* node);
+
+    // 在中序线索二叉树中查找给定节点的中序前继
+    TreeNode* findInOrderPredecessor(TreeNode* node);
+
+    // 在先序线索二叉树中查找给定节点的先序后继
+    TreeNode* findPreOrderSuccessor(TreeNode* node);
+
+    // 在先序线索二叉树中查找给定节点的先序前继
+    TreeNode* findPreOrderPredecessor(TreeNode* node);
+
+    // 在后序线索二叉树中查找给定节点的后序前驱
+    TreeNode* findPostOrderPredecessor(TreeNode* node);
+
+    // 在后序线索二叉树中查找给定节点的后序后继
+    TreeNode* findPostOrderSuccessor(TreeNode* node);
 };
 
 

@@ -292,3 +292,155 @@ void linkBinaryTree::remove(int data) {
     }
 }
 
+TreeNode *linkBinaryTree::leftmost(TreeNode *node) {
+    if (node == nullptr)
+        return nullptr;
+    while (node->left != nullptr && !node->leftThread)
+        node = node->left;
+    return node;
+}
+
+TreeNode *linkBinaryTree::rightmost(TreeNode *node) {
+    if (node == nullptr)
+        return nullptr;
+    while (node->right != nullptr && !node->rightThread)
+        node = node->right;
+    return node;
+}
+
+TreeNode *linkBinaryTree::findInOrderSuccessor(TreeNode *node) {
+    // 如果节点为空，返回空指针
+    if (node == nullptr)
+        return nullptr;
+
+    // 如果节点有右子树，返回右子树中的最左边的节点
+    if (!node->rightThread)
+        return leftmost(node->right);
+
+    // 如果节点是其父节点的左子树，则后继为其父节点
+    if (node->rightThread && node->right != nullptr)
+        return node->right;
+
+    // 否则，沿着父节点向上查找，直到找到一个节点是其父节点的左子节点为止
+    TreeNode* current = node;
+    while (current->rightThread && current->right != nullptr)
+        current = current->right;
+    if (current->right != nullptr)
+        return current->right;
+    return nullptr;
+}
+
+TreeNode *linkBinaryTree::findInOrderPredecessor(TreeNode *node) {
+    // 如果节点为空，返回空指针
+    if (node == nullptr)
+        return nullptr;
+
+    // 如果节点有左子树，返回左子树中的最右边的节点
+    if (!node->leftThread)
+        return rightmost(node->left);
+
+    // 如果节点是其父节点的右子树，则前继为其父节点
+    if (node->leftThread && node->left != nullptr)
+        return node->left;
+
+    // 否则，沿着父节点向上查找，直到找到一个节点是其父节点的右子节点为止
+    TreeNode* current = node;
+    while (current->leftThread && current->left != nullptr)
+        current = current->left;
+    if (current->left != nullptr)
+        return current->left;
+    return nullptr;
+}
+
+TreeNode *linkBinaryTree::findPreOrderSuccessor(TreeNode *node) {
+    // 如果节点为空，返回空指针
+    if (node == nullptr)
+        return nullptr;
+
+    // 如果节点有左子树，返回左子树中的最左边的节点
+    if (!node->leftThread)
+        return leftmost(node->left);
+
+    // 如果节点有右子树，返回右子树的根节点
+    if (!node->rightThread)
+        return node->right;
+
+    // 否则，沿着父节点向上查找，直到找到一个节点是其父节点的左子节点且其父节点有右子树
+    TreeNode* current = node;
+    while (current->rightThread && current->right != nullptr) {
+        if (!current->rightThread && current->right != nullptr)
+            return current->right;
+        current = current->right;
+    }
+    return nullptr;
+}
+
+TreeNode *linkBinaryTree::findPreOrderPredecessor(TreeNode *node) {
+    // 如果节点为空，返回空指针
+    if (node == nullptr)
+        return nullptr;
+
+    // 如果节点是其父节点的右子树，返回其父节点
+    if (node->left == nullptr && !node->leftThread)
+        return node->right;
+
+    // 如果节点有左子树，返回左子树的根节点
+    if (!node->leftThread)
+        return node->left;
+
+    // 否则，沿着父节点向上查找，直到找到一个节点是其父节点的左子节点且其父节点有右子树
+    TreeNode* current = node;
+    while (current->rightThread && current->right != nullptr) {
+        if (!current->rightThread && current->right != nullptr)
+            return current->right;
+        current = current->right;
+    }
+    return nullptr;
+}
+
+TreeNode *linkBinaryTree::findPostOrderPredecessor(TreeNode *node) {
+    // 如果节点为空，返回空指针
+    if (node == nullptr)
+        return nullptr;
+
+    // 如果节点是其父节点的左子树，返回其父节点
+    if (node->right == nullptr && !node->rightThread)
+        return node->left;
+
+    // 如果节点有右子树，返回右子树的根节点
+    if (!node->rightThread)
+        return node->right;
+
+    // 否则，沿着父节点向上查找，直到找到一个节点是其父节点的右子节点且其父节点有左子树
+    TreeNode* current = node;
+    while (current->leftThread && current->left != nullptr) {
+        if (!current->leftThread && current->left != nullptr)
+            return current->left;
+        current = current->left;
+    }
+    return nullptr;
+}
+
+TreeNode *linkBinaryTree::findPostOrderSuccessor(TreeNode *node) {
+    // 如果节点为空，返回空指针
+    if (node == nullptr)
+        return nullptr;
+
+    // 如果节点有左子树，返回左子树中的最右边的节点
+    if (!node->leftThread)
+        return rightmost(node->left);
+
+    // 如果节点是其父节点的右子树，返回其父节点
+    if (node->right == nullptr && !node->rightThread)
+        return node->right;
+
+    // 否则，沿着父节点向上查找，直到找到一个节点是其父节点的右子节点且其父节点有左子树
+    TreeNode* current = node;
+    while (current->leftThread && current->left != nullptr) {
+        if (!current->leftThread && current->left != nullptr)
+            return current->left;
+        current = current->left;
+    }
+    return nullptr;
+}
+

@@ -22,12 +22,15 @@ TreeNode *staticBinaryTree::insertNode(TreeNode *root, int data) {
     if (root == nullptr) {
         TreeNode *newNode = new TreeNode();
         newNode->data = data;
+        // 新结点左右子树都为空
         newNode->left = newNode->right = nullptr;
         return newNode;
     }
 
     // 否则，递归地将节点插入到适当的子树中
+    // 这是一颗二叉排序树 左子树值小于根结点，根节点小于右子树值
     if (data < root->data) {
+        // 递归插入左子树
         root->left = insertNode(root->left, data);
     } else if (data > root->data) {
         root->right = insertNode(root->right, data);
@@ -51,18 +54,19 @@ TreeNode *staticBinaryTree::deleteNode(TreeNode *root, int data) {
         // 如果数据较大，则在右子树中查找
         root->right = deleteNode(root->right, data);
     } else {
+        // 如果找到了要删除的节点，就进行删除操作
         // 如果节点只有一个子节点或没有子节点
         if (root->left == nullptr) {
             TreeNode *temp = root->right;
             // 删除节点
             delete root;
-            // 返回右子节点（可能为空）
+            // 返回右子节点 为新的根节点（可能为空）
             return temp;
         } else if (root->right == nullptr) {
             TreeNode *temp = root->left;
             // 删除节点
             delete root;
-            // 返回左子节点（可能为空）
+            // 返回左子节点 为新的根节点（可能为空）
             return temp;
         }
         // 如果节点有两个子节点
@@ -181,8 +185,11 @@ bool staticBinaryTree::search(int data) {
 
 void staticBinaryTree::destroyTree(TreeNode *root) {
     if (root != nullptr) {
+        // 递归删除左子节点
         destroyTree(root->left);
+        // 递归删除右子节点
         destroyTree(root->right);
+        // 递归删除当前根结点
         delete root;
     }
 }
@@ -224,9 +231,11 @@ void staticBinaryTree::levelOrder() {
 
 TreeNode *staticBinaryTree::buildTreeFromPreIn(std::vector<int> &preorder, std::vector<int> &inorder, int preStart, int inStart,int inEnd) {
     // 边界情况处理
+    // 首先检查索引是否超出了遍历序列的范围，如果是，则返回nullptr表示当前子树为空。
     if (preStart > preorder.size() - 1 || inStart > inEnd) return nullptr;
 
     // 创建当前节点
+    // 根据前序遍历的特性，序列的第一个元素是当前子树的根节点的值
     TreeNode* root = new TreeNode();
     // 根据前序遍历序列确定当前节点的数据
     root->data = preorder[preStart];
@@ -235,32 +244,41 @@ TreeNode *staticBinaryTree::buildTreeFromPreIn(std::vector<int> &preorder, std::
     int inIndex = 0;
     for (int i = inStart; i <= inEnd; ++i) {
         if (inorder[i] == root->data) {
+            // 找到当前根节点值的索引
             inIndex = i;
             break;
         }
     }
 
-    // 递归构建左子树和右子树
-    root->left = buildTreeFromPreIn(preorder, inorder, preStart + 1, inStart, inIndex - 1); // 前序序列的下一个节点是左子树的根节点
-    root->right = buildTreeFromPreIn(preorder, inorder, preStart + inIndex - inStart + 1, inIndex + 1, inEnd); // 前序序列中的右子树的根节点是当前节点的下一个节点
 
+    // 分而治之 递归构建左子树和右子树
+    // 前序序列的下一个节点是左子树的根节点
+    // 中序遍历的左子树的范围是[inStart, inIndex - 1] 前序遍历索引值+1即preStart+1
+    root->left = buildTreeFromPreIn(preorder, inorder, preStart + 1, inStart, inIndex - 1);
+    // TODO 前序序列中的右子树的根节点是当前节点的下一个节点 索引是preStart + inIndex - inStart + 1 因为左子树有inIndex - inStart个节点
+    // 中序遍历的右子树的范围是[inIndex + 1, inEnd]
+    root->right = buildTreeFromPreIn(preorder, inorder, preStart + inIndex - inStart + 1, inIndex + 1, inEnd);
+
+    // 最后，返回构建好的当前子树的根节点。
     return root;
 }
 
 staticBinaryTree *staticBinaryTree::buildTreeFromPreIn(std::vector<int> &preorder, std::vector<int> &inorder) {
     // 创建二叉树对象
     staticBinaryTree* tree = new staticBinaryTree();
-    tree->root = buildTreeFromPreIn(preorder, inorder, 0, 0, inorder.size() - 1); // 调用辅助函数构建二叉树
+    // 调用辅助函数构建二叉树
+    tree->root = buildTreeFromPreIn(preorder, inorder, 0, 0, inorder.size() - 1);
     return tree;
 }
 
 TreeNode *staticBinaryTree::buildTreeFromPostIn(std::vector<int> &postorder, std::vector<int> &inorder, int postStart,int inStart, int inEnd) {
     // 边界情况处理
+    // 前序遍历数组为空或者中序遍历结束 返回空
     if (postStart < 0 || inStart > inEnd) return nullptr;
 
     // 创建当前节点
     TreeNode* root = new TreeNode();
-    // 根据后序遍历序列确定当前节点的数据
+    // 根据后序遍历序列确定当前节点的数据 后续遍历的最后一个数据为总根结点
     root->data = postorder[postStart];
 
     // 在中序遍历序列中找到当前节点的位置
@@ -272,8 +290,9 @@ TreeNode *staticBinaryTree::buildTreeFromPostIn(std::vector<int> &postorder, std
         }
     }
 
-    // 递归构建左子树和右子树
-    root->left = buildTreeFromPostIn(postorder, inorder, postStart - (inEnd - inIndex) - 1, inStart, inIndex - 1); // 后序序列的前一个节点是左子树的根节点
+    // 分而治之 递归构建左子树和右子树
+    // 后序序列的前一个节点是左子树的根节点
+    root->left = buildTreeFromPostIn(postorder, inorder, postStart - (inEnd - inIndex) - 1, inStart, inIndex - 1);
     root->right = buildTreeFromPostIn(postorder, inorder, postStart - 1, inIndex + 1, inEnd); // 后序序列中的右子树的根节点是当前节点的前一个节点
 
     return root;

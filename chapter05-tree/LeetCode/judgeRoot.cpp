@@ -5,6 +5,10 @@
  * @Author Kenton
  */
 
-#include "iostream"
-#include "../tree/head/Tree.h"
+
+#include "../binaryTree/head/staticBinaryTree.h"
+
+bool checkTree(TreeNode* root){
+    return root->data == root->left->data + root->right->data;
+}
 

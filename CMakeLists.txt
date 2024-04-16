@@ -3,24 +3,7 @@ project(08Wangdao)
 
 set(CMAKE_CXX_STANDARD 17)
 
-add_executable(main main.cpp
-        chapter02-Linear_List/02Linked_list/SingleLink/LeetCode/sumArray.cpp
-        chapter02-Linear_List/02Linked_list/SingleLink/LeetCode/orderList.cpp
-        chapter02-Linear_List/02Linked_list/SingleLink/LeetCode/superStair.cpp
-        chapter02-Linear_List/02Linked_list/SingleLink/LeetCode/binaryInvertPos.cpp
-        chapter02-Linear_List/02Linked_list/SingleLink/LeetCode/countBack_K.cpp
-        chapter02-Linear_List/02Linked_list/SingleLink/LeetCode/trainPlan.cpp
-        chapter02-Linear_List/02Linked_list/SingleLink/LeetCode/middleNode.cpp
-        chapter02-Linear_List/02Linked_list/SingleLink/LeetCode/delMiddleNode.cpp
-        chapter02-Linear_List/02Linked_list/SingleLink/LeetCode/removeElem.cpp
-        chapter02-Linear_List/02Linked_list/SingleLink/LeetCode/delNode.cpp
-        chapter02-Linear_List/02Linked_list/SingleLink/LeetCode/delRepeatEle.cpp
-        chapter02-Linear_List/02Linked_list/SingleLink/LeetCode/delCountBack_N.cpp
-        chapter02-Linear_List/02Linked_list/SingleLink/LeetCode/remRepeatNode.cpp
-        chapter02-Linear_List/02Linked_list/SingleLink/LeetCode/arrangeBook.cpp
-        chapter02-Linear_List/02Linked_list/SingleLink/LeetCode/reverseLink.cpp
-        chapter02-Linear_List/02Linked_list/SingleLink/LeetCode/trainPlain3.cpp
-        chapter02-Linear_List/02Linked_list/SingleLink/LeetCode/reverseLink2.cpp)
+add_executable(main main.cpp)
 
 add_executable(
         testStaticSeqTable chapter02-Linear_List/01Sequence_table/test/testStaticSeqTable.cpp
@@ -70,113 +53,13 @@ add_executable(
 
 add_executable(
         absoluteK chapter02-Linear_List/01Sequence_table/LeetCode/absoluteK.cpp
+        chapter02-Linear_List/02Linked_list/CircularLink/Double/test/testCirDoubleLinkWithHead.cpp
+        chapter05-tree/tree-Hero/source/binaryTree_Hero.cpp
+        chapter05-tree/tree-Hero/head/binaryTree_Hero.h
 )
 
 add_executable(
         maxProduct chapter02-Linear_List/01Sequence_table/LeetCode/maxProduct.cpp
-)
-
-add_executable(
-        absDifference chapter02-Linear_List/01Sequence_table/LeetCode/absDifference.cpp
-        chapter04-string/source/heroString.cpp
-        chapter04-string/head/heroString.h
-        #        chapter03-stack-queue/Queue/LeetCode/soldierQueue.cpp
-#        chapter03-stack-queue/Queue/LeetCode/twoDimenQueue.cpp
-#        chapter03-stack-queue/Queue/LeetCode/recentRequest.cpp
-#        chapter03-stack-queue/Queue/LeetCode/queueRealizeStack.cpp
-#        chapter04-string/source/staticString.cpp
-#        chapter04-string/head/staticString.h
-        chapter04-string/source/linkString.cpp
-        chapter04-string/head/linkString.h
-        chapter04-string/test/testLinkString.cpp
-        chapter05-tree/tree/source/Tree.cpp
-        chapter05-tree/tree/head/Tree.h
-        chapter05-tree/tree/test/testTree.cpp
-        chapter05-tree/LeetCode/judgeRoot.cpp
-        chapter05-tree/binaryTree/source/staticBinaryTree.cpp
-        chapter05-tree/binaryTree/head/staticBinaryTree.h
-        chapter05-tree/binaryTree/source/linkBinaryTree.cpp
-        chapter05-tree/binaryTree/head/linkBinaryTree.h
-        chapter05-tree/binaryTree/test/testStaticBinaryTree.cpp
-        #        chapter04-string/test/testStaticString.cpp
-#        chapter04-string/LeetCode/KMP.cpp
-#        chapter08-sort/insertSort.cpp
-#        chapter08-sort/insertSortWithSentry.cpp
-#        chapter08-sort/halfInsertSort.cpp
-#        chapter08-sort/hillSort.cpp
-#        chapter08-sort/bubbleSort.cpp
-#        chapter08-sort/quickSort.cpp
-#        chapter08-sort/selectSort.cpp
-#        chapter08-sort/hashNode.cpp
-#        chapter08-sort/hashNode.h
-#        temp/test01.cpp
-#        temp/test02.cpp
-#        chapter04-string/LeetCode/KMP_WangDao.cpp
-        #        chapter02-Linear_List/02Linked_list/DoubleLink/source/doubleLinkWithHead.cpp
-#        chapter02-Linear_List/02Linked_list/DoubleLink/head/doubleLinkWithHead.h
-#        chapter02-Linear_List/02Linked_list/DoubleLink/test/testDoubleLinkWithHead.cpp
-#        chapter02-Linear_List/02Linked_list/DoubleLink/source/doubleLinkWithoutHead.cpp
-#        chapter02-Linear_List/02Linked_list/DoubleLink/head/doubleLinkWithoutHead.h
-#        chapter02-Linear_List/02Linked_list/CircularLink/Single/source/cirSingleLinkWithHead.cpp
-#        chapter02-Linear_List/02Linked_list/CircularLink/Single/head/cirSingleLinkWithHead.h
-#        chapter02-Linear_List/02Linked_list/CircularLink/Single/test/testCirSingleLinkWithHead.cpp
-#        chapter02-Linear_List/02Linked_list/CircularLink/Double/source/cirDoubleLinkWithHead.cpp
-#        chapter02-Linear_List/02Linked_list/CircularLink/Double/head/cirDoubleLinkWithHead.h
-#        chapter02-Linear_List/02Linked_list/StaticLink/source/staticLinkWithHead.cpp
-#        chapter02-Linear_List/02Linked_list/StaticLink/head/staticLinkWithHead.h
-#        chapter03-stack-queue/Stack/source/staticStack.cpp
-#        chapter03-stack-queue/Stack/head/staticStack.h
-#        chapter03-stack-queue/Stack/test/testStaticStack.cpp
-#        chapter03-stack-queue/Stack/source/staticSharedStack.cpp
-#        chapter03-stack-queue/Stack/head/staticSharedStack.h
-#        chapter03-stack-queue/Stack/test/teststaticSharedStack.cpp
-#        chapter03-stack-queue/Stack/source/LinkStack.cpp
-#        chapter03-stack-queue/Stack/head/LinkStack.h
-#        chapter03-stack-queue/Stack/test/testLinkStack.cpp
-#        chapter03-stack-queue/Stack/source/staticStack_Hero.cpp
-#        chapter03-stack-queue/Stack/head/staticStack_Hero.h
-#        chapter03-stack-queue/Stack/test/teststaticStack_Hero.cpp
-#        chapter03-stack-queue/Stack/source/LinkStack_Hero.cpp
-#        chapter03-stack-queue/Stack/head/LinkStack_Hero.h
-#        chapter03-stack-queue/Stack/test/testLinkStack_Hero.cpp
-#        chapter03-stack-queue/Stack/test/testCppStack.cpp
-#        chapter03-stack-queue/Stack/LeetCode/decToBinary.cpp
-#        chapter03-stack-queue/Stack/LeetCode/decToAny.cpp
-#        chapter03-stack-queue/Stack/LeetCode/arrangeBook_Stack.cpp
-#        chapter03-stack-queue/Stack/LeetCode/palindromeLink.cpp
-#        chapter03-stack-queue/Stack/LeetCode/maxDepthBracket.cpp
-#        chapter03-stack-queue/Stack/LeetCode/validBracket.cpp
-#        chapter03-stack-queue/Queue/source/staticQueue.cpp
-#        chapter03-stack-queue/Queue/head/staticQueue.h
-#        chapter03-stack-queue/Queue/test/testStaticQueue.cpp
-#        chapter03-stack-queue/Queue/source/staticQueue02.cpp
-#        chapter03-stack-queue/Queue/head/staticQueue02.h
-#        chapter03-stack-queue/Queue/source/staticQueue03.cpp
-#        chapter03-stack-queue/Queue/head/staticQueue03.h
-#        chapter03-stack-queue/Queue/source/staticQueue04.cpp
-#        chapter03-stack-queue/Queue/head/staticQueue04.h
-#        chapter03-stack-queue/Queue/source/LinkQueueWithHead.cpp
-#        chapter03-stack-queue/Queue/head/LinkQueueWithHead.h
-#        chapter03-stack-queue/Queue/source/LinkQueueWithoutHead.cpp
-#        chapter03-stack-queue/Queue/head/LinkQueueWithoutHead.h
-#        chapter03-stack-queue/Queue/source/doublePointLinkQueueWithHead.cpp
-#        chapter03-stack-queue/Queue/head/doublePointLinkQueueWithHead.h
-#        chapter03-stack-queue/Queue/source/doublePointLinkQueueWithoutHead.cpp
-#        chapter03-stack-queue/Queue/head/doublePointLinkQueueWithoutHead.h
-#        chapter03-stack-queue/Queue/test/testdoublePointLinkQueueWithoutHead.cpp
-#        chapter03-stack-queue/Queue/test/testdoublePointLinkQueueWithHead.cpp
-#        chapter03-stack-queue/Queue/source/doublePointStaticQueue.cpp
-#        chapter03-stack-queue/Queue/head/doublePointStaticQueue.h
-#        chapter03-stack-queue/Stack/LeetCode/bracketMatch.cpp
-#        chapter03-stack-queue/Stack/LeetCode/infixToSuffix.cpp
-#        chapter03-stack-queue/Stack/LeetCode/infixToPrefix.cpp
-#        chapter03-stack-queue/Stack/LeetCode/calcFixExpre.cpp
-#        chapter03-stack-queue/Stack/LeetCode/stackFactorial.cpp
-#        chapter03-stack-queue/Stack/LeetCode/Fibonacci_array.cpp
-#        chapter03-stack-queue/Stack/LeetCode/symmetricMatrix.cpp
-#        chapter03-stack-queue/Stack/LeetCode/sparseMatrix.cpp
-#        chapter03-stack-queue/Stack/LeetCode/UpperTriangularMatrix.cpp
-#        chapter03-stack-queue/Stack/LeetCode/LowerTriangularMatrix.cpp
 )
 
 add_executable(
@@ -479,20 +362,6 @@ add_executable(
 
 add_executable(
         KMP chapter04-string/LeetCode/KMP.cpp
-        chapter04-string/LeetCode/countChar.cpp
-        chapter04-string/LeetCode/upperFirstLetter.cpp
-        chapter04-string/LeetCode/findMax.cpp
-        chapter04-string/LeetCode/judgeColor.cpp
-        chapter04-string/LeetCode/pathEncrypte.cpp
-        chapter04-string/LeetCode/subString.cpp
-        chapter04-string/LeetCode/calcRobot.cpp
-        chapter04-string/LeetCode/manipulateVal.cpp
-        chapter04-string/LeetCode/ipInvalid.cpp
-        chapter04-string/LeetCode/countStars.cpp
-        chapter04-string/LeetCode/splitBalanceString.cpp
-        chapter04-string/LeetCode/dynamicPassword.cpp
-        chapter04-string/LeetCode/GoalResolver.cpp
-        chapter04-string/LeetCode/countMaxWord.cpp
 )
 
 add_executable(
@@ -565,13 +434,10 @@ add_executable(
 )
 
 add_executable(
-        testTree chapter05-tree/tree/test/testTree.cpp
-        chapter05-tree/tree/head/Tree.h
-        chapter05-tree/tree/source/Tree.cpp
-)
-
-add_executable(
-        judgeRoot chapter05-tree/LeetCode/judgeRoot.cpp
+        testTree chapter05-tree/tree-Hero/test/testTree.cpp
+        chapter05-tree/tree-Hero/head/Tree.h
+        chapter05-tree/tree-Hero/source/Tree.cpp
+        chapter05-tree/tree-Hero/test/testBinaryTree_Hero.cpp
 )
 
 add_executable(
@@ -579,3 +445,106 @@ add_executable(
         chapter05-tree/binaryTree/head/staticBinaryTree.h
         chapter05-tree/binaryTree/source/staticBinaryTree.cpp
 )
+
+add_executable(
+        testHuffmanTree chapter05-tree/binaryTree/test/testHuffmanTree.cpp
+        chapter05-tree/binaryTree/head/huffmanTree.h
+        chapter05-tree/binaryTree/source/huffmanTree.cpp
+)
+
+add_executable(
+        testDisjointSet chapter05-tree/binaryTree/test/testDisjointSet.cpp
+        chapter05-tree/binaryTree/head/DisjointSet.h
+        chapter05-tree/binaryTree/source/DisjointSet.cpp
+)
+
+add_executable(
+        testCirDoubleLinkWithHead chapter02-Linear_List/02Linked_list/CircularLink/Double/test/testCirDoubleLinkWithHead.cpp
+        chapter02-Linear_List/02Linked_list/CircularLink/Double/head/cirDoubleLinkWithHead.h
+        chapter02-Linear_List/02Linked_list/CircularLink/Double/source/cirDoubleLinkWithHead.cpp
+)
+
+add_executable(
+        testlinkBinaryTree chapter05-tree/binaryTree/test/testlinkBinaryTree.cpp
+        chapter05-tree/binaryTree/head/linkBinaryTree.h
+        chapter05-tree/binaryTree/source/linkBinaryTree.cpp
+)
+
+add_executable(
+        judgeRoot chapter05-tree/LeetCode/judgeRoot.cpp
+        chapter05-tree/binaryTree/head/staticBinaryTree.h
+        chapter05-tree/binaryTree/source/staticBinaryTree.cpp
+        chapter05-tree/LeetCode/calDepthofBinaryTree.cpp
+)
+add_executable(
+        maxDepth chapter05-tree/LeetCode/maxDepth.cpp
+        chapter05-tree/binaryTree/head/staticBinaryTree.h
+        chapter05-tree/binaryTree/source/staticBinaryTree.cpp
+)
+
+add_executable(
+        calDepthofBinaryTree chapter05-tree/LeetCode/calDepthofBinaryTree.cpp
+        chapter05-tree/binaryTree/head/staticBinaryTree.h
+        chapter05-tree/binaryTree/source/staticBinaryTree.cpp
+)
+
+add_executable(
+        calcBoolbinaryTree chapter05-tree/LeetCode/calcBoolbinaryTree.cpp
+        chapter05-tree/binaryTree/head/staticBinaryTree.h
+        chapter05-tree/binaryTree/source/staticBinaryTree.cpp
+)
+
+add_executable(
+        testBinaryTree_Hero chapter05-tree/tree-Hero/test/testBinaryTree_Hero.cpp
+        chapter05-tree/tree-Hero/head/binaryTree_Hero.h
+        chapter05-tree/tree-Hero/source/binaryTree_Hero.cpp
+)
+
+add_executable(
+        singleValTree chapter05-tree/LeetCode/singleValTree.cpp
+        chapter05-tree/tree-Hero/head/binaryTree_Hero.h
+        chapter05-tree/tree-Hero/source/binaryTree_Hero.cpp
+)
+
+add_executable(
+        countNodes chapter05-tree/LeetCode/countNodes.cpp
+        chapter05-tree/tree-Hero/head/binaryTree_Hero.h
+        chapter05-tree/tree-Hero/source/binaryTree_Hero.cpp
+)
+
+add_executable(
+        preTravel chapter05-tree/LeetCode/preTravel.cpp
+        chapter05-tree/tree-Hero/head/binaryTree_Hero.h
+        chapter05-tree/tree-Hero/source/binaryTree_Hero.cpp
+)
+
+add_executable(
+        inTravel chapter05-tree/LeetCode/inTravel.cpp
+        chapter05-tree/tree-Hero/head/binaryTree_Hero.h
+        chapter05-tree/tree-Hero/source/binaryTree_Hero.cpp
+)
+
+add_executable(
+        postTravel chapter05-tree/LeetCode/postTravel.cpp
+        chapter05-tree/tree-Hero/head/binaryTree_Hero.h
+        chapter05-tree/tree-Hero/source/binaryTree_Hero.cpp
+)
+
+add_executable(
+        filpRootNode chapter05-tree/LeetCode/filpRootNode.cpp
+        chapter05-tree/tree-Hero/head/binaryTree_Hero.h
+        chapter05-tree/tree-Hero/source/binaryTree_Hero.cpp
+)
+
+add_executable(
+        countBinary chapter05-tree/LeetCode/countBinary.cpp
+        chapter05-tree/tree-Hero/head/binaryTree_Hero.h
+        chapter05-tree/tree-Hero/source/binaryTree_Hero.cpp
+)
+
+add_executable(
+        testBinarySearchTree chapter05-tree/tree-Hero/test/testBinarySearchTree.cpp
+        chapter05-tree/tree-Hero/head/binarySearchTree.h
+        chapter05-tree/tree-Hero/source/binarySearchTree.cpp
+)
+
