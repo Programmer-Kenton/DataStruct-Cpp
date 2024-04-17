@@ -14,7 +14,7 @@
 421	549	7333838801503532	testDynamicSeqTable.exe	187c6a0e696ae4ce
 9	434	7341634448391940	CMakeFiles/testStaticStack.dir/chapter03-stack-queue/Stack/source/staticStack.cpp.obj	ef6518b060bff502
 403	520	7337228609121675	countBack_K.exe	3f388a71eabaa879
-5	453	7349763398279524	build.ninja	25da0abe6dbef06c
+5	453	7350237331585780	build.ninja	25da0abe6dbef06c
 513	640	7342449124243465	validBracket.exe	2cdacf3476977a5d
 371	474	7333872991722205	valCount.exe	6568d5a97f32750a
 5	422	7333852950572761	CMakeFiles/oddProduct.dir/chapter02-Linear_List/01Sequence_table/source/dynamic_SeqTable.cpp.obj	1292c1b49c81be7b

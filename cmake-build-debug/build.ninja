@@ -4111,6 +4111,240 @@ build verifyBinarySearchTree.exe: CXX_EXECUTABLE_LINKER__verifyBinarySearchTree_
   TARGET_IMPLIB = libverifyBinarySearchTree.dll.a
   TARGET_PDB = verifyBinarySearchTree.exe.dbg
 
+# =============================================================================
+# Object build statements for EXECUTABLE target increaseSearchTree
+
+
+#############################################
+# Order-only phony target for increaseSearchTree
+
+build cmake_object_order_depends_target_increaseSearchTree: phony || CMakeFiles/increaseSearchTree.dir
+
+build CMakeFiles/increaseSearchTree.dir/chapter05-tree/LeetCode/increaseSearchTree.cpp.obj: CXX_COMPILER__increaseSearchTree_unscanned_Debug D$:/C_Study/WorkSpace/Cpp_Study/08DataStruct/chapter05-tree/LeetCode/increaseSearchTree.cpp || cmake_object_order_depends_target_increaseSearchTree
+  DEP_FILE = CMakeFiles\increaseSearchTree.dir\chapter05-tree\LeetCode\increaseSearchTree.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\increaseSearchTree.dir
+  OBJECT_FILE_DIR = CMakeFiles\increaseSearchTree.dir\chapter05-tree\LeetCode
+
+build CMakeFiles/increaseSearchTree.dir/chapter05-tree/tree-Hero/source/binarySearchTree.cpp.obj: CXX_COMPILER__increaseSearchTree_unscanned_Debug D$:/C_Study/WorkSpace/Cpp_Study/08DataStruct/chapter05-tree/tree-Hero/source/binarySearchTree.cpp || cmake_object_order_depends_target_increaseSearchTree
+  DEP_FILE = CMakeFiles\increaseSearchTree.dir\chapter05-tree\tree-Hero\source\binarySearchTree.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\increaseSearchTree.dir
+  OBJECT_FILE_DIR = CMakeFiles\increaseSearchTree.dir\chapter05-tree\tree-Hero\source
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target increaseSearchTree
+
+
+#############################################
+# Link the executable increaseSearchTree.exe
+
+build increaseSearchTree.exe: CXX_EXECUTABLE_LINKER__increaseSearchTree_Debug CMakeFiles/increaseSearchTree.dir/chapter05-tree/LeetCode/increaseSearchTree.cpp.obj CMakeFiles/increaseSearchTree.dir/chapter05-tree/tree-Hero/source/binarySearchTree.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\increaseSearchTree.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = increaseSearchTree.exe
+  TARGET_IMPLIB = libincreaseSearchTree.dll.a
+  TARGET_PDB = increaseSearchTree.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target minDifference
+
+
+#############################################
+# Order-only phony target for minDifference
+
+build cmake_object_order_depends_target_minDifference: phony || CMakeFiles/minDifference.dir
+
+build CMakeFiles/minDifference.dir/chapter05-tree/LeetCode/minDifference.cpp.obj: CXX_COMPILER__minDifference_unscanned_Debug D$:/C_Study/WorkSpace/Cpp_Study/08DataStruct/chapter05-tree/LeetCode/minDifference.cpp || cmake_object_order_depends_target_minDifference
+  DEP_FILE = CMakeFiles\minDifference.dir\chapter05-tree\LeetCode\minDifference.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\minDifference.dir
+  OBJECT_FILE_DIR = CMakeFiles\minDifference.dir\chapter05-tree\LeetCode
+
+build CMakeFiles/minDifference.dir/chapter05-tree/tree-Hero/source/binarySearchTree.cpp.obj: CXX_COMPILER__minDifference_unscanned_Debug D$:/C_Study/WorkSpace/Cpp_Study/08DataStruct/chapter05-tree/tree-Hero/source/binarySearchTree.cpp || cmake_object_order_depends_target_minDifference
+  DEP_FILE = CMakeFiles\minDifference.dir\chapter05-tree\tree-Hero\source\binarySearchTree.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\minDifference.dir
+  OBJECT_FILE_DIR = CMakeFiles\minDifference.dir\chapter05-tree\tree-Hero\source
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target minDifference
+
+
+#############################################
+# Link the executable minDifference.exe
+
+build minDifference.exe: CXX_EXECUTABLE_LINKER__minDifference_Debug CMakeFiles/minDifference.dir/chapter05-tree/LeetCode/minDifference.cpp.obj CMakeFiles/minDifference.dir/chapter05-tree/tree-Hero/source/binarySearchTree.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\minDifference.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = minDifference.exe
+  TARGET_IMPLIB = libminDifference.dll.a
+  TARGET_PDB = minDifference.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target sumOfTwoNum
+
+
+#############################################
+# Order-only phony target for sumOfTwoNum
+
+build cmake_object_order_depends_target_sumOfTwoNum: phony || CMakeFiles/sumOfTwoNum.dir
+
+build CMakeFiles/sumOfTwoNum.dir/chapter05-tree/LeetCode/sumOfTwoNum.cpp.obj: CXX_COMPILER__sumOfTwoNum_unscanned_Debug D$:/C_Study/WorkSpace/Cpp_Study/08DataStruct/chapter05-tree/LeetCode/sumOfTwoNum.cpp || cmake_object_order_depends_target_sumOfTwoNum
+  DEP_FILE = CMakeFiles\sumOfTwoNum.dir\chapter05-tree\LeetCode\sumOfTwoNum.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\sumOfTwoNum.dir
+  OBJECT_FILE_DIR = CMakeFiles\sumOfTwoNum.dir\chapter05-tree\LeetCode
+
+build CMakeFiles/sumOfTwoNum.dir/chapter05-tree/tree-Hero/source/binarySearchTree.cpp.obj: CXX_COMPILER__sumOfTwoNum_unscanned_Debug D$:/C_Study/WorkSpace/Cpp_Study/08DataStruct/chapter05-tree/tree-Hero/source/binarySearchTree.cpp || cmake_object_order_depends_target_sumOfTwoNum
+  DEP_FILE = CMakeFiles\sumOfTwoNum.dir\chapter05-tree\tree-Hero\source\binarySearchTree.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\sumOfTwoNum.dir
+  OBJECT_FILE_DIR = CMakeFiles\sumOfTwoNum.dir\chapter05-tree\tree-Hero\source
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target sumOfTwoNum
+
+
+#############################################
+# Link the executable sumOfTwoNum.exe
+
+build sumOfTwoNum.exe: CXX_EXECUTABLE_LINKER__sumOfTwoNum_Debug CMakeFiles/sumOfTwoNum.dir/chapter05-tree/LeetCode/sumOfTwoNum.cpp.obj CMakeFiles/sumOfTwoNum.dir/chapter05-tree/tree-Hero/source/binarySearchTree.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\sumOfTwoNum.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = sumOfTwoNum.exe
+  TARGET_IMPLIB = libsumOfTwoNum.dll.a
+  TARGET_PDB = sumOfTwoNum.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target searchTreeMode
+
+
+#############################################
+# Order-only phony target for searchTreeMode
+
+build cmake_object_order_depends_target_searchTreeMode: phony || CMakeFiles/searchTreeMode.dir
+
+build CMakeFiles/searchTreeMode.dir/chapter05-tree/LeetCode/searchTreeMode.cpp.obj: CXX_COMPILER__searchTreeMode_unscanned_Debug D$:/C_Study/WorkSpace/Cpp_Study/08DataStruct/chapter05-tree/LeetCode/searchTreeMode.cpp || cmake_object_order_depends_target_searchTreeMode
+  DEP_FILE = CMakeFiles\searchTreeMode.dir\chapter05-tree\LeetCode\searchTreeMode.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\searchTreeMode.dir
+  OBJECT_FILE_DIR = CMakeFiles\searchTreeMode.dir\chapter05-tree\LeetCode
+
+build CMakeFiles/searchTreeMode.dir/chapter05-tree/tree-Hero/source/binarySearchTree.cpp.obj: CXX_COMPILER__searchTreeMode_unscanned_Debug D$:/C_Study/WorkSpace/Cpp_Study/08DataStruct/chapter05-tree/tree-Hero/source/binarySearchTree.cpp || cmake_object_order_depends_target_searchTreeMode
+  DEP_FILE = CMakeFiles\searchTreeMode.dir\chapter05-tree\tree-Hero\source\binarySearchTree.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\searchTreeMode.dir
+  OBJECT_FILE_DIR = CMakeFiles\searchTreeMode.dir\chapter05-tree\tree-Hero\source
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target searchTreeMode
+
+
+#############################################
+# Link the executable searchTreeMode.exe
+
+build searchTreeMode.exe: CXX_EXECUTABLE_LINKER__searchTreeMode_Debug CMakeFiles/searchTreeMode.dir/chapter05-tree/LeetCode/searchTreeMode.cpp.obj CMakeFiles/searchTreeMode.dir/chapter05-tree/tree-Hero/source/binarySearchTree.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\searchTreeMode.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = searchTreeMode.exe
+  TARGET_IMPLIB = libsearchTreeMode.dll.a
+  TARGET_PDB = searchTreeMode.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target recoverSearchTree
+
+
+#############################################
+# Order-only phony target for recoverSearchTree
+
+build cmake_object_order_depends_target_recoverSearchTree: phony || CMakeFiles/recoverSearchTree.dir
+
+build CMakeFiles/recoverSearchTree.dir/chapter05-tree/LeetCode/recoverSearchTree.cpp.obj: CXX_COMPILER__recoverSearchTree_unscanned_Debug D$:/C_Study/WorkSpace/Cpp_Study/08DataStruct/chapter05-tree/LeetCode/recoverSearchTree.cpp || cmake_object_order_depends_target_recoverSearchTree
+  DEP_FILE = CMakeFiles\recoverSearchTree.dir\chapter05-tree\LeetCode\recoverSearchTree.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\recoverSearchTree.dir
+  OBJECT_FILE_DIR = CMakeFiles\recoverSearchTree.dir\chapter05-tree\LeetCode
+
+build CMakeFiles/recoverSearchTree.dir/chapter05-tree/tree-Hero/source/binarySearchTree.cpp.obj: CXX_COMPILER__recoverSearchTree_unscanned_Debug D$:/C_Study/WorkSpace/Cpp_Study/08DataStruct/chapter05-tree/tree-Hero/source/binarySearchTree.cpp || cmake_object_order_depends_target_recoverSearchTree
+  DEP_FILE = CMakeFiles\recoverSearchTree.dir\chapter05-tree\tree-Hero\source\binarySearchTree.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\recoverSearchTree.dir
+  OBJECT_FILE_DIR = CMakeFiles\recoverSearchTree.dir\chapter05-tree\tree-Hero\source
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target recoverSearchTree
+
+
+#############################################
+# Link the executable recoverSearchTree.exe
+
+build recoverSearchTree.exe: CXX_EXECUTABLE_LINKER__recoverSearchTree_Debug CMakeFiles/recoverSearchTree.dir/chapter05-tree/LeetCode/recoverSearchTree.cpp.obj CMakeFiles/recoverSearchTree.dir/chapter05-tree/tree-Hero/source/binarySearchTree.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\recoverSearchTree.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = recoverSearchTree.exe
+  TARGET_IMPLIB = librecoverSearchTree.dll.a
+  TARGET_PDB = recoverSearchTree.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target deleteSearchTreeNode
+
+
+#############################################
+# Order-only phony target for deleteSearchTreeNode
+
+build cmake_object_order_depends_target_deleteSearchTreeNode: phony || CMakeFiles/deleteSearchTreeNode.dir
+
+build CMakeFiles/deleteSearchTreeNode.dir/chapter05-tree/LeetCode/deleteSearchTreeNode.cpp.obj: CXX_COMPILER__deleteSearchTreeNode_unscanned_Debug D$:/C_Study/WorkSpace/Cpp_Study/08DataStruct/chapter05-tree/LeetCode/deleteSearchTreeNode.cpp || cmake_object_order_depends_target_deleteSearchTreeNode
+  DEP_FILE = CMakeFiles\deleteSearchTreeNode.dir\chapter05-tree\LeetCode\deleteSearchTreeNode.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\deleteSearchTreeNode.dir
+  OBJECT_FILE_DIR = CMakeFiles\deleteSearchTreeNode.dir\chapter05-tree\LeetCode
+
+build CMakeFiles/deleteSearchTreeNode.dir/chapter05-tree/tree-Hero/source/binarySearchTree.cpp.obj: CXX_COMPILER__deleteSearchTreeNode_unscanned_Debug D$:/C_Study/WorkSpace/Cpp_Study/08DataStruct/chapter05-tree/tree-Hero/source/binarySearchTree.cpp || cmake_object_order_depends_target_deleteSearchTreeNode
+  DEP_FILE = CMakeFiles\deleteSearchTreeNode.dir\chapter05-tree\tree-Hero\source\binarySearchTree.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\deleteSearchTreeNode.dir
+  OBJECT_FILE_DIR = CMakeFiles\deleteSearchTreeNode.dir\chapter05-tree\tree-Hero\source
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target deleteSearchTreeNode
+
+
+#############################################
+# Link the executable deleteSearchTreeNode.exe
+
+build deleteSearchTreeNode.exe: CXX_EXECUTABLE_LINKER__deleteSearchTreeNode_Debug CMakeFiles/deleteSearchTreeNode.dir/chapter05-tree/LeetCode/deleteSearchTreeNode.cpp.obj CMakeFiles/deleteSearchTreeNode.dir/chapter05-tree/tree-Hero/source/binarySearchTree.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\deleteSearchTreeNode.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = deleteSearchTreeNode.exe
+  TARGET_IMPLIB = libdeleteSearchTreeNode.dll.a
+  TARGET_PDB = deleteSearchTreeNode.exe.dbg
+
 
 #############################################
 # Utility command for edit_cache
@@ -4199,6 +4433,8 @@ build delNode: phony delNode.exe
 
 build delRepeatEle: phony delRepeatEle.exe
 
+build deleteSearchTreeNode: phony deleteSearchTreeNode.exe
+
 build dynamicPassword: phony dynamicPassword.exe
 
 build filpRootNode: phony filpRootNode.exe
@@ -4210,6 +4446,8 @@ build guessNum: phony guessNum.exe
 build hillSort: phony hillSort.exe
 
 build inTravel: phony inTravel.exe
+
+build increaseSearchTree: phony increaseSearchTree.exe
 
 build infixToPrefix: phony infixToPrefix.exe
 
@@ -4235,6 +4473,8 @@ build maxProduct: phony maxProduct.exe
 
 build middleNode: phony middleNode.exe
 
+build minDifference: phony minDifference.exe
+
 build minIndex: phony minIndex.exe
 
 build oddProduct: phony oddProduct.exe
@@ -4255,6 +4495,8 @@ build rangeSumBST: phony rangeSumBST.exe
 
 build recentRequest: phony recentRequest.exe
 
+build recoverSearchTree: phony recoverSearchTree.exe
+
 build remRepeatNode: phony remRepeatNode.exe
 
 build removeEle: phony removeEle.exe
@@ -4264,6 +4506,8 @@ build removeElem: phony removeElem.exe
 build reverseLink: phony reverseLink.exe
 
 build reverseLink2: phony reverseLink2.exe
+
+build searchTreeMode: phony searchTreeMode.exe
 
 build search_binarySearch: phony search_binarySearch.exe
 
@@ -4288,6 +4532,8 @@ build subString: phony subString.exe
 build sumArray: phony sumArray.exe
 
 build sumK: phony sumK.exe
+
+build sumOfTwoNum: phony sumOfTwoNum.exe
 
 build superStair: phony superStair.exe
 
@@ -4367,7 +4613,7 @@ build yanghuiTriangle: phony yanghuiTriangle.exe
 #############################################
 # Folder: D:/C_Study/WorkSpace/Cpp_Study/08DataStruct/cmake-build-debug
 
-build all: phony main.exe testStaticSeqTable.exe testDynamicSeqTable.exe oddProduct.exe valCount.exe singerMark.exe guessNum.exe takeCoin.exe minIndex.exe maxNumofContinOne.exe absoluteK.exe maxProduct.exe sumK.exe triadCount.exe removeEle.exe buildArray.exe arrayConcat.exe candyKid.exe arrayMiddle.exe singleEle.exe yanghuiTriangle.exe testSingleLinkWithHead.exe testSingleLinkWithoutHead.exe sumArray.exe orderList.exe superStair.exe binaryInvertPos.exe countBack_K.exe trainPlan.exe middleNode.exe delMiddleNode.exe removeElem.exe delNode.exe delRepeatEle.exe delCountBack_N.exe remRepeatNode.exe arrangeBook.exe reverseLink.exe testDoubleLinkWithHead.cpp.exe trainPlan3.exe reverseLink2.exe testStaticStack.exe teststaticSharedStack.exe testLinkStack.exe teststaticStack_Hero.exe testLinkStack_Hero.exe testCppStack.exe decToBinary.exe dectoAny.exe arrangeBook_Stack.exe palindromeLink.exe validBracket.exe testStaticQueue.exe testdoublePointLinkQueueWithoutHead.exe bracketMatch.exe infixToSuffix.exe infixToPrefix.exe calcFixExpre.exe stackFactorial.exe Fibonacci_array.exe symmetricMatrix.exe sparseMatrix.exe UpperTriangularMatrix.exe LowerTriangularMatrix.exe soldierQueue.exe twoDimenQueue.exe recentRequest.exe stackRealizeQueue.exe queueRealizeStack.exe testLinkString.exe KMP.exe insertSort.exe hillSort.exe KMP_WangDao.exe testHeroString.exe countChar.exe upperFirstLetter.exe findMax.exe judgeColor.exe pathEncrypte.exe subString.exe manipulateVal.exe ipInvalid.exe countStars.exe splitBalanceString.exe dynamicPassword.exe GoalResolver.exe countNumofString.exe testTree.exe testStaticBinaryTree.exe testHuffmanTree.exe testDisjointSet.exe testCirDoubleLinkWithHead.exe testlinkBinaryTree.exe judgeRoot.exe maxDepth.exe calDepthofBinaryTree.exe calcBoolbinaryTree.exe testBinaryTree_Hero.exe singleValTree.exe countNodes.exe preTravel.exe inTravel.exe postTravel.exe filpRootNode.exe countBinary.exe testBinarySearchTree.exe search_binarySearch.exe rangeSumBST.exe balance_BinarySearchTree.exe verifyBinarySearchTree.exe
+build all: phony main.exe testStaticSeqTable.exe testDynamicSeqTable.exe oddProduct.exe valCount.exe singerMark.exe guessNum.exe takeCoin.exe minIndex.exe maxNumofContinOne.exe absoluteK.exe maxProduct.exe sumK.exe triadCount.exe removeEle.exe buildArray.exe arrayConcat.exe candyKid.exe arrayMiddle.exe singleEle.exe yanghuiTriangle.exe testSingleLinkWithHead.exe testSingleLinkWithoutHead.exe sumArray.exe orderList.exe superStair.exe binaryInvertPos.exe countBack_K.exe trainPlan.exe middleNode.exe delMiddleNode.exe removeElem.exe delNode.exe delRepeatEle.exe delCountBack_N.exe remRepeatNode.exe arrangeBook.exe reverseLink.exe testDoubleLinkWithHead.cpp.exe trainPlan3.exe reverseLink2.exe testStaticStack.exe teststaticSharedStack.exe testLinkStack.exe teststaticStack_Hero.exe testLinkStack_Hero.exe testCppStack.exe decToBinary.exe dectoAny.exe arrangeBook_Stack.exe palindromeLink.exe validBracket.exe testStaticQueue.exe testdoublePointLinkQueueWithoutHead.exe bracketMatch.exe infixToSuffix.exe infixToPrefix.exe calcFixExpre.exe stackFactorial.exe Fibonacci_array.exe symmetricMatrix.exe sparseMatrix.exe UpperTriangularMatrix.exe LowerTriangularMatrix.exe soldierQueue.exe twoDimenQueue.exe recentRequest.exe stackRealizeQueue.exe queueRealizeStack.exe testLinkString.exe KMP.exe insertSort.exe hillSort.exe KMP_WangDao.exe testHeroString.exe countChar.exe upperFirstLetter.exe findMax.exe judgeColor.exe pathEncrypte.exe subString.exe manipulateVal.exe ipInvalid.exe countStars.exe splitBalanceString.exe dynamicPassword.exe GoalResolver.exe countNumofString.exe testTree.exe testStaticBinaryTree.exe testHuffmanTree.exe testDisjointSet.exe testCirDoubleLinkWithHead.exe testlinkBinaryTree.exe judgeRoot.exe maxDepth.exe calDepthofBinaryTree.exe calcBoolbinaryTree.exe testBinaryTree_Hero.exe singleValTree.exe countNodes.exe preTravel.exe inTravel.exe postTravel.exe filpRootNode.exe countBinary.exe testBinarySearchTree.exe search_binarySearch.exe rangeSumBST.exe balance_BinarySearchTree.exe verifyBinarySearchTree.exe increaseSearchTree.exe minDifference.exe sumOfTwoNum.exe searchTreeMode.exe recoverSearchTree.exe deleteSearchTreeNode.exe
 
 # =============================================================================
 # Built-in targets

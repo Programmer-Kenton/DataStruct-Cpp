@@ -571,3 +571,39 @@ add_executable(
         chapter05-tree/tree-Hero/head/binarySearchTree.h
         chapter05-tree/tree-Hero/source/binarySearchTree.cpp
 )
+
+add_executable(
+        increaseSearchTree chapter05-tree/LeetCode/increaseSearchTree.cpp
+        chapter05-tree/tree-Hero/head/binarySearchTree.h
+        chapter05-tree/tree-Hero/source/binarySearchTree.cpp
+)
+
+add_executable(
+        minDifference chapter05-tree/LeetCode/minDifference.cpp
+        chapter05-tree/tree-Hero/head/binarySearchTree.h
+        chapter05-tree/tree-Hero/source/binarySearchTree.cpp
+)
+
+add_executable(
+        sumOfTwoNum chapter05-tree/LeetCode/sumOfTwoNum.cpp
+        chapter05-tree/tree-Hero/head/binarySearchTree.h
+        chapter05-tree/tree-Hero/source/binarySearchTree.cpp
+)
+
+add_executable(
+        searchTreeMode chapter05-tree/LeetCode/searchTreeMode.cpp
+        chapter05-tree/tree-Hero/head/binarySearchTree.h
+        chapter05-tree/tree-Hero/source/binarySearchTree.cpp
+)
+
+add_executable(
+        recoverSearchTree chapter05-tree/LeetCode/recoverSearchTree.cpp
+        chapter05-tree/tree-Hero/head/binarySearchTree.h
+        chapter05-tree/tree-Hero/source/binarySearchTree.cpp
+)
+
+add_executable(
+        deleteSearchTreeNode chapter05-tree/LeetCode/deleteSearchTreeNode.cpp
+        chapter05-tree/tree-Hero/head/binarySearchTree.h
+        chapter05-tree/tree-Hero/source/binarySearchTree.cpp
+)
