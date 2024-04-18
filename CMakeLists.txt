@@ -607,3 +607,40 @@ add_executable(
         chapter05-tree/tree-Hero/head/binarySearchTree.h
         chapter05-tree/tree-Hero/source/binarySearchTree.cpp
 )
+
+add_executable(
+        testAdjacencyMatrix chapter06-figure/figure-Hero/test/testAdjacencyMatrix.cpp
+        chapter06-figure/figure-Hero/head/adjacencyMatrix.h
+        chapter06-figure/figure-Hero/source/adjacencyMatrix.cpp
+)
+
+add_executable(
+        testUndirectedGraph chapter06-figure/storeFigure/test/testUndirectedGraph.cpp
+        chapter06-figure/storeFigure/head/UndirectedGraph.h
+        chapter06-figure/storeFigure/source/UndirectedGraph.cpp
+)
+
+add_executable(
+        testDirectedGraph chapter06-figure/storeFigure/test/testDirectedGraph.cpp
+        chapter06-figure/storeFigure/head/DirectedGraph.h
+        chapter06-figure/storeFigure/source/DirectedGraph.cpp
+)
+
+add_executable(
+        testUndirectedGraphWithList chapter06-figure/storeFigure/test/testUndirectedGraphWithList.cpp
+        chapter06-figure/storeFigure/head/UndirectedGraphWithList.h
+        chapter06-figure/storeFigure/source/UndirectedGraphWithList.cpp
+)
+
+add_executable(
+        testDirectedGraphWithList chapter06-figure/storeFigure/test/testDirectedGraphWithList.cpp
+        chapter06-figure/storeFigure/head/DirectedGraphWithList.h
+        chapter06-figure/storeFigure/source/DirectedGraphWithList.cpp
+)
+
+add_executable(
+        testDirectedGraphWithCrossWordList chapter06-figure/storeFigure/test/testDirectedGraphWithCrossWordList.cpp
+        chapter06-figure/storeFigure/head/DirectedGraphWithCrossWordList.h
+        chapter06-figure/storeFigure/source/DirectedGraphWithCrossWordList.cpp
+
+)

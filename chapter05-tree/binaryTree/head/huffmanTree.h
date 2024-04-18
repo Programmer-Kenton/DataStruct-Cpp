@@ -1,5 +1,5 @@
 /**
- * @Description C++实现哈夫曼树
+ * @Description TODO C++实现哈夫曼树
  * @Version 1.0.0
  * @Date 2024/4/15 21:32
  * @Author Kenton
@@ -22,7 +22,6 @@ struct HuffmanNode {
     int frequency;
     // 左右子节点
     HuffmanNode *left, *right;
-
     // 构造函数
     HuffmanNode(char data, int frequency) : data(data), frequency(frequency), left(nullptr), right(nullptr) {}
 };

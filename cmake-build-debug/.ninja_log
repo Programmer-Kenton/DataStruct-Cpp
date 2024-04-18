@@ -6,6 +6,7 @@
 404	507	7336775300815684	testSingleLinkWithoutHead.exe	6fb350d3eebcdcb6
 6	394	7333816897458683	CMakeFiles/testStaticSeqTable.dir/chapter02-Linear_List/01Sequence_table/test/testStaticSeqTable.cpp.obj	48eb920bf85a2192
 472	603	7348478456152322	testLinkStack.exe	b4d18c4ee723dced
+14	548	7351070713577564	CMakeFiles/testUndirectedGraphWithList.dir/chapter06-figure/storeFigure/source/UndirectedGraphWithList.cpp.obj	8cc58dea060ebcd0
 10	559	7345410154377875	CMakeFiles/UpperTriangularMatrix.dir/chapter03-stack-queue/Stack/LeetCode/UpperTriangularMatrix.cpp.obj	4d618ae6d01810ef
 3	460	7334013736934563	CMakeFiles/sumK.dir/chapter02-Linear_List/01Sequence_table/LeetCode/sumK.cpp.obj	e78f6df46bd1ab3b
 4	374	7333960619778100	CMakeFiles/singerMark.dir/chapter02-Linear_List/01Sequence_table/LeetCode/singerMark.cpp.obj	eaa919053cdfe411
@@ -14,7 +15,7 @@
 421	549	7333838801503532	testDynamicSeqTable.exe	187c6a0e696ae4ce
 9	434	7341634448391940	CMakeFiles/testStaticStack.dir/chapter03-stack-queue/Stack/source/staticStack.cpp.obj	ef6518b060bff502
 403	520	7337228609121675	countBack_K.exe	3f388a71eabaa879
-5	453	7350237331585780	build.ninja	25da0abe6dbef06c
+5	453	7351093569357208	build.ninja	25da0abe6dbef06c
 513	640	7342449124243465	validBracket.exe	2cdacf3476977a5d
 371	474	7333872991722205	valCount.exe	6568d5a97f32750a
 5	422	7333852950572761	CMakeFiles/oddProduct.dir/chapter02-Linear_List/01Sequence_table/source/dynamic_SeqTable.cpp.obj	1292c1b49c81be7b
@@ -49,7 +50,7 @@
 5	455	7334028103302064	CMakeFiles/triadCount.dir/chapter02-Linear_List/01Sequence_table/LeetCode/triadCount.cpp.obj	4c51c7d396c61a12
 5	444	7341794961598648	CMakeFiles/dectoAny.dir/chapter03-stack-queue/Stack/LeetCode/decToAny.cpp.obj	1ef137cef7b08046
 2	482	7334098437119305	CMakeFiles/arrayMiddle.dir/chapter02-Linear_List/01Sequence_table/LeetCode/arrayMiddle.cpp.obj	7ce4900b2e610f76
-7	734	7348915863182747	CMakeFiles/testHuffmanTree.dir/chapter05-tree/binaryTree/test/testHuffmanTree.cpp.obj	b7d98b2d32e5d895
+40	916	7350586276252821	CMakeFiles/testHuffmanTree.dir/chapter05-tree/binaryTree/test/testHuffmanTree.cpp.obj	b7d98b2d32e5d895
 3	492	7335075382412042	CMakeFiles/maxProduct.dir/chapter02-Linear_List/01Sequence_table/LeetCode/maxProduct.cpp.obj	8b3a663ca674378
 5	488	7334053543675757	CMakeFiles/buildArray.dir/chapter02-Linear_List/01Sequence_table/LeetCode/buildArray.cpp.obj	e8df181e16c03bdf
 10	1168	7348915436097758	CMakeFiles/absDifference.dir/chapter02-Linear_List/01Sequence_table/LeetCode/absDifference.cpp.obj	aa0ab5ec0773b99c
@@ -59,10 +60,10 @@
 372	475	7336560980127070	testSingleLinkWithHead.exe	2546784ae00e1bab
 22	472	7348478454868692	CMakeFiles/testLinkStack.dir/chapter03-stack-queue/Stack/source/LinkStack.cpp.obj	822ba4739017215f
 529	670	7335066747734554	removeEle.exe	c994902020db6eab
-3	573	7334088202879770	CMakeFiles/candyKid.dir/chapter02-Linear_List/01Sequence_table/LeetCode/candyKid.cpp.obj	8acbb2d13899a779
 524	642	7342448880924884	bracketMatch.exe	a148e1439087fff7
 376	476	7337258618972355	middleNode.exe	7186be0d3cb0ef15
 375	473	7337265624782528	delMiddleNode.exe	3b9eb4bdca139da
+3	573	7334088202879770	CMakeFiles/candyKid.dir/chapter02-Linear_List/01Sequence_table/LeetCode/candyKid.cpp.obj	8acbb2d13899a779
 483	595	7334098438211662	arrayMiddle.exe	9b2989e3404faa43
 6	510	7334754010110119	CMakeFiles/yanghuiTriangle.dir/chapter02-Linear_List/01Sequence_table/LeetCode/yanghuiTriangle.cpp.obj	5328ccec565ac77
 27	136	7348915425777038	CMakeFiles/absDifference.dir/chapter05-tree/tree/test/testTree.cpp.obj	ee9bf8c83cf4652
@@ -73,6 +74,7 @@
 424	541	7336786046637133	sumArray.exe	c27d90cb78b13a2a
 378	482	7336795553766174	orderList.exe	33c503f1dfa99d9f
 371	476	7337280865108733	removeElem.exe	4ee6261209f67b05
+548	663	7351070714688995	testUndirectedGraphWithList.exe	575e00ffc7cbdf9d
 452	566	7337284975798217	delNode.exe	452cd61650fd2429
 367	469	7341580834841662	delRepeatEle.exe	a5836c9fce4ca977
 365	464	7337302303274748	delCountBack_N.exe	bee3042bbf2957dd
@@ -101,6 +103,7 @@
 436	545	7341634449483822	testStaticStack.exe	77e73dd7591180ef
 19	469	7348478454848038	CMakeFiles/testLinkStack.dir/chapter03-stack-queue/Stack/test/testLinkStack.cpp.obj	f1d1b5f88d5c23ad
 10	407	7341758591917461	CMakeFiles/teststaticStack_Hero.dir/chapter03-stack-queue/Stack/source/staticStack_Hero.cpp.obj	45445141c5161146
+656	787	7351093516519929	testDirectedGraphWithCrossWordList.exe	361d9a0bd65fddfe
 7	377	7341769587622218	CMakeFiles/teststaticStack_Hero.dir/chapter03-stack-queue/Stack/test/teststaticStack_Hero.cpp.obj	9ab02e2eff7dba1d
 378	480	7341769588599684	teststaticStack_Hero.exe	8f2a05e278c5314d
 8	402	7341769775520644	CMakeFiles/testLinkStack_Hero.dir/chapter03-stack-queue/Stack/source/LinkStack_Hero.cpp.obj	42287d73e7bf2d2b
@@ -121,6 +124,7 @@
 8	478	7347801600810515	CMakeFiles/KMP.dir/chapter04-string/LeetCode/KMP.cpp.obj	83b4232128001cfc
 483	604	7341817807950451	palindromeLink.exe	397fe3f27ad32824
 12	513	7342449123018397	CMakeFiles/validBracket.dir/chapter03-stack-queue/Stack/LeetCode/validBracket.cpp.obj	1444b568d5c2cbb9
+392	495	7350616184747707	testAdjacencyMatrix.exe	25eb8a9dc34b2506
 5	455	7341861724495872	CMakeFiles/testStaticQueue.dir/chapter03-stack-queue/Queue/test/testStaticQueue.cpp.obj	2560cd3230f8a1c5
 8	456	7341861724495872	CMakeFiles/testStaticQueue.dir/chapter03-stack-queue/Queue/source/staticQueue.cpp.obj	26cb073aa94aa22c
 10	446	7342446543463399	CMakeFiles/bracketMatch.dir/chapter03-stack-queue/Stack/source/LinkStack.cpp.obj	1a3bd4036c70703
@@ -153,8 +157,8 @@
 176	1399	7348915438417223	CMakeFiles/absDifference.dir/chapter05-tree/binaryTree/test/testHuffmanTree.cpp.obj	6d844820a3166812
 34	1463	7348915439041724	CMakeFiles/absDifference.dir/chapter05-tree/binaryTree/source/staticBinaryTree.cpp.obj	6bfdf6766c20c79c
 16	589	7348915558721814	CMakeFiles/absDifference.dir/chapter05-tree/binaryTree/source/linkBinaryTree.cpp.obj	7cfb031d67b0a102
-12	765	7348915863509364	CMakeFiles/testHuffmanTree.dir/chapter05-tree/binaryTree/source/huffmanTree.cpp.obj	44732aeef68ac881
-765	892	7348915864746954	testHuffmanTree.exe	b9859074002066ab
+44	946	7350586276552014	CMakeFiles/testHuffmanTree.dir/chapter05-tree/binaryTree/source/huffmanTree.cpp.obj	44732aeef68ac881
+946	1080	7350586277868494	testHuffmanTree.exe	b9859074002066ab
 9	484	7348934269201028	CMakeFiles/testDisjointSet.dir/chapter05-tree/binaryTree/test/testDisjointSet.cpp.obj	8a8f2c7f20d313b
 12	518	7348934269527715	CMakeFiles/testDisjointSet.dir/chapter05-tree/binaryTree/source/DisjointSet.cpp.obj	71be39f9f628ef9a
 126	385	7348991410785947	testDisjointSet.exe	9268cba8fb26e57b
@@ -169,3 +173,17 @@
 480	640	7349614926261170	testBinaryTree_Hero.exe	6961fe5f6c98e3ad
 14	425	7349720654478901	CMakeFiles/testBinarySearchTree.dir/chapter05-tree/tree-Hero/source/binarySearchTree.cpp.obj	1b3def9fcd7d0d2
 440	548	7349720655680410	testBinarySearchTree.exe	a7325217fd52b8ee
+13	392	7350616183740399	CMakeFiles/testAdjacencyMatrix.dir/chapter06-figure/figure-Hero/source/adjacencyMatrix.cpp.obj	ba195a1ed0c027ea
+12	506	7350615878724877	CMakeFiles/testAdjacencyMatrix.dir/chapter06-figure/figure-Hero/test/testAdjacencyMatrix.cpp.obj	4872887232146c1f
+15	673	7350669336818660	CMakeFiles/testUndirectedGraph.dir/chapter06-figure/storeFigure/test/testUndirectedGraph.cpp.obj	65a26ea0f674667b
+19	821	7350669338303005	CMakeFiles/testUndirectedGraph.dir/chapter06-figure/storeFigure/source/UndirectedGraph.cpp.obj	3fd416309a24411b
+821	957	7350669339631355	testUndirectedGraph.exe	8df70e997fea48b8
+14	725	7351058741761956	CMakeFiles/testDirectedGraph.dir/chapter06-figure/storeFigure/test/testDirectedGraph.cpp.obj	18365a2701bac64b
+16	585	7351058933487180	CMakeFiles/testDirectedGraph.dir/chapter06-figure/storeFigure/source/DirectedGraph.cpp.obj	bff09f7f6c5b8b0a
+585	717	7351058934794769	testDirectedGraph.exe	8c44b62e8fb2f5ef
+17	829	7351070606995361	CMakeFiles/testUndirectedGraphWithList.dir/chapter06-figure/storeFigure/test/testUndirectedGraphWithList.cpp.obj	76551aa3ca6d0901
+49	752	7351075213833423	CMakeFiles/testDirectedGraphWithList.dir/chapter06-figure/storeFigure/test/testDirectedGraphWithList.cpp.obj	4c7402d476b433aa
+23	537	7351075308552353	CMakeFiles/testDirectedGraphWithList.dir/chapter06-figure/storeFigure/source/DirectedGraphWithList.cpp.obj	7a2f54d0e15b60bf
+537	659	7351075309765159	testDirectedGraphWithList.exe	5ca386228c7d4b0e
+20	490	7351093392851269	CMakeFiles/testDirectedGraphWithCrossWordList.dir/chapter06-figure/storeFigure/test/testDirectedGraphWithCrossWordList.cpp.obj	5d12762f0e5dc233
+20	656	7351093515224615	CMakeFiles/testDirectedGraphWithCrossWordList.dir/chapter06-figure/storeFigure/source/DirectedGraphWithCrossWordList.cpp.obj	a223c7e915bcbef5
