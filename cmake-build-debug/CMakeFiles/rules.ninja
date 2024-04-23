@@ -1363,44 +1363,6 @@ rule CXX_EXECUTABLE_LINKER__KMP_Debug
 #############################################
 # Rule for compiling CXX files.
 
-rule CXX_COMPILER__insertSort_unscanned_Debug
-  depfile = $DEP_FILE
-  deps = gcc
-  command = ${LAUNCHER}${CODE_CHECK}"E:\ToolBox\CLion 2\bin\mingw\bin\g++.exe" $DEFINES $INCLUDES $FLAGS -MD -MT $out -MF $DEP_FILE -o $out -c $in
-  description = Building CXX object $out
-
-
-#############################################
-# Rule for linking CXX executable.
-
-rule CXX_EXECUTABLE_LINKER__insertSort_Debug
-  command = C:\WINDOWS\system32\cmd.exe /C "$PRE_LINK && "E:\ToolBox\CLion 2\bin\mingw\bin\g++.exe" $FLAGS $LINK_FLAGS $in -o $TARGET_FILE -Wl,--out-implib,$TARGET_IMPLIB -Wl,--major-image-version,0,--minor-image-version,0 $LINK_PATH $LINK_LIBRARIES && $POST_BUILD"
-  description = Linking CXX executable $TARGET_FILE
-  restat = $RESTAT
-
-
-#############################################
-# Rule for compiling CXX files.
-
-rule CXX_COMPILER__hillSort_unscanned_Debug
-  depfile = $DEP_FILE
-  deps = gcc
-  command = ${LAUNCHER}${CODE_CHECK}"E:\ToolBox\CLion 2\bin\mingw\bin\g++.exe" $DEFINES $INCLUDES $FLAGS -MD -MT $out -MF $DEP_FILE -o $out -c $in
-  description = Building CXX object $out
-
-
-#############################################
-# Rule for linking CXX executable.
-
-rule CXX_EXECUTABLE_LINKER__hillSort_Debug
-  command = C:\WINDOWS\system32\cmd.exe /C "$PRE_LINK && "E:\ToolBox\CLion 2\bin\mingw\bin\g++.exe" $FLAGS $LINK_FLAGS $in -o $TARGET_FILE -Wl,--out-implib,$TARGET_IMPLIB -Wl,--major-image-version,0,--minor-image-version,0 $LINK_PATH $LINK_LIBRARIES && $POST_BUILD"
-  description = Linking CXX executable $TARGET_FILE
-  restat = $RESTAT
-
-
-#############################################
-# Rule for compiling CXX files.
-
 rule CXX_COMPILER__KMP_WangDao_unscanned_Debug
   depfile = $DEP_FILE
   deps = gcc
@@ -2343,6 +2305,120 @@ rule CXX_COMPILER__testDirectedGraphWithCrossWordList_unscanned_Debug
 # Rule for linking CXX executable.
 
 rule CXX_EXECUTABLE_LINKER__testDirectedGraphWithCrossWordList_Debug
+  command = C:\WINDOWS\system32\cmd.exe /C "$PRE_LINK && "E:\ToolBox\CLion 2\bin\mingw\bin\g++.exe" $FLAGS $LINK_FLAGS $in -o $TARGET_FILE -Wl,--out-implib,$TARGET_IMPLIB -Wl,--major-image-version,0,--minor-image-version,0 $LINK_PATH $LINK_LIBRARIES && $POST_BUILD"
+  description = Linking CXX executable $TARGET_FILE
+  restat = $RESTAT
+
+
+#############################################
+# Rule for compiling CXX files.
+
+rule CXX_COMPILER__directInsertion_unscanned_Debug
+  depfile = $DEP_FILE
+  deps = gcc
+  command = ${LAUNCHER}${CODE_CHECK}"E:\ToolBox\CLion 2\bin\mingw\bin\g++.exe" $DEFINES $INCLUDES $FLAGS -MD -MT $out -MF $DEP_FILE -o $out -c $in
+  description = Building CXX object $out
+
+
+#############################################
+# Rule for linking CXX executable.
+
+rule CXX_EXECUTABLE_LINKER__directInsertion_Debug
+  command = C:\WINDOWS\system32\cmd.exe /C "$PRE_LINK && "E:\ToolBox\CLion 2\bin\mingw\bin\g++.exe" $FLAGS $LINK_FLAGS $in -o $TARGET_FILE -Wl,--out-implib,$TARGET_IMPLIB -Wl,--major-image-version,0,--minor-image-version,0 $LINK_PATH $LINK_LIBRARIES && $POST_BUILD"
+  description = Linking CXX executable $TARGET_FILE
+  restat = $RESTAT
+
+
+#############################################
+# Rule for compiling CXX files.
+
+rule CXX_COMPILER__directInsertionWithSentry_unscanned_Debug
+  depfile = $DEP_FILE
+  deps = gcc
+  command = ${LAUNCHER}${CODE_CHECK}"E:\ToolBox\CLion 2\bin\mingw\bin\g++.exe" $DEFINES $INCLUDES $FLAGS -MD -MT $out -MF $DEP_FILE -o $out -c $in
+  description = Building CXX object $out
+
+
+#############################################
+# Rule for linking CXX executable.
+
+rule CXX_EXECUTABLE_LINKER__directInsertionWithSentry_Debug
+  command = C:\WINDOWS\system32\cmd.exe /C "$PRE_LINK && "E:\ToolBox\CLion 2\bin\mingw\bin\g++.exe" $FLAGS $LINK_FLAGS $in -o $TARGET_FILE -Wl,--out-implib,$TARGET_IMPLIB -Wl,--major-image-version,0,--minor-image-version,0 $LINK_PATH $LINK_LIBRARIES && $POST_BUILD"
+  description = Linking CXX executable $TARGET_FILE
+  restat = $RESTAT
+
+
+#############################################
+# Rule for compiling CXX files.
+
+rule CXX_COMPILER__halfInsertSortWithSentry_unscanned_Debug
+  depfile = $DEP_FILE
+  deps = gcc
+  command = ${LAUNCHER}${CODE_CHECK}"E:\ToolBox\CLion 2\bin\mingw\bin\g++.exe" $DEFINES $INCLUDES $FLAGS -MD -MT $out -MF $DEP_FILE -o $out -c $in
+  description = Building CXX object $out
+
+
+#############################################
+# Rule for linking CXX executable.
+
+rule CXX_EXECUTABLE_LINKER__halfInsertSortWithSentry_Debug
+  command = C:\WINDOWS\system32\cmd.exe /C "$PRE_LINK && "E:\ToolBox\CLion 2\bin\mingw\bin\g++.exe" $FLAGS $LINK_FLAGS $in -o $TARGET_FILE -Wl,--out-implib,$TARGET_IMPLIB -Wl,--major-image-version,0,--minor-image-version,0 $LINK_PATH $LINK_LIBRARIES && $POST_BUILD"
+  description = Linking CXX executable $TARGET_FILE
+  restat = $RESTAT
+
+
+#############################################
+# Rule for compiling CXX files.
+
+rule CXX_COMPILER__halfInsertSortWithoutSentry_unscanned_Debug
+  depfile = $DEP_FILE
+  deps = gcc
+  command = ${LAUNCHER}${CODE_CHECK}"E:\ToolBox\CLion 2\bin\mingw\bin\g++.exe" $DEFINES $INCLUDES $FLAGS -MD -MT $out -MF $DEP_FILE -o $out -c $in
+  description = Building CXX object $out
+
+
+#############################################
+# Rule for linking CXX executable.
+
+rule CXX_EXECUTABLE_LINKER__halfInsertSortWithoutSentry_Debug
+  command = C:\WINDOWS\system32\cmd.exe /C "$PRE_LINK && "E:\ToolBox\CLion 2\bin\mingw\bin\g++.exe" $FLAGS $LINK_FLAGS $in -o $TARGET_FILE -Wl,--out-implib,$TARGET_IMPLIB -Wl,--major-image-version,0,--minor-image-version,0 $LINK_PATH $LINK_LIBRARIES && $POST_BUILD"
+  description = Linking CXX executable $TARGET_FILE
+  restat = $RESTAT
+
+
+#############################################
+# Rule for compiling CXX files.
+
+rule CXX_COMPILER__insertSortOfLink_unscanned_Debug
+  depfile = $DEP_FILE
+  deps = gcc
+  command = ${LAUNCHER}${CODE_CHECK}"E:\ToolBox\CLion 2\bin\mingw\bin\g++.exe" $DEFINES $INCLUDES $FLAGS -MD -MT $out -MF $DEP_FILE -o $out -c $in
+  description = Building CXX object $out
+
+
+#############################################
+# Rule for linking CXX executable.
+
+rule CXX_EXECUTABLE_LINKER__insertSortOfLink_Debug
+  command = C:\WINDOWS\system32\cmd.exe /C "$PRE_LINK && "E:\ToolBox\CLion 2\bin\mingw\bin\g++.exe" $FLAGS $LINK_FLAGS $in -o $TARGET_FILE -Wl,--out-implib,$TARGET_IMPLIB -Wl,--major-image-version,0,--minor-image-version,0 $LINK_PATH $LINK_LIBRARIES && $POST_BUILD"
+  description = Linking CXX executable $TARGET_FILE
+  restat = $RESTAT
+
+
+#############################################
+# Rule for compiling CXX files.
+
+rule CXX_COMPILER__insertSortOfLinkWithSentry_unscanned_Debug
+  depfile = $DEP_FILE
+  deps = gcc
+  command = ${LAUNCHER}${CODE_CHECK}"E:\ToolBox\CLion 2\bin\mingw\bin\g++.exe" $DEFINES $INCLUDES $FLAGS -MD -MT $out -MF $DEP_FILE -o $out -c $in
+  description = Building CXX object $out
+
+
+#############################################
+# Rule for linking CXX executable.
+
+rule CXX_EXECUTABLE_LINKER__insertSortOfLinkWithSentry_Debug
   command = C:\WINDOWS\system32\cmd.exe /C "$PRE_LINK && "E:\ToolBox\CLion 2\bin\mingw\bin\g++.exe" $FLAGS $LINK_FLAGS $in -o $TARGET_FILE -Wl,--out-implib,$TARGET_IMPLIB -Wl,--major-image-version,0,--minor-image-version,0 $LINK_PATH $LINK_LIBRARIES && $POST_BUILD"
   description = Linking CXX executable $TARGET_FILE
   restat = $RESTAT

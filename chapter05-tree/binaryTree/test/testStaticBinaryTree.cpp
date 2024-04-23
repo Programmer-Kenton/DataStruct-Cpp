@@ -70,6 +70,10 @@ int main() {
     std::cout << "Levelorder traversal of tree-Hero built from postorder and inorder: ";
     treeFromPostIn->levelOrder(); // 5 3 7 2 4 6 8
 
+    std::vector<int> levelorder = {5,3,7,2,4,6,8};
+    staticBinaryTree *treeFromLevelInPub = treeInstance.buildTreeFromLevelInPub(levelorder, inorder);
+    treeFromLevelInPub->levelOrder();
+
     // 释放动态分配的内存
     delete treeFromPreIn;
     delete treeFromPostIn;

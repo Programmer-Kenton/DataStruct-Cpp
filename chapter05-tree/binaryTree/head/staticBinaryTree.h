@@ -115,6 +115,9 @@ public:
 
     // 根据后序遍历序列和中序遍历序列构建二叉树的公共函数
     staticBinaryTree* buildTreeFromPostIn(std::vector<int>& postorder, std::vector<int>& inorder);
+
+    // 根据中序遍历序列和层序遍历序列构建二叉树的公共函数
+    staticBinaryTree* buildTreeFromLevelInPub(std::vector<int>& levelorder, std::vector<int>& inorder);
 };
 
 

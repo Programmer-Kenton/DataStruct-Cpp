@@ -18,7 +18,7 @@ std::vector<int> buildNext(const std::string &pattern) {
 
     // 跟踪当前已匹配的最长后缀长度
     int j = 0;
-    printf("next[%d] = %d\n",j,next[0]);
+    printf("next[%d] = %d\n",j,next[j]);
 
     // 从第二个字符开始遍历字符串
     for (int i = 1; i < n; ++i) {
@@ -82,18 +82,18 @@ std::vector<int> kmpSearch(const std::string &text, const std::string &pattern) 
 
 int main() {
     std::string text = "ababcabcaabcac";
-    std::string pattern = "ababcaa";
-
+    std::string pattern = "ab";
+                      //     000112
     std::vector<int> match_positions = kmpSearch(text, pattern);
 
     if (!match_positions.empty()) {
-        std::cout << "Pattern \"" << pattern << "\" found at positions: ";
+        std::cout << "字符串:" << pattern << " 出现的位置为:";
         for (int pos : match_positions) {
             std::cout << pos << " ";
         }
         std::cout << std::endl;
     } else {
-        std::cout << "Pattern \"" << pattern << "\" not found in the given text." << std::endl;
+        std::cout << "字符串:" << pattern << "没有在主串中" << std::endl;
     }
 
     return 0;

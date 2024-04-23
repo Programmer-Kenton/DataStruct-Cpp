@@ -68,7 +68,7 @@ private:
     TreeNode* rightmost(TreeNode* node);
 
 public:
-    // 构造函数和析构函数
+
     // 构造函数
     linkBinaryTree();
 

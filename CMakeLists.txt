@@ -364,14 +364,6 @@ add_executable(
         KMP chapter04-string/LeetCode/KMP.cpp
 )
 
-add_executable(
-        insertSort chapter08-sort/insertSort.cpp
-)
-
-add_executable(
-        hillSort chapter08-sort/hillSort.cpp
-)
-
 
 add_executable(
         KMP_WangDao chapter04-string/LeetCode/KMP_WangDao.cpp
@@ -644,3 +636,20 @@ add_executable(
         chapter06-figure/storeFigure/source/DirectedGraphWithCrossWordList.cpp
 
 )
+
+
+add_executable(
+        directInsertion chapter08-sort/InsertionSort/directInsertion.cpp
+)
+
+add_executable(
+        directInsertionWithSentry chapter08-sort/InsertionSort/directInsertionWithSentry.cpp
+)
+
+add_executable(halfInsertSortWithSentry chapter08-sort/InsertionSort/halfInsertSortWithSentry.cpp)
+
+add_executable(halfInsertSortWithoutSentry chapter08-sort/InsertionSort/halfInsertSortWithoutSentry.cpp)
+
+add_executable(insertSortOfLink chapter08-sort/InsertionSort/insertSortOfLink.cpp)
+
+add_executable(insertSortOfLinkWithSentry chapter08-sort/InsertionSort/insertSortOfLinkWithSentry.cpp)

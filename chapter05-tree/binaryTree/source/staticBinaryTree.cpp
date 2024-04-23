@@ -106,7 +106,7 @@ void staticBinaryTree::preOrderTraversal(TreeNode *root) {
 }
 
 void staticBinaryTree::preOrder() {
-    inOrderTraversal(root);
+    preOrderTraversal(root);
     std::cout << std::endl;
 }
 
@@ -229,14 +229,16 @@ void staticBinaryTree::levelOrder() {
     std::cout << std::endl;
 }
 
-TreeNode *staticBinaryTree::buildTreeFromPreIn(std::vector<int> &preorder, std::vector<int> &inorder, int preStart, int inStart,int inEnd) {
+TreeNode *
+staticBinaryTree::buildTreeFromPreIn(std::vector<int> &preorder, std::vector<int> &inorder, int preStart, int inStart,
+                                     int inEnd) {
     // 边界情况处理
     // 首先检查索引是否超出了遍历序列的范围，如果是，则返回nullptr表示当前子树为空。
     if (preStart > preorder.size() - 1 || inStart > inEnd) return nullptr;
 
     // 创建当前节点
     // 根据前序遍历的特性，序列的第一个元素是当前子树的根节点的值
-    TreeNode* root = new TreeNode();
+    TreeNode *root = new TreeNode();
     // 根据前序遍历序列确定当前节点的数据
     root->data = preorder[preStart];
 
@@ -265,19 +267,20 @@ TreeNode *staticBinaryTree::buildTreeFromPreIn(std::vector<int> &preorder, std::
 
 staticBinaryTree *staticBinaryTree::buildTreeFromPreIn(std::vector<int> &preorder, std::vector<int> &inorder) {
     // 创建二叉树对象
-    staticBinaryTree* tree = new staticBinaryTree();
+    staticBinaryTree *tree = new staticBinaryTree();
     // 调用辅助函数构建二叉树
     tree->root = buildTreeFromPreIn(preorder, inorder, 0, 0, inorder.size() - 1);
     return tree;
 }
 
-TreeNode *staticBinaryTree::buildTreeFromPostIn(std::vector<int> &postorder, std::vector<int> &inorder, int postStart,int inStart, int inEnd) {
+TreeNode *staticBinaryTree::buildTreeFromPostIn(std::vector<int> &postorder, std::vector<int> &inorder, int postStart,
+                                                int inStart, int inEnd) {
     // 边界情况处理
     // 前序遍历数组为空或者中序遍历结束 返回空
     if (postStart < 0 || inStart > inEnd) return nullptr;
 
     // 创建当前节点
-    TreeNode* root = new TreeNode();
+    TreeNode *root = new TreeNode();
     // 根据后序遍历序列确定当前节点的数据 后续遍历的最后一个数据为总根结点
     root->data = postorder[postStart];
 
@@ -293,73 +296,76 @@ TreeNode *staticBinaryTree::buildTreeFromPostIn(std::vector<int> &postorder, std
     // 分而治之 递归构建左子树和右子树
     // 后序序列的前一个节点是左子树的根节点
     root->left = buildTreeFromPostIn(postorder, inorder, postStart - (inEnd - inIndex) - 1, inStart, inIndex - 1);
-    root->right = buildTreeFromPostIn(postorder, inorder, postStart - 1, inIndex + 1, inEnd); // 后序序列中的右子树的根节点是当前节点的前一个节点
+    root->right = buildTreeFromPostIn(postorder, inorder, postStart - 1, inIndex + 1,
+                                      inEnd); // 后序序列中的右子树的根节点是当前节点的前一个节点
 
     return root;
 }
 
 staticBinaryTree *staticBinaryTree::buildTreeFromPostIn(std::vector<int> &postorder, std::vector<int> &inorder) {
     // 创建二叉树对象
-    staticBinaryTree* tree = new staticBinaryTree();
+    staticBinaryTree *tree = new staticBinaryTree();
     // 调用辅助函数构建二叉树
     tree->root = buildTreeFromPostIn(postorder, inorder, postorder.size() - 1, 0, inorder.size() - 1);
     return tree;
 }
 
 TreeNode *staticBinaryTree::buildTreeFromLevelIn(std::vector<int> &levelorder, std::vector<int> &inorder) {
-    // 空序列的情况处理
-    if (levelorder.empty() || inorder.empty()) return nullptr;
+    // 如果层序遍历序列或者中序遍历序列为空，直接返回空指针，因为无法构建二叉树
+    if (levelorder.empty() || inorder.empty()) {
+        return nullptr;
+    }
 
-    // 根节点指针
-    TreeNode* root = nullptr;
-    // 辅助队列
+    // 创建一个队列，用于辅助构建二叉树
     std::queue<TreeNode*> q;
 
-    // 从层序遍历序列中取出第一个节点作为根节点
-    root = new TreeNode();
-    root->data = levelorder.front();
-    // 删除已经处理过的节点
-    levelorder.erase(levelorder.begin());
-    // 将根节点入队
+    // 创建根节点，并将其值设为层序遍历序列的第一个元素
+    TreeNode* root = new TreeNode();
+    root->data = levelorder[0];
+    root->left = nullptr;
+    root->right = nullptr;
+
     q.push(root);
 
     while (!q.empty()) {
-        // 获取队首节点
         TreeNode* current = q.front();
-        // 弹出队首节点
         q.pop();
 
-        // 在中序遍历序列中找到当前节点的位置
-        int inIndex = 0;
-        for (int i = 0; i < inorder.size(); ++i) {
-            if (inorder[i] == current->data) {
-                inIndex = i;
-                break;
-            }
-        }
+        // 找到当前节点在中序遍历序列中的位置
+        auto it = std::find(inorder.begin(), inorder.end(), current->data);
+        int index = std::distance(inorder.begin(), it);
 
         // 构建左子树
-        if (inIndex > 0 && std::find(levelorder.begin(), levelorder.end(), inorder[inIndex - 1]) != levelorder.end()) {
+        if (index > 0) {
             current->left = new TreeNode();
-            current->left->data = inorder[inIndex - 1];
-            // 删除已处理的节点
-            levelorder.erase(std::find(levelorder.begin(), levelorder.end(), inorder[inIndex - 1]));
-            // 将左子节点入队
+            current->left->data = levelorder[1];
+            current->left->left = nullptr;
+            current->left->right = nullptr;
             q.push(current->left);
         }
 
         // 构建右子树
-        if (inIndex < inorder.size() - 1 && std::find(levelorder.begin(), levelorder.end(), inorder[inIndex + 1]) != levelorder.end()) {
+        if (index < inorder.size() - 1) {
             current->right = new TreeNode();
-            current->right->data = inorder[inIndex + 1];
-            // 删除已处理的节点
-            levelorder.erase(std::find(levelorder.begin(), levelorder.end(), inorder[inIndex + 1]));
-            // 将右子节点入队
+            current->right->data = levelorder[2];
+            current->right->left = nullptr;
+            current->right->right = nullptr;
             q.push(current->right);
         }
+
+        // 更新层序遍历序列
+        levelorder.erase(levelorder.begin(), levelorder.begin() + 1);
     }
 
     return root;
 }
+
+staticBinaryTree *staticBinaryTree::buildTreeFromLevelInPub(std::vector<int> &levelorder, std::vector<int> &inorder) {
+    staticBinaryTree* tree = new staticBinaryTree();
+    tree->root = tree->buildTreeFromLevelIn(levelorder, inorder);
+    return tree;
+}
+
+
 
 

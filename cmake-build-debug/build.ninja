@@ -2642,72 +2642,6 @@ build KMP.exe: CXX_EXECUTABLE_LINKER__KMP_Debug CMakeFiles/KMP.dir/chapter04-str
   TARGET_PDB = KMP.exe.dbg
 
 # =============================================================================
-# Object build statements for EXECUTABLE target insertSort
-
-
-#############################################
-# Order-only phony target for insertSort
-
-build cmake_object_order_depends_target_insertSort: phony || CMakeFiles/insertSort.dir
-
-build CMakeFiles/insertSort.dir/chapter08-sort/insertSort.cpp.obj: CXX_COMPILER__insertSort_unscanned_Debug D$:/C_Study/WorkSpace/Cpp_Study/08DataStruct/chapter08-sort/insertSort.cpp || cmake_object_order_depends_target_insertSort
-  DEP_FILE = CMakeFiles\insertSort.dir\chapter08-sort\insertSort.cpp.obj.d
-  FLAGS = -g -fdiagnostics-color=always
-  OBJECT_DIR = CMakeFiles\insertSort.dir
-  OBJECT_FILE_DIR = CMakeFiles\insertSort.dir\chapter08-sort
-
-
-# =============================================================================
-# Link build statements for EXECUTABLE target insertSort
-
-
-#############################################
-# Link the executable insertSort.exe
-
-build insertSort.exe: CXX_EXECUTABLE_LINKER__insertSort_Debug CMakeFiles/insertSort.dir/chapter08-sort/insertSort.cpp.obj
-  FLAGS = -g
-  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
-  OBJECT_DIR = CMakeFiles\insertSort.dir
-  POST_BUILD = cd .
-  PRE_LINK = cd .
-  TARGET_FILE = insertSort.exe
-  TARGET_IMPLIB = libinsertSort.dll.a
-  TARGET_PDB = insertSort.exe.dbg
-
-# =============================================================================
-# Object build statements for EXECUTABLE target hillSort
-
-
-#############################################
-# Order-only phony target for hillSort
-
-build cmake_object_order_depends_target_hillSort: phony || CMakeFiles/hillSort.dir
-
-build CMakeFiles/hillSort.dir/chapter08-sort/hillSort.cpp.obj: CXX_COMPILER__hillSort_unscanned_Debug D$:/C_Study/WorkSpace/Cpp_Study/08DataStruct/chapter08-sort/hillSort.cpp || cmake_object_order_depends_target_hillSort
-  DEP_FILE = CMakeFiles\hillSort.dir\chapter08-sort\hillSort.cpp.obj.d
-  FLAGS = -g -fdiagnostics-color=always
-  OBJECT_DIR = CMakeFiles\hillSort.dir
-  OBJECT_FILE_DIR = CMakeFiles\hillSort.dir\chapter08-sort
-
-
-# =============================================================================
-# Link build statements for EXECUTABLE target hillSort
-
-
-#############################################
-# Link the executable hillSort.exe
-
-build hillSort.exe: CXX_EXECUTABLE_LINKER__hillSort_Debug CMakeFiles/hillSort.dir/chapter08-sort/hillSort.cpp.obj
-  FLAGS = -g
-  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
-  OBJECT_DIR = CMakeFiles\hillSort.dir
-  POST_BUILD = cd .
-  PRE_LINK = cd .
-  TARGET_FILE = hillSort.exe
-  TARGET_IMPLIB = libhillSort.dll.a
-  TARGET_PDB = hillSort.exe.dbg
-
-# =============================================================================
 # Object build statements for EXECUTABLE target KMP_WangDao
 
 
@@ -4579,6 +4513,204 @@ build testDirectedGraphWithCrossWordList.exe: CXX_EXECUTABLE_LINKER__testDirecte
   TARGET_IMPLIB = libtestDirectedGraphWithCrossWordList.dll.a
   TARGET_PDB = testDirectedGraphWithCrossWordList.exe.dbg
 
+# =============================================================================
+# Object build statements for EXECUTABLE target directInsertion
+
+
+#############################################
+# Order-only phony target for directInsertion
+
+build cmake_object_order_depends_target_directInsertion: phony || CMakeFiles/directInsertion.dir
+
+build CMakeFiles/directInsertion.dir/chapter08-sort/InsertionSort/directInsertion.cpp.obj: CXX_COMPILER__directInsertion_unscanned_Debug D$:/C_Study/WorkSpace/Cpp_Study/08DataStruct/chapter08-sort/InsertionSort/directInsertion.cpp || cmake_object_order_depends_target_directInsertion
+  DEP_FILE = CMakeFiles\directInsertion.dir\chapter08-sort\InsertionSort\directInsertion.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\directInsertion.dir
+  OBJECT_FILE_DIR = CMakeFiles\directInsertion.dir\chapter08-sort\InsertionSort
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target directInsertion
+
+
+#############################################
+# Link the executable directInsertion.exe
+
+build directInsertion.exe: CXX_EXECUTABLE_LINKER__directInsertion_Debug CMakeFiles/directInsertion.dir/chapter08-sort/InsertionSort/directInsertion.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\directInsertion.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = directInsertion.exe
+  TARGET_IMPLIB = libdirectInsertion.dll.a
+  TARGET_PDB = directInsertion.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target directInsertionWithSentry
+
+
+#############################################
+# Order-only phony target for directInsertionWithSentry
+
+build cmake_object_order_depends_target_directInsertionWithSentry: phony || CMakeFiles/directInsertionWithSentry.dir
+
+build CMakeFiles/directInsertionWithSentry.dir/chapter08-sort/InsertionSort/directInsertionWithSentry.cpp.obj: CXX_COMPILER__directInsertionWithSentry_unscanned_Debug D$:/C_Study/WorkSpace/Cpp_Study/08DataStruct/chapter08-sort/InsertionSort/directInsertionWithSentry.cpp || cmake_object_order_depends_target_directInsertionWithSentry
+  DEP_FILE = CMakeFiles\directInsertionWithSentry.dir\chapter08-sort\InsertionSort\directInsertionWithSentry.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\directInsertionWithSentry.dir
+  OBJECT_FILE_DIR = CMakeFiles\directInsertionWithSentry.dir\chapter08-sort\InsertionSort
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target directInsertionWithSentry
+
+
+#############################################
+# Link the executable directInsertionWithSentry.exe
+
+build directInsertionWithSentry.exe: CXX_EXECUTABLE_LINKER__directInsertionWithSentry_Debug CMakeFiles/directInsertionWithSentry.dir/chapter08-sort/InsertionSort/directInsertionWithSentry.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\directInsertionWithSentry.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = directInsertionWithSentry.exe
+  TARGET_IMPLIB = libdirectInsertionWithSentry.dll.a
+  TARGET_PDB = directInsertionWithSentry.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target halfInsertSortWithSentry
+
+
+#############################################
+# Order-only phony target for halfInsertSortWithSentry
+
+build cmake_object_order_depends_target_halfInsertSortWithSentry: phony || CMakeFiles/halfInsertSortWithSentry.dir
+
+build CMakeFiles/halfInsertSortWithSentry.dir/chapter08-sort/InsertionSort/halfInsertSortWithSentry.cpp.obj: CXX_COMPILER__halfInsertSortWithSentry_unscanned_Debug D$:/C_Study/WorkSpace/Cpp_Study/08DataStruct/chapter08-sort/InsertionSort/halfInsertSortWithSentry.cpp || cmake_object_order_depends_target_halfInsertSortWithSentry
+  DEP_FILE = CMakeFiles\halfInsertSortWithSentry.dir\chapter08-sort\InsertionSort\halfInsertSortWithSentry.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\halfInsertSortWithSentry.dir
+  OBJECT_FILE_DIR = CMakeFiles\halfInsertSortWithSentry.dir\chapter08-sort\InsertionSort
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target halfInsertSortWithSentry
+
+
+#############################################
+# Link the executable halfInsertSortWithSentry.exe
+
+build halfInsertSortWithSentry.exe: CXX_EXECUTABLE_LINKER__halfInsertSortWithSentry_Debug CMakeFiles/halfInsertSortWithSentry.dir/chapter08-sort/InsertionSort/halfInsertSortWithSentry.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\halfInsertSortWithSentry.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = halfInsertSortWithSentry.exe
+  TARGET_IMPLIB = libhalfInsertSortWithSentry.dll.a
+  TARGET_PDB = halfInsertSortWithSentry.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target halfInsertSortWithoutSentry
+
+
+#############################################
+# Order-only phony target for halfInsertSortWithoutSentry
+
+build cmake_object_order_depends_target_halfInsertSortWithoutSentry: phony || CMakeFiles/halfInsertSortWithoutSentry.dir
+
+build CMakeFiles/halfInsertSortWithoutSentry.dir/chapter08-sort/InsertionSort/halfInsertSortWithoutSentry.cpp.obj: CXX_COMPILER__halfInsertSortWithoutSentry_unscanned_Debug D$:/C_Study/WorkSpace/Cpp_Study/08DataStruct/chapter08-sort/InsertionSort/halfInsertSortWithoutSentry.cpp || cmake_object_order_depends_target_halfInsertSortWithoutSentry
+  DEP_FILE = CMakeFiles\halfInsertSortWithoutSentry.dir\chapter08-sort\InsertionSort\halfInsertSortWithoutSentry.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\halfInsertSortWithoutSentry.dir
+  OBJECT_FILE_DIR = CMakeFiles\halfInsertSortWithoutSentry.dir\chapter08-sort\InsertionSort
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target halfInsertSortWithoutSentry
+
+
+#############################################
+# Link the executable halfInsertSortWithoutSentry.exe
+
+build halfInsertSortWithoutSentry.exe: CXX_EXECUTABLE_LINKER__halfInsertSortWithoutSentry_Debug CMakeFiles/halfInsertSortWithoutSentry.dir/chapter08-sort/InsertionSort/halfInsertSortWithoutSentry.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\halfInsertSortWithoutSentry.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = halfInsertSortWithoutSentry.exe
+  TARGET_IMPLIB = libhalfInsertSortWithoutSentry.dll.a
+  TARGET_PDB = halfInsertSortWithoutSentry.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target insertSortOfLink
+
+
+#############################################
+# Order-only phony target for insertSortOfLink
+
+build cmake_object_order_depends_target_insertSortOfLink: phony || CMakeFiles/insertSortOfLink.dir
+
+build CMakeFiles/insertSortOfLink.dir/chapter08-sort/InsertionSort/insertSortOfLink.cpp.obj: CXX_COMPILER__insertSortOfLink_unscanned_Debug D$:/C_Study/WorkSpace/Cpp_Study/08DataStruct/chapter08-sort/InsertionSort/insertSortOfLink.cpp || cmake_object_order_depends_target_insertSortOfLink
+  DEP_FILE = CMakeFiles\insertSortOfLink.dir\chapter08-sort\InsertionSort\insertSortOfLink.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\insertSortOfLink.dir
+  OBJECT_FILE_DIR = CMakeFiles\insertSortOfLink.dir\chapter08-sort\InsertionSort
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target insertSortOfLink
+
+
+#############################################
+# Link the executable insertSortOfLink.exe
+
+build insertSortOfLink.exe: CXX_EXECUTABLE_LINKER__insertSortOfLink_Debug CMakeFiles/insertSortOfLink.dir/chapter08-sort/InsertionSort/insertSortOfLink.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\insertSortOfLink.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = insertSortOfLink.exe
+  TARGET_IMPLIB = libinsertSortOfLink.dll.a
+  TARGET_PDB = insertSortOfLink.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target insertSortOfLinkWithSentry
+
+
+#############################################
+# Order-only phony target for insertSortOfLinkWithSentry
+
+build cmake_object_order_depends_target_insertSortOfLinkWithSentry: phony || CMakeFiles/insertSortOfLinkWithSentry.dir
+
+build CMakeFiles/insertSortOfLinkWithSentry.dir/chapter08-sort/InsertionSort/insertSortOfLinkWithSentry.cpp.obj: CXX_COMPILER__insertSortOfLinkWithSentry_unscanned_Debug D$:/C_Study/WorkSpace/Cpp_Study/08DataStruct/chapter08-sort/InsertionSort/insertSortOfLinkWithSentry.cpp || cmake_object_order_depends_target_insertSortOfLinkWithSentry
+  DEP_FILE = CMakeFiles\insertSortOfLinkWithSentry.dir\chapter08-sort\InsertionSort\insertSortOfLinkWithSentry.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\insertSortOfLinkWithSentry.dir
+  OBJECT_FILE_DIR = CMakeFiles\insertSortOfLinkWithSentry.dir\chapter08-sort\InsertionSort
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target insertSortOfLinkWithSentry
+
+
+#############################################
+# Link the executable insertSortOfLinkWithSentry.exe
+
+build insertSortOfLinkWithSentry.exe: CXX_EXECUTABLE_LINKER__insertSortOfLinkWithSentry_Debug CMakeFiles/insertSortOfLinkWithSentry.dir/chapter08-sort/InsertionSort/insertSortOfLinkWithSentry.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\insertSortOfLinkWithSentry.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = insertSortOfLinkWithSentry.exe
+  TARGET_IMPLIB = libinsertSortOfLinkWithSentry.dll.a
+  TARGET_PDB = insertSortOfLinkWithSentry.exe.dbg
+
 
 #############################################
 # Utility command for edit_cache
@@ -4669,6 +4801,10 @@ build delRepeatEle: phony delRepeatEle.exe
 
 build deleteSearchTreeNode: phony deleteSearchTreeNode.exe
 
+build directInsertion: phony directInsertion.exe
+
+build directInsertionWithSentry: phony directInsertionWithSentry.exe
+
 build dynamicPassword: phony dynamicPassword.exe
 
 build filpRootNode: phony filpRootNode.exe
@@ -4677,7 +4813,9 @@ build findMax: phony findMax.exe
 
 build guessNum: phony guessNum.exe
 
-build hillSort: phony hillSort.exe
+build halfInsertSortWithSentry: phony halfInsertSortWithSentry.exe
+
+build halfInsertSortWithoutSentry: phony halfInsertSortWithoutSentry.exe
 
 build inTravel: phony inTravel.exe
 
@@ -4687,7 +4825,9 @@ build infixToPrefix: phony infixToPrefix.exe
 
 build infixToSuffix: phony infixToSuffix.exe
 
-build insertSort: phony insertSort.exe
+build insertSortOfLink: phony insertSortOfLink.exe
+
+build insertSortOfLinkWithSentry: phony insertSortOfLinkWithSentry.exe
 
 build ipInvalid: phony ipInvalid.exe
 
@@ -4859,7 +4999,7 @@ build yanghuiTriangle: phony yanghuiTriangle.exe
 #############################################
 # Folder: D:/C_Study/WorkSpace/Cpp_Study/08DataStruct/cmake-build-debug
 
-build all: phony main.exe testStaticSeqTable.exe testDynamicSeqTable.exe oddProduct.exe valCount.exe singerMark.exe guessNum.exe takeCoin.exe minIndex.exe maxNumofContinOne.exe absoluteK.exe maxProduct.exe sumK.exe triadCount.exe removeEle.exe buildArray.exe arrayConcat.exe candyKid.exe arrayMiddle.exe singleEle.exe yanghuiTriangle.exe testSingleLinkWithHead.exe testSingleLinkWithoutHead.exe sumArray.exe orderList.exe superStair.exe binaryInvertPos.exe countBack_K.exe trainPlan.exe middleNode.exe delMiddleNode.exe removeElem.exe delNode.exe delRepeatEle.exe delCountBack_N.exe remRepeatNode.exe arrangeBook.exe reverseLink.exe testDoubleLinkWithHead.cpp.exe trainPlan3.exe reverseLink2.exe testStaticStack.exe teststaticSharedStack.exe testLinkStack.exe teststaticStack_Hero.exe testLinkStack_Hero.exe testCppStack.exe decToBinary.exe dectoAny.exe arrangeBook_Stack.exe palindromeLink.exe validBracket.exe testStaticQueue.exe testdoublePointLinkQueueWithoutHead.exe bracketMatch.exe infixToSuffix.exe infixToPrefix.exe calcFixExpre.exe stackFactorial.exe Fibonacci_array.exe symmetricMatrix.exe sparseMatrix.exe UpperTriangularMatrix.exe LowerTriangularMatrix.exe soldierQueue.exe twoDimenQueue.exe recentRequest.exe stackRealizeQueue.exe queueRealizeStack.exe testLinkString.exe KMP.exe insertSort.exe hillSort.exe KMP_WangDao.exe testHeroString.exe countChar.exe upperFirstLetter.exe findMax.exe judgeColor.exe pathEncrypte.exe subString.exe manipulateVal.exe ipInvalid.exe countStars.exe splitBalanceString.exe dynamicPassword.exe GoalResolver.exe countNumofString.exe testTree.exe testStaticBinaryTree.exe testHuffmanTree.exe testDisjointSet.exe testCirDoubleLinkWithHead.exe testlinkBinaryTree.exe judgeRoot.exe maxDepth.exe calDepthofBinaryTree.exe calcBoolbinaryTree.exe testBinaryTree_Hero.exe singleValTree.exe countNodes.exe preTravel.exe inTravel.exe postTravel.exe filpRootNode.exe countBinary.exe testBinarySearchTree.exe search_binarySearch.exe rangeSumBST.exe balance_BinarySearchTree.exe verifyBinarySearchTree.exe increaseSearchTree.exe minDifference.exe sumOfTwoNum.exe searchTreeMode.exe recoverSearchTree.exe deleteSearchTreeNode.exe testAdjacencyMatrix.exe testUndirectedGraph.exe testDirectedGraph.exe testUndirectedGraphWithList.exe testDirectedGraphWithList.exe testDirectedGraphWithCrossWordList.exe
+build all: phony main.exe testStaticSeqTable.exe testDynamicSeqTable.exe oddProduct.exe valCount.exe singerMark.exe guessNum.exe takeCoin.exe minIndex.exe maxNumofContinOne.exe absoluteK.exe maxProduct.exe sumK.exe triadCount.exe removeEle.exe buildArray.exe arrayConcat.exe candyKid.exe arrayMiddle.exe singleEle.exe yanghuiTriangle.exe testSingleLinkWithHead.exe testSingleLinkWithoutHead.exe sumArray.exe orderList.exe superStair.exe binaryInvertPos.exe countBack_K.exe trainPlan.exe middleNode.exe delMiddleNode.exe removeElem.exe delNode.exe delRepeatEle.exe delCountBack_N.exe remRepeatNode.exe arrangeBook.exe reverseLink.exe testDoubleLinkWithHead.cpp.exe trainPlan3.exe reverseLink2.exe testStaticStack.exe teststaticSharedStack.exe testLinkStack.exe teststaticStack_Hero.exe testLinkStack_Hero.exe testCppStack.exe decToBinary.exe dectoAny.exe arrangeBook_Stack.exe palindromeLink.exe validBracket.exe testStaticQueue.exe testdoublePointLinkQueueWithoutHead.exe bracketMatch.exe infixToSuffix.exe infixToPrefix.exe calcFixExpre.exe stackFactorial.exe Fibonacci_array.exe symmetricMatrix.exe sparseMatrix.exe UpperTriangularMatrix.exe LowerTriangularMatrix.exe soldierQueue.exe twoDimenQueue.exe recentRequest.exe stackRealizeQueue.exe queueRealizeStack.exe testLinkString.exe KMP.exe KMP_WangDao.exe testHeroString.exe countChar.exe upperFirstLetter.exe findMax.exe judgeColor.exe pathEncrypte.exe subString.exe manipulateVal.exe ipInvalid.exe countStars.exe splitBalanceString.exe dynamicPassword.exe GoalResolver.exe countNumofString.exe testTree.exe testStaticBinaryTree.exe testHuffmanTree.exe testDisjointSet.exe testCirDoubleLinkWithHead.exe testlinkBinaryTree.exe judgeRoot.exe maxDepth.exe calDepthofBinaryTree.exe calcBoolbinaryTree.exe testBinaryTree_Hero.exe singleValTree.exe countNodes.exe preTravel.exe inTravel.exe postTravel.exe filpRootNode.exe countBinary.exe testBinarySearchTree.exe search_binarySearch.exe rangeSumBST.exe balance_BinarySearchTree.exe verifyBinarySearchTree.exe increaseSearchTree.exe minDifference.exe sumOfTwoNum.exe searchTreeMode.exe recoverSearchTree.exe deleteSearchTreeNode.exe testAdjacencyMatrix.exe testUndirectedGraph.exe testDirectedGraph.exe testUndirectedGraphWithList.exe testDirectedGraphWithList.exe testDirectedGraphWithCrossWordList.exe directInsertion.exe directInsertionWithSentry.exe halfInsertSortWithSentry.exe halfInsertSortWithoutSentry.exe insertSortOfLink.exe insertSortOfLinkWithSentry.exe
 
 # =============================================================================
 # Built-in targets

@@ -69,8 +69,6 @@ D:/C_Study/WorkSpace/Cpp_Study/08DataStruct/cmake-build-debug/CMakeFiles/stackRe
 D:/C_Study/WorkSpace/Cpp_Study/08DataStruct/cmake-build-debug/CMakeFiles/queueRealizeStack.dir
 D:/C_Study/WorkSpace/Cpp_Study/08DataStruct/cmake-build-debug/CMakeFiles/testLinkString.dir
 D:/C_Study/WorkSpace/Cpp_Study/08DataStruct/cmake-build-debug/CMakeFiles/KMP.dir
-D:/C_Study/WorkSpace/Cpp_Study/08DataStruct/cmake-build-debug/CMakeFiles/insertSort.dir
-D:/C_Study/WorkSpace/Cpp_Study/08DataStruct/cmake-build-debug/CMakeFiles/hillSort.dir
 D:/C_Study/WorkSpace/Cpp_Study/08DataStruct/cmake-build-debug/CMakeFiles/KMP_WangDao.dir
 D:/C_Study/WorkSpace/Cpp_Study/08DataStruct/cmake-build-debug/CMakeFiles/testHeroString.dir
 D:/C_Study/WorkSpace/Cpp_Study/08DataStruct/cmake-build-debug/CMakeFiles/countChar.dir
@@ -121,5 +119,11 @@ D:/C_Study/WorkSpace/Cpp_Study/08DataStruct/cmake-build-debug/CMakeFiles/testDir
 D:/C_Study/WorkSpace/Cpp_Study/08DataStruct/cmake-build-debug/CMakeFiles/testUndirectedGraphWithList.dir
 D:/C_Study/WorkSpace/Cpp_Study/08DataStruct/cmake-build-debug/CMakeFiles/testDirectedGraphWithList.dir
 D:/C_Study/WorkSpace/Cpp_Study/08DataStruct/cmake-build-debug/CMakeFiles/testDirectedGraphWithCrossWordList.dir
+D:/C_Study/WorkSpace/Cpp_Study/08DataStruct/cmake-build-debug/CMakeFiles/directInsertion.dir
+D:/C_Study/WorkSpace/Cpp_Study/08DataStruct/cmake-build-debug/CMakeFiles/directInsertionWithSentry.dir
+D:/C_Study/WorkSpace/Cpp_Study/08DataStruct/cmake-build-debug/CMakeFiles/halfInsertSortWithSentry.dir
+D:/C_Study/WorkSpace/Cpp_Study/08DataStruct/cmake-build-debug/CMakeFiles/halfInsertSortWithoutSentry.dir
+D:/C_Study/WorkSpace/Cpp_Study/08DataStruct/cmake-build-debug/CMakeFiles/insertSortOfLink.dir
+D:/C_Study/WorkSpace/Cpp_Study/08DataStruct/cmake-build-debug/CMakeFiles/insertSortOfLinkWithSentry.dir
 D:/C_Study/WorkSpace/Cpp_Study/08DataStruct/cmake-build-debug/CMakeFiles/edit_cache.dir
 D:/C_Study/WorkSpace/Cpp_Study/08DataStruct/cmake-build-debug/CMakeFiles/rebuild_cache.dir
